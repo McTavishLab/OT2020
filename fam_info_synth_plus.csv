@@ -1,917 +1,917 @@
 fam_name, ott_id, broken_taxon, mrca_of_descendents, in_synth_tree, selected_descendents
-Syntrophaceae,623136,T,mrcaott140429ott226723,Leaf,-
-Dacryobolaceae,7525374,missing,ott202387,Leaf,Postia sp. 1 KUC20130808-38;Oligoporus dissectus;Oligoporus balsameus;Postia rennyi;Postia subcaesia
-Hemiaulaceae,28080,missing,None,False,
-Trichiidae,1092928,-,-,Leaf,-
-Eubacteriaceae,16703,-,-,Leaf,-
-Armatimonadaceae,257665,-,-,Leaf,-
-Barrancaceae,5917694,-,-,Leaf,-
-Dacrymycetaceae,234863,T,ott17233,Leaf,-
-Pythiaceae,775742,missing,ott555765,Node,;Pythium sp. CAL-2011c;Pythium nodosum;Halophytophthora epistomium;Pythium kandovanense;Pythium cylindrosporum;Pythium okanoganense;Pythium viniferum;Pythium scleroteichum;Pythium sp. CLE-2015d;Pythium periplocum;Pythium tracheiphilum;Pythium breve;Pythium splendens;Pythium aff. intermedium JEB-2016;Pythium ultimum;Pythium helicandrum;Pythium rostratifingens;Pythium terrestris;Halophytophthora mycoparasitica;Pythium irregulare;Pythium monospermum;Pythium urmianum;Pythium acanthophoron;Pythium barbulae;Pythium intermedium;Pythium sylvaticum;Pythium rostratum;Pythium apiculatum;Halophytophthora avicenniae;Pythium violae;Pythium myriotylum;Pythium volutum;Pythium aphanidermatum;Pythium sp. OPU809;Pythium sulcatum;Pythium flevoense;Pythium acanthicum;Pythium aff. dissotocum;Pythium sp. AL-2010;Halophytophthora polymorphica;Pythium paroecandrum;Pythium canariense;Pythium grandisporangium;Pythium porphyrae;Halophytophthora sp. NBRC 32444;Pythium iwayamai;Pythium vanterpoolii;Pythium sp. WL-2015;Pythium heterothallicum;Pythium burgundicum;Pythium cedri;Pythium angustatum;Pythium sp. UASWS0227;Pythium marsipium;Pythium perplexum;Pythium sp. LY221g;Pythium plurisporium;Salispina spinosa;Pythium adhaerens;Pythium brachiatum;Pythium conidiophorum;Pythium middletonii;Pythium nunn;Pythium glomeratum;Pythium sp. YYL-2011b;Pythium brassicum;Pythium sp. WJB-1;Pythium baisense;Pythium camurandrum;Pythium junctum;Pythium utonaiense;Pythium attrantheridium;Pythium buismaniae;Pythium contiguanum;Halophytophthora sp. WA26-091603;Pythium insidiosum;Pythium pachycaule;Pythium segnitium;Pythium carolinianum
-Trichosporonaceae,4107405,-,-,Leaf,-
-Sarcoscyphaceae,325802,-,-,Leaf,-
-Protoperidiniaceae,283431,missing,mrcaott45527ott205099,Leaf,;Protoperidinium thulesense;Protoperidinium conicum;Protoperidinium monovelum;Protoperidinium divergens;Protoperidinium cf. depressum;Protoperidinium depressum
-Cirratulidae,1067346,-,-,Leaf,-
-Scotinosphaeraceae,5233922,-,-,Leaf,-
-Colepidae,1063558,-,-,Leaf,-
-Hibberdiaceae,756854,-,-,Leaf,-
-Ruminococcaceae,761268,T,mrcaott184ott63791,Node,-
-Vibrionaceae,181213,-,-,Leaf,-
-Chromatiaceae,137782,T,mrcaott103ott1562,Node,-
-Tetraplosphaeriaceae,798147,-,-,Leaf,-
-Microthoracidae,1023410,-,-,Leaf,-
-Gromiidae,962360,missing,ott962362,Leaf,Gromia oviformis
-Heterophryidae,675699,-,-,Leaf,-
-Gigartinaceae,999794,missing,ott5275832,Node,;Chondracanthus teedei;Mazzaella affinis;Chondracanthus exasperatus;Chondrus crispus;Mazzaella splendens;Mazzaella flaccida;Chondracanthus canaliculatus
-Fragilariaceae,173960,missing,ott5342311,Node,;Asterionellopsis glacialis;Asterionellopsis socialis;Tabularia tabulata;Grammonema striatula;Asterionellopsis guyunusae;Synedra sp.;Hyalosynedra cf. laevigata;Opephora guenter-grassii;Ulnaria acus;Plagiostriata goreensis;Asterionella glacialis;Asterionella formosa;Fragilaria sp. D-47;Synedra sp. p517;Neofragilaria nicobarica;Opephora sp. s0357;Tabularia fasciculata;Asterionellopsis tropicalis;Synedra sp. NTDMN01;Pteroncola inane;Diatoma tenuis;Tabularia sp. NY059
-Karkinorhynchidae,752611,-,-,Leaf,-
-Caliciaceae,339438,-,-,Leaf,-
-Synchaetidae,743641,-,-,Leaf,-
-Patulibacteraceae,761403,-,-,Leaf,-
-Cryptococcaceae,6382507,missing,ott183800,Node,Kwoniella sp.;;Kwoniella pini;Kwoniella shivajii;Kwoniella newhampshirensis;Cryptococcus neoformans;Kwoniella dendrophila
-Stokesiidae,373460,missing,ott49905,Leaf,;Stokesia vernalis;Stokesia sp. WS-2014
-Phaeocystaceae,826969,missing,None,False,
-Halteriidae,129116,missing,ott899768,Node,Meseres corlissi;;Halteria sp. bBoG1;Halteria grandinella
-Parvularculaceae,318336,-,-,Leaf,-
-Crocinitomicaceae,5886384,missing,mrcaott1100ott56697,Leaf,Candidatus Fluviicola riflensis;;Crocinitomix sp.;Fluviicola sp. YS 1.2.4;Fluviicola hefeinensis;Crocinitomix algicola;Wandonia haliotis;Lishizhenia tianjinensis;Lishizhenia caseinilytica;Salinirepens amamiensis;Fluviicola sp. THG-D9;Fluviicola sp.;Fluviicola taffensis
-Saprospiraceae,35,-,-,Node,-
-Euzebyaceae,1027631,-,-,Leaf,-
-Erythrobasidiaceae,480040,-,-,Leaf,-
-Hyphomonadaceae,101508,-,-,Leaf,-
-Spizellomycetaceae,110110,-,-,Leaf,-
-Koliellaceae,4734292,-,-,Leaf,-
-Ericaceae,66730,-,-,Leaf,-
-Cymatosiraceae,549290,missing,mrcaott28086ott595680,Leaf,;Minutocellus polymorphus;Minutocellus sp. CW-2009a;Leyanella arenaria
-Bicosoecidae,733747,-,-,Leaf,-
-Gemmataceae,5996314,-,-,Leaf,-
-Hydruraceae,884650,missing,ott4029447,Leaf,Hydrurus foetidus;Chrysonebula flava
-Dictyotaceae,48625,-,-,Leaf,-
-Crepidotaceae,493755,missing,ott493754,Leaf,;Simocybe sp. HMJAU sn;Crepidotus sphaerosporus;Crepidotus sp. PBM3463;Crepidotus subverrucisporus;Crepidotus variabilis;Crepidotus sp. 930
-Spirofilidae,311153,missing,ott899768,Node,;Pseudouroleptus caudatus;Urospinula succisa;Stichotricha aculeata
-Pseudocohnilembidae,702781,missing,ott702783,Leaf,;Pseudocohnilembus marinus;Pseudocohnilembus persalinus;Pseudocohnilembus hargisi
-Chaetosphaeriaceae,737940,-,-,Leaf,-
-Lipomycetaceae,834206,-,-,Leaf,-
-Diatrypaceae,183729,-,-,Leaf,-
-Peritromidae,683084,missing,ott683078,Leaf,Peritromus kahli
-Paenibacillaceae,68433,-,-,Leaf,-
-Thermoactinomycetaceae,68435,-,-,Leaf,-
-Thermoleophilaceae,419158,-,-,Leaf,-
-Nitrososphaeraceae,686307,-,-,Leaf,-
-Pyrenomonadaceae,1017387,missing,ott7645937,Node,;Rhinomonas sp.;Rhodomonas salina;Rhodomonas sp. M1630;Rhodomonas abbreviata;Storeatula sp. CCMP1868;Rhodomonas marina
 Aphelenchoididae,1002126,-,-,Leaf,-
-Chlorodendraceae,542100,-,-,Leaf,-
-Paramoebidae,577069,missing,mrcaott4514ott118300,Leaf,;Korotnevella jeppesenii;Korotnevella pelagolacustris;Cunea profundata;Neoparamoeba longipodia;Korotnevella hemistylolepis;Cunea thuwala;Paramoeba pemaquidensis
-Apolemiidae,536356,-,-,Leaf,-
-Micrococcaceae,146214,-,-,Leaf,-
-Moritellaceae,1039356,-,-,Leaf,-
-Corynesporascaceae,4081755,-,-,Leaf,-
-Batrachospermaceae,629576,missing,mrcaott7358ott9920,Leaf,;Batrachospermum macrosporum;Setacea atro-brasiliensis;Sheathia confusa;Sirodotia sp. 1 MOP-2013
-Mesodiniidae,182636,-,-,Leaf,-
-Eunicidae,260033,T,mrcaott42379ott113093,Leaf,-
-Amniculicolaceae,866116,-,-,Leaf,-
-Parviterribacteraceae,5885966,-,-,Leaf,-
-Pinnulariaceae,548614,missing,ott548616,Leaf,;Pinnularia sp. 9 CS-2011;Pinnularia sp. 10 CS-2011;Pinnularia cf. microstauron;Pinnularia viridiformis;Pinnularia neglectiformis;Pinnularia cf. isselana;Pinnularia substreptoraphe;Pinnularia acrosphaeria;Pinnularia subanglica;Pinnularia neomajor;Pinnularia subcommutata;Pinnularia sp. U-strain;Pinnularia sp. 5 CS-2011;Pinnularia sp. 8 CS-2011;Pinnularia sp. 6 CS-2011;Pinnularia cf. altiplanensis;Pinnularia sp. 12 CS-2011
-Ectothiorhodospiraceae,191367,T,mrcaott1562ott6385,Node,-
-Capitellidae,966425,-,-,Leaf,-
-Ulvaceae,951301,-,-,Leaf,-
-Alteromonadaceae,191371,T,mrcaott103ott1093,Node,-
-Endogonaceae,837859,-,-,Leaf,-
-Taphrinaceae,698727,-,-,Leaf,-
-Debaryomycetaceae,691987,-,-,Leaf,-
-Amphisphaeriaceae,550724,T,ott565288,Node,-
-Aeromonadaceae,160603,T,ott767314,Leaf,-
-Nordiidae,352944,-,-,Leaf,-
-Oikopleuridae,9994,-,-,Leaf,-
-Paludibacteraceae,7008054,missing,ott782539,Leaf,;Paludibacter propionicigenes;Paludibacter jiangxiensis
-Dinobryaceae,554980,missing,mrcaott6033ott15572,Node,;Poteriospumella sp.;Epipyxis aureus;Epipyxis pulchra;Dinobryon sociale;Poteriospumella lacustris;Dinobryon divergens;Dinobryon sertularia
-Mytilinidiaceae,898961,-,-,Leaf,-
-Protosteliaceae,502081,missing,mrcaott3973ott15653,Node,;Schizoplasmodiopsis amoeboidea;Clastostelium recurvatum;Schizoplasmodiopsis pseudoendospora;Schoutedamoeba minuta;Schizoplasmodium cavostelioides;Nematostelium ovatum
-Helicobacteraceae,1033801,T,mrcaott8800ott405457,Node,-
-Apiaceae,372831,-,-,Leaf,-
-Centritractaceae,1004454,missing,ott150999,Leaf,;Bumilleriopsis filiformis
-Chaetopteridae,466487,-,-,Leaf,-
-Cuniculitremaceae,5260754,-,-,Leaf,-
-Woodruffiidae,581773,missing,ott129120,Node,;Kuklikophrya ougandae;Etoschophrya inornata;Woodruffides metabolicus
-Periconiaceae,6377823,-,-,Leaf,-
-Cocconeidaceae,498484,missing,ott498483,Leaf,;Cocconeis cf. molesta;Cocconeis stauroneiformis;Cocconeis pediculus;Cocconeis placentula
-Diaporthaceae,660754,-,-,Leaf,-
-Endomicrobiaceae,5890857,missing,ott5247022,Leaf,;Endomicrobium proavitum;Candidatus Endomicrobium sp. MdDo-005;Endomicrobium sp.;Candidatus Endomicrobium trichonymphae;Candidatus Endomicrobium pyrsonymphae
-Geminibasidiaceae,4934488,-,-,Leaf,-
-Coccomyxaceae,967443,missing,ott450225,Leaf,;Coccomyxa simplex;Coccomyxa viridis;Coccomyxa subellipsoidea
-Bacteriovoracaceae,647484,-,-,Leaf,-
-Porticoccaceae,5587897,missing,ott4788251,Leaf,Porticoccus litoralis;Porticoccus hydrocarbonoclasticus;
-Hyaloscyphaceae,1047456,T,ott51652,Node,-
-Sarcosomataceae,598523,-,-,Leaf,-
-Mopaliidae,837691,T,ott161967,Leaf,-
-Filobasidiaceae,611414,-,-,Leaf,-
-Kallymeniaceae,360131,missing,ott5275832,Node,;Leiomenia cribrosa;Thamnophyllis discigera;Euthora timburtonii;Meredithia guiryorum;Callophyllis beringensis;Salishia firma;Glaphyrymenia sp. 1WA;Pugetia fragilissima
-Hypocreaceae,728370,T,ott971709,Node,-
-Monoblepharidaceae,305127,-,-,Leaf,-
-Protomycetaceae,615477,-,-,Leaf,-
-Pleurotaceae,13836,-,-,Leaf,-
-Plesiotrichopidae,374670,missing,ott331184,Node,Trochochilodon flavus;Pithites vorax
-Tetrahymenidae,319309,missing,None,False,
-Boraginaceae,147029,T,ott5261925,Leaf,-
-Stauroneidaceae,402891,missing,mrcaott148810ott187183,Leaf,;Craticula cuspidata;Craticula importuna;Stauroneis anceps;Stauroneis acuta
-Kangiellaceae,7035390,missing,ott943611,Leaf,;Kangiella sediminilitoris;Kangiella koreensis;Aliikangiella marina;Kangiella chungangensis;Pleionea sp. MEBiC06907
-Tricholomataceae,162651,T,ott1012685,Node,-
-Ceratobasidiaceae,234858,-,-,Leaf,-
-Desulfarculaceae,38916,-,-,Leaf,-
-Didymellaceae,3188,T,mrcaott4380ott4381,Leaf,-
-Rhodanobacteraceae,5912938,missing,ott648766,Leaf,;Chiayiivirga flava;Dokdonella fugitiva;Dokdonella immobilis;Frateuria aurantia;Dokdonella ginsengisoli;Rudaea sp. B0.10-151;Rudaea sp. URHD0100;Aquimonas sp. enrichment culture clone 03SUJ1;Luteibacter sp. K20-81;Tahibacter aquaticus;Rudaea sp. YC6842;Luteibacter rhizovicinus;Rhodanobacter sp. DCY112;Rudaea cellulosilytica;Rhodanobacter sp. YG-27;Dyella nitratireducens;Dyella ginsengisoli;Rudaea sp. UR 1-01;Gynumella flava (nomen rejiciendum);Dyella sp. THG-D3;Rhodanobacter lindaniclasticus
-Placidae,505674,-,-,Leaf,-
-Clostridiales Family XVII. Incertae Sedis,None,missing,mrcaott35336ott56955,Leaf,;Thermaerobacter sp.;Sulfobacillus acidophilus;Sulfobacillus sp.;Thermaerobacter subterraneus
-Terebellidae,106108,-,-,Leaf,-
-Dasyaceae,855463,missing,ott5275832,Node,Heterosiphonia japonica;Rhodoptilum plumosum;Dasya caraibica;Heterosiphonia plumosa;Dasya sp. KS-2014
-Micromonosporaceae,794945,-,-,Leaf,-
-Peridiniaceae,800482,missing,ott5246809,Node,;Peridinium fusiformis;Kryptoperidinium foliaceum;Durinskia kwazulunatalensis;Bysmatrum subsalsum;Peridinium balticum;Peridinium quinquecorne;Durinskia cf. baltica HG171;Durinskia baltica;Pentapharsodinium tyrrhenicum;Peridinium cf. umbonatum
-Lessoniaceae,753588,-,-,Leaf,-
-Neodevriesiaceae,5697099,missing,mrcaott235ott6545,Node,;Neodevriesiaceae sp. CCFEE 5569;Neodevriesia agapanthi;Neodevriesia coryneliae;Neodevriesia knoxdaviesii;Neodevriesia capensis;Neodevriesia lagerstroemiae
-Cyclobacteriaceae,91373,-,-,Leaf,-
-Echinamoebidae,838048,missing,mrcaott3973ott15653,Node,;Filamoeba nolandi;Echinamoeba silvestris;Echinamoeba exundans;Echinamoeba thermarum;Gephyramoeba sp. ATCC50654
-Brachionidae,471705,-,-,Leaf,-
-Marynidae,603367,missing,ott150037,Leaf,;Maryna ovata;Maryna umbrellata
-Phyllostictaceae,5298563,-,-,Leaf,-
-Veneridae,198197,T,mrcaott2556ott6150,Node,-
-Geobacteraceae,726987,T,mrcaott55524ott112770,Leaf,-
-Plagiocampidae,4031436,-,-,Leaf,-
-Plantaginaceae,1041309,-,-,Leaf,-
-Kondoaceae,5260747,-,-,Leaf,-
-Nephtyidae,1072318,-,-,Leaf,-
-Tremellaceae,133074,T,ott183800,Node,-
-Oocystaceae,339001,-,-,Leaf,-
-Verrucomicrobiaceae,508842,-,-,Leaf,-
-Nectriaceae,104185,T,ott971709,Node,-
-Brachytheciaceae,79118,T,mrcaott3217ott11158,Leaf,-
-Intrasporangiaceae,231761,-,-,Leaf,-
-Nitrospinaceae,706687,-,-,Leaf,-
-Schizophyllaceae,8354,-,-,Leaf,-
-Bulleraceae,6382500,missing,mrcaott20826ott83205,Node,Bullera alba;Fonsecazyma betulae;Pseudotremella moriformis;Bullera sp. VY-86;Genolevuria amylolytica;Bullera unica;Fonsecazyma tronadorensis;Genolevuria bromeliarum;Fonsecazyma mujuensis;Bullera aff. pseudoalba IMUFRJ 51951;Genolevuria armeniaca
-Meruliaceae,42234,-,-,Leaf,-
-Uronematidae,912567,missing,ott310012,Node,Uronema sp. WS-2012;Uronemella filificum;Uronema marinum;Homalogastra setosa;Uronema heteromarinum
-Harpacticidae,639300,-,-,Leaf,-
-Enterococcaceae,910233,T,mrcaott1125ott5987,Leaf,-
-Raspailiidae,595805,T,ott588758,Node,-
-Cryptomonadaceae,303538,missing,ott7645937,Node,;Cryptomonas obovoidea;Cryptomonas borealis;Cryptomonas loricata;Cryptomonas platyuris;Cryptomonas phaseolus;Plagioselmis prolonga;Cryptomonas sp. Yeonra43011B;Cryptomonas marssonii;Cryptomonas sp. CCAC 0109;Cryptomonas paramecium;Cryptomonas curvata;Cryptomonas sp. Dumo2 100310C;Plagioselmis nannoplanctica;Cryptomonas sp. CNUCRY 75;Chilomonas sp. M1303;Cryptomonas tetrapyrenoidosa;Cryptomonas sp. M2089;Cryptomonas ovata;Cryptomonas sp. M2807;Cryptomonas pyrenoidifera
-Planomonadidae,494997,missing,ott500559,Leaf,;Planomonas micra;Fabomonas tropica
-Leucosporidiaceae,898250,-,-,Leaf,-
-Pannariaceae,626527,-,-,Leaf,-
-Gemmatimonadaceae,264370,-,-,Leaf,-
-Granulosicoccaceae,377598,-,-,Leaf,-
-Erwiniaceae,5998854,T,mrcaott103ott9270,Leaf,-
-Auriculariaceae,434121,-,-,Node,-
-Chaetomiaceae,137202,-,-,Leaf,-
-Apiosporaceae,425420,-,-,Leaf,-
-Amanitaceae,445863,-,-,Leaf,-
-Rutstroemiaceae,620522,-,-,Leaf,-
-Salpingoecidae,1066307,-,-,Leaf,-
-Ignavibacteriaceae,50759,-,-,Leaf,-
-Surirellaceae,397779,missing,mrcaott60031ott1081714,Node,;Surirella sp. DA1;Stenopterobia sp. 50;Surirella ovalis;Cymatopleura solea;Cymatopleura elliptica;Campylodiscus clypeus;Surirella sp.;Surirella striatula;Surirella cf. tenuissima
-Mucoraceae,167677,-,-,Leaf,-
-Thyridariaceae,5345477,-,-,Leaf,-
-Sneathiellaceae,354000,-,-,Leaf,-
-Cordycipitaceae,419069,T,ott971709,Node,-
-Adinetidae,787513,-,-,Leaf,-
-Euglenaceae,287927,T,mrcaott4961ott4964,Leaf,-
-Crassulaceae,509332,-,-,Leaf,-
-Aphanochaetaceae,1018092,-,-,Leaf,-
-Beijerinckiaceae,377931,-,-,Node,-
-Holostichidae,2992,missing,ott899768,Node,;Holosticha heterofoissneri;Anteholosticha randani;Anteholosticha pulchra;Holosticha sp. WJC-2003;Anteholosticha manca;Holosticha diademata;Holosticha cf. heterofoissneri;Anteholosticha pseudomonilata;Holosticha multistylata;Anteholosticha monilata;Holosticha muuiensis;Holosticha bradburyae;Anteholosticha marimonilata
-Physalacriaceae,1082072,-,-,Leaf,-
-Leucobryaceae,1023962,T,mrcaott14541ott124912,Leaf,-
-Umbelopsidaceae,5257415,-,-,Leaf,-
-Symbiobacteriaceae,245885,-,-,Leaf,-
-Clavariaceae,729017,-,-,Leaf,-
-Babesiidae,1006159,missing,ott826546,Leaf,;Babesia caballi;Babesia sp. BiCM002;Babesia divergens;Babesia microti;Babesia canis
 Staphylococcaceae,949800,-,-,Leaf,-
-Conexibacteraceae,346713,-,-,Leaf,-
-Monodopsidaceae,423011,missing,ott93302,Node,;Nannochloropsis limnetica;Nannochloropsis oceanica;Nannochloropsis granulata
-Gomphaceae,146473,T,ott822495,Node,-
-Tontoniidae,880865,missing,None,False,;Pseudotontonia sp. JG-2011a
-Planococcaceae,589416,T,mrcaott3174ott3911,Leaf,-
-Trichodinidae,1013757,missing,ott16124,Leaf,;Trichodina meretricis;Trichodina domerguei;Urceolaria korschelti
-Chironomidae,661367,-,-,Leaf,-
-Brucellaceae,828127,-,-,Leaf,-
-Sphaerobacteraceae,282093,-,-,Leaf,-
-Pichiaceae,821913,-,-,Leaf,-
-Glomeraceae,157950,-,-,Leaf,-
-Nocardiaceae,231769,T,mrcaott292ott7821,Node,-
-Coxiellaceae,899058,T,mrcaott719ott162734,Leaf,-
-Strombidiidae,17841,missing,ott810565,Leaf,Spirostrombidium apourceolare;;Strombidium sulcatum;Novistrombidium sinicum;Strombidium stylifer;Spirostrombidium agathae;Strombidium inclinatum;Strombidium sp. JG-2011a;Parallelostrombidium paralatum;Novistrombidium orientale;Strombidium cuneiforme;Omegastrombidium elegans;Strombidium oculatum;Laboea strobila;Strombidium hausmanni;Strombidium rassoulzadegani
-Closteriaceae,897407,-,-,Leaf,-
-Vexilliferidae,753956,missing,mrcaott4514ott118300,Leaf,Vexillifera bacillipedes;Vexillifera expectata;Pseudoparamoeba pagei;Vexillifera tasmaniana
-Dunaliellaceae,979509,-,-,Leaf,-
-Pseudoalteromonadaceae,462337,-,-,Leaf,-
-Longidoridae,760954,-,-,Leaf,-
-Geminigeraceae,1017388,missing,ott7645937,Node,;Geminigera cryophila;Guillardia theta;Teleaulax amphioxeia;Teleaulax acuta;Proteomonas sulcata
-Pisolithaceae,1033613,missing,ott1075176,Leaf,Pisolithus albus;Pisolithus arhizus;Pisolithus sp. ECV3205
-Corallinaceae,238997,-,-,Leaf,-
-Chthonomonadaceae,655594,-,-,Leaf,-
-Rivulariaceae,77233,missing,None,False,;cf. Calothrix sp. muscicolous cyanobiont 5;Calothrix sp. LEGE 07177
-Neisseriaceae,286853,-,-,Leaf,-
-Synchytriaceae,535290,-,-,Leaf,-
-Pyronemataceae,620530,-,-,Leaf,-
-Clavicipitaceae,969668,T,ott971709,Node,-
-Spionidae,912396,-,-,Leaf,-
-Balamuthiidae,509184,missing,ott739233,Leaf,Balamuthia mandrillaris
-Agalmatidae,15312,T,mrcaott15308ott15310,Leaf,-
-Funariaceae,821348,T,mrcaott7813ott86154,Leaf,-
-Cryptosporangiaceae,201800,-,-,Leaf,-
-Melosiraceae,753587,missing,ott1098671,Leaf,;Melosira nummuloides;Melosira sp. TN-2014;Melosira sp. 52;Melosira varians;Melosira ambiqua
-Achnanthidiaceae,573377,missing,ott5342311,Node,Achnanthidium coarctatum;Lemnicola hungarica;Achnanthidium minutissimum
-Lentimicrobiaceae,5886140,-,-,Leaf,-
-Magnaporthaceae,168443,T,ott971709,Node,-
-Didiniidae,1013763,missing,ott636700,Leaf,;Cyclotrichium cyclokaryon
-Golfingiidae,76597,-,-,Leaf,-
-Leptophryidae,7529907,missing,ott319941,Leaf,;Leptophryidae sp. BAra1;Platyreta germanica
-Rubricoccaceae,5886373,missing,ott519779,Leaf,Rubricoccus marinus;;Rubrivirga profundi
-Eocronartiaceae,647378,-,-,Leaf,-
-Trigonostomidae,304605,-,-,Leaf,-
-Micropepsaceae,7023621,-,-,Leaf,-
-Thiotrichaceae,193073,T,mrcaott1562ott12573,Node,-
-Catenulaceae,336419,missing,ott5342311,Node,;Amphora normanii;Amphora sp. C10;Amphora laevis;Amphora sp. MBIC10098;Catenulaceae sp. 97;Amphora montana;Catenulaceae sp. 94;Amphora delicatissima;Amphora sp. 58;Amphora cf. capitellata;Amphora sp. 38;Undatella sp. p446;Amphora coffeiformis;Amphora sp. CCMP2378
-Trachelostylidae,897465,missing,ott899768,Node,Cotterillia bromelicola;;Trachelostyla pediculiformis;Lamtostyla salina
-Ardenticatenaceae,5245629,missing,ott5249222,Leaf,Ardenticatena maritima;Candidatus Promineofilum breve
-Metopidae,627087,missing,ott1004604,Leaf,;Metopidae sp. aLdG3;Heterometopus palaeformis;Metopus es;Brachonella contorta
-Rubritaleaceae,4015049,-,-,Leaf,-
-Pucciniaceae,809206,-,-,Leaf,-
-Trichocomaceae,22936,T,ott800595,Leaf,-
-Myrmecridiaceae,5982357,-,-,Leaf,-
-Enterobacteriaceae,424023,T,ott844192,Node,-
-Pleosporaceae,699905,-,-,Leaf,-
-Thoracosphaeraceae,4924792,T,mrcaott32008ott32010,Leaf,-
-Condylostomatidae,159782,missing,ott142537,Leaf,;Condylostoma spatiosum;Condylostoma arenarium;Condylostomides sp. NMF-2015
-Tuberaceae,526210,-,-,Leaf,-
-Mastigamoebidae,815958,T,mrcaott902342ott958215,Leaf,-
-Nitrosomonadaceae,728498,-,-,Leaf,-
-Chromobacteriaceae,5580669,-,-,Leaf,-
-Rep1,None,missing,None,False,
-Cyphoderiidae,639619,-,-,Leaf,-
-Bryaceae,548799,-,-,Leaf,-
-Flosculariidae,681210,-,-,Leaf,-
-Deinococcaceae,577715,-,-,Leaf,-
-Albatrellaceae,684071,T,mrcaott82940ott140762,Leaf,-
-Haliphthoraceae,896048,missing,ott555765,Node,;Haliphthoros sp. NJM 0034;Haliphthoros milfordensis
-Chlorociboriaceae,6379217,missing,ott694200,Leaf,Chlorociboria aeruginosa
-Sordariaceae,572453,-,-,Leaf,-
-Gonostomatidae,7528843,missing,ott564872,Leaf,;Gonostomum namibiense;Gonostomum strenuum;Gonostomum sp. MD-2012;Gonostomum sinicum;Gonostomum affine
-Stephanoecidae,349984,-,-,Leaf,-
-Amphidomataceae,57001,-,-,Leaf,-
-Teratosphaeriaceae,234186,T,mrcaott235ott6545,Node,-
-Sandaracinaceae,203809,-,-,Leaf,-
-Isosphaeraceae,5896423,-,-,Leaf,-
-Achnanthaceae,166701,missing,ott5342311,Node,;Achnanthes brevipes;Planothidium lanceolatum
-Klebsormidiaceae,799388,-,-,Leaf,-
-Oikomonadaceae,997595,missing,mrcaott6033ott15572,Node,Oikomonas sp. SA-2.2;Oikomonas sp. SA-2.1
-Symbiodiniaceae,76229,missing,ott797783,Leaf,Symbiodinium sp. JCUCS-1;;Symbiodinium sp. RCC2640;Symbiodinium sp. clade A
-Phallaceae,595719,T,mrcaott14806ott30573,Leaf,-
-Ophiocordycipitaceae,419068,T,ott971709,Node,-
-Solibacteraceae,1040234,missing,ott746305,Leaf,Candidatus Solibacter usitatus
-Onuphidae,1025751,T,mrcaott42379ott140961,Node,-
-Bacteroidaceae,41369,T,mrcaott13148ott24308,Leaf,-
-Aphanothecaceae,5575172,missing,ott4773871,Leaf,Candidatus Atelocyanobacterium thalassa
-Coniophoraceae,404713,T,mrcaott109ott9895,Node,-
-Atheliaceae,537242,T,mrcaott109ott9895,Node,-
-Thigmophryidae,4029809,-,-,Leaf,-
-Cortinariaceae,5344590,T,ott1012685,Node,-
-Aspidiscidae,700383,missing,ott700370,Leaf,Aspidisca fusca;Aspidisca steini
-Vannellidae,780586,missing,mrcaott4514ott4515,Node,;Vannella sp. ISOKONT;Paravannella minima;Vannella sp. BAK1;Vannella sp. KONT2Pe;Vannella epipetala;Vannella sp. ISCRH;Vannella sp. JRF2;Platyamoeba contorta;Vannella sp. S98M54F;Vannella sp. ELH3;Ripella tribonemae;Vannella pentlandii;Vannella sp. ELH5;Platyamoeba sp. strain SBV1/I
-Angulomycetaceae,3685328,-,-,Leaf,-
-Oxalobacteraceae,1036630,-,-,Leaf,-
-Acanthamoebidae,164913,missing,ott509187,Node,;Acanthamoeba sp.;Acanthamoeba polyphaga;Acanthamoeba hatchetti;Acanthamoeba castellanii;Acanthamoeba sp. KA/E3;Acanthamoeba sp. KA/E21;Acanthamoeba sp. KA/E18;Acanthamoeba sp. isolate U/E10;Acanthamoeba sp. KA/E28;Acanthamoeba genotype T4;Luapeleamoeba arachisporum;Acanthamoeba lenticulata
-Coniothyriaceae,5345468,-,-,Leaf,-
-Lentitheciaceae,866123,-,-,Leaf,-
-Phaffomycetaceae,529465,-,-,Leaf,-
-Erysipelotrichaceae,5248084,T,mrcaott4061ott167751,Leaf,-
-Paraglomeraceae,398097,-,-,Leaf,-
-Bionectriaceae,1038708,T,ott971709,Node,-
-Clupeidae,175436,T,ott5541314,Leaf,-
-Tubeufiaceae,1051949,-,-,Leaf,-
-Sympoventuriaceae,5345111,-,-,Leaf,-
-Veillonellaceae,90757,T,ott272720,Node,-
-Bothrioplanidae,257325,-,-,Leaf,-
-Beroidae,570649,-,-,Leaf,-
-Corticiaceae,464881,T,mrcaott109ott33764,Node,-
-Chytridiaceae,319466,T,mrcaott43479ott155498,Node,-
-Lasiosphaeriaceae,234778,-,-,Leaf,-
-Sargassaceae,1022962,-,-,Leaf,-
-Desulfovibrionaceae,385234,-,-,Leaf,-
-Phlaeothripidae,788835,-,-,Leaf,-
-Urechidae,954047,-,-,Leaf,-
-Peniophoraceae,377012,T,mrcaott109ott9895,Node,-
-Fossombroniaceae,54102,-,-,Leaf,-
-Thermomonosporaceae,1050974,T,mrcaott1403ott8433,Node,-
-Haliscomenobacteraceae,7010595,missing,ott35,Node,;Candidatus Haliscomenobacter calcifugiens;Haliscomenobacter sp. JJ019;Haliscomenobacter hydrossis;Phaeodactylibacter xiamenensis;Portibacter sp. KC69;Phaeodactylibacter luteus
-Cytheruridae,212764,-,-,Leaf,-
-Phyllophoraceae,411728,missing,None,False,;Gymnogongrus sp. HugheyJ_6.vii.96
-Halomonadaceae,578817,-,-,Leaf,-
-Schizosaccharomycetaceae,990009,-,-,Leaf,-
-Poaceae,508090,-,-,Leaf,-
-Neidiaceae,72354,missing,ott593706,Leaf,Neidium bisulcatum;;Neidium productum;Neidium affine
-Lamiaceae,544714,-,-,Leaf,-
-Lyophyllaceae,1048880,-,-,Leaf,-
-Minutisphaeraceae,5683049,missing,None,False,;Minutisphaera sp. G156-2;Minutisphaera aspera
-Alphamycetaceae,752067,-,-,Leaf,-
-Piskurozymaceae,5985468,-,-,Leaf,-
-Cyrtolophosididae,209364,-,-,Leaf,-
-Oceanospirillaceae,767327,-,-,Leaf,-
-Bogoriellaceae,118091,-,-,Leaf,-
-Sinobacteraceae,5912707,missing,ott193065,Node,;Solimonas aquatica;Solimonas sp. CDMK;Sinobacteraceae bacterium;Nevskia persephonica;Nevskia aquatilis;Nevskia soli;Sinimarinibacterium flocculans;Nevskia sp. SG73;Nevskia ramosa;Steroidobacter sp. JC2953;Steroidobacter flavus;Steroidobacter denitrificans;Povalibacter sp.;Hydrocarboniphaga daqingensis;Steroidobacter agariperforans;Alkanibacter difficilis;Panacagrimonas perspica;Solimonas terrae;Solimonas sp. p11(2011);Nevskia terrae;Povalibacter uvarum
-Prayidae,619449,T,mrcaott15308ott110785,Node,-
-Synergistaceae,437906,-,-,Leaf,-
-Mesostigmataceae,469250,-,-,Leaf,-
-Oleaceae,23723,-,-,Leaf,-
-Thraustochytriaceae,164906,-,-,Leaf,-
-Tobrilidae,5000230,-,-,Leaf,-
 Amoebophilaceae,5586154,missing,ott4768028,Leaf,;Candidatus Amoebophilus asiaticus
-Histionidae,1051899,missing,ott429200,Leaf,Reclinomonas americana;
-Dothideaceae,708964,-,-,Leaf,-
-Entomophthoraceae,167672,-,-,Leaf,-
-Myriangiaceae,295792,-,-,Leaf,-
-Kriegeriaceae,661204,-,-,Leaf,-
-Pseudeurotiaceae,555371,missing,None,False,;Pseudogymnoascus destructans;Pseudogymnoascus sp. NWHC 44736-43-01-01B;Pseudeurotium bakeri;Geomyces sp. 12NJ08;Pseudeurotium sp.;Pseudogymnoascus bhattii;Geomyces auratus;Geomyces sp. APA-2013;Pseudogymnoascus sp. BM-2009-4;Gymnostellatospora japonica;Leuconeurospora pulcherrima;Pseudogymnoascus pannorum;Pleuroascus nicholsonii
-Hominidae,770311,T,ott842867,Leaf,-
-Botrydiaceae,795537,-,-,Leaf,-
-Coleofasciculaceae,5586461,missing,None,False,;Coleofasciculus chthonoplastes;Wilmottia murrayi;cf. Wilmottia sp. CAWBG522;Geitlerinema sp. BBD
-Plasmodiophoridae,680235,missing,ott423155,Leaf,Phagomyxa bellerocheae;Spongospora subterranea
-Polynoidae,1067347,-,-,Leaf,-
-Thecamoebida,526383,-,-,Leaf,-
-Cercomonadidae,554898,-,-,Leaf,-
-Didymosphaeriaceae,81518,-,-,Leaf,-
-Pleurosigmataceae,518854,missing,ott5342311,Node,;Gyrosigma fasciola;Pleurosigma sp. 102;Pleurosigma intermedium
-Neochloridaceae,132568,-,-,Leaf,-
-Naviculaceae,172205,missing,ott5342311,Node,;Haslea provincialis;Haslea ostrearia;Navicula pseudacceptata;Navicula sp. AT-145.08;Rossia sp. TF-2014;Eolimna subminuscula;Mayamaea permitis;Fistulifera pelliculosa;Pinnunavis sp. 118;Navicula sp. Nav.I;Eolimna minima;Caloneis amphisbaena;Navicula cari;Geissleria decussis;Navicula diserta;Haslea nipkowii;Navicula symmetrica;Navicula perminuta;Navicula sp. ETS 07;Navicula sp. BOLD:AAO6950;Navicula sp. BOLD:AAO6951;Haslea crucigera;Navicula cryptocephala;Haslea sp. CCMP1981;Hippodonta capitata;Haslea wawrikae;Rossia sp. CH2;Haslea salstonica;Navicula ramosissima;Navicula pulchripora;Fistulifera saprophila;Navicula phyllepta;Navicula salinicola;Mayamaea atomus;Haslea pseudostrearia;Fistulifera solaris;Haslea karadagensis;Dickieia ulvacea;Navicula minima
-Bdellovibrionaceae,469981,-,-,Leaf,-
-Paraphysomonadaceae,783304,missing,ott783302,Leaf,;Paraphysomonas foraminifera;Paraphysomonas bandaiensis;Paraphysomonas sp.;Paraphysomonas hebes;Paraphysomonas sp. 8 JMS-2012;Paraphysomonas sp. HD;Paraphysomonas uniformis;Paraphysomonas butcheri;Paraphysomonas imperforata
-Methylobacteriaceae,139533,T,mrcaott1492ott5822,Node,-
-Psathyrellaceae,934913,T,mrcaott8756ott14578,Leaf,-
-Acanthoecidae,726081,-,-,Leaf,-
-Caldilineaceae,533636,-,-,Node,-
-Legeriomycetaceae,463510,-,-,Leaf,-
-Litonotidae,215592,missing,ott69444,Leaf,Loxophyllum sp. DJ08110901;Epiphyllum shenzhenense
-Stereaceae,934885,T,mrcaott471ott5265,Node,-
-Rhodomelaceae,674033,missing,ott5275832,Node,;Polysiphonia sp. 1Cal;Chondria dangeardii;Chondria sp. ARS-2010;Osmundea spectabilis;Laurencia mcdermidiae;Polysiphonia stricta;Chondrophycus sp.;Neosiphonia confusa;Polysiphonia pacifica;Laurencia sp.;Lophocladia sp. ARS-2011;Osmundaria fimbriata;Chondria sp.;Odonthalia floccosa;Chondria coerulescens;Laurencieae sp.;Pterosiphonia sp. 3baileyi;Pterosiphonia sp. 3dendroidea;Laurenciella marilzae;Polysiphonia sertularioides;Chondrophycus succisus;Laurencia nipponica;Herposiphonia versicolor;Pterosiphonia gracilis;Neosiphonia paniculata;Acanthophora spicifera;Herposiphonia secunda;Neosiphonia yendoi;Symphyocladia dendroidea;Herposiphonia verticillata;Dictyomenia sp. 2sonderi;Wilsonosiphonia indica;Wilsonosiphonia fujiae;Laurencia snackeyi;Palisada sp.;Rhodomela lycopodioides
-Rhizopodaceae,4925961,-,-,Leaf,-
-Corynidae,641026,-,-,Leaf,-
-Amphisiellidae,84486,missing,ott899768,Node,;Hemiamphisiella terricola;Amphisiella magnigranulosa;Amphisiella aff. milnei FG-2016;Amphisiella pulchra;Orthoamphisiella sp. MD-2012
-Delesseriaceae,762359,missing,ott5275832,Node,;Hymenena sp. 3GWS;Martensia jejuensis;Caloglossa intermedia;Claudea elegans;Hypoglossum hypoglossoides;Membranoptera tenuis;Apoglossum ruscifolium;Patulophycus eclipes;Polyneuropsis stolonifera;Sorella repens;Acrosorium ciliolatum
-Colpodidae,129113,missing,ott581758,Node,Bresslaua vorax;;Colpoda steinii;Colpoda inflata;Colpoda aspera;Exocolpoda augustini;Colpoda maupasi;Colpoda sp. PRA-118
-Marasmiaceae,371255,T,ott1012685,Node,-
-Archangiaceae,939421,T,mrcaott31613ott60668,Node,-
-Cymbellaceae,974009,missing,ott5342311,Node,Placoneis elginensis;;Paraplaconeis kornevae;Placoneis minor;Placoneis clementis;Cymbella aspera;Cymbella cistuliformis;Cymbopleura naviculiformis;Encyonema sp. WJS-2015a;Cymbella bengalensis;Placoneis hambergii;Cymbella subturgidula;Encyonema sp. WJS-2015b
-Lecudinidae,227376,missing,ott884556,Leaf,Ancora cf. sagittata;;Paralecudina anankea;Lecudina polymorpha
-Kreyellidae,932226,missing,mrcaott69135ott81749,Node,;Microdiaphanosoma arcuatum;Kreyellidae sp. MD-2012
-Sanchytriaceae,7510639,missing,None,False,Sanchytrium tribonematis
-Sporichthyaceae,805873,-,-,Leaf,-
-Polykrikaceae,671275,missing,ott837193,Leaf,Polykrikos geminatum;Polykrikos kofoidii;Polykrikos lebourae;Polykrikos herdmaniae
-Paracalanidae,350914,-,-,Leaf,-
-Dothioraceae,1025079,-,-,Leaf,-
-Shewanellaceae,1039354,-,-,Leaf,-
-Heterocapsaceae,416759,missing,mrcaott172875ott445957,Leaf,;Heterocapsa rotundata;Heterocapsa pygmaea
-Frontoniidae,627608,missing,ott1002116,Node,Frontonia leucas;;Frontonia sp. 4 WS-2014;Frontonia pusilla;Disematostoma minor;Frontonia tchibisovae;Frontonia elegans;Frontonia sp.;Frontonia didieri;Frontoniidae sp. aAcq1;Frontonia sp. 1 WS-2014
-Thermomicrobiaceae,1085867,-,-,Leaf,-
-Sphingomonadaceae,810820,T,ott800600,Node,-
-Asplanchnidae,251965,-,-,Leaf,-
-Verrucariaceae,525957,-,-,Leaf,-
-Amaurobiidae,508531,T,mrcaott33580ott33585,Leaf,-
-Balneolaceae,5913266,missing,None,False,;Aliifodinibius sp. HME9836;Gracilimonas tropica;Gracilimonas sp. HME9591;Aliifodinibius roseus;Balneola sp. DG1524;Gracilimonas rosea;Gracilimonas sp. HME9573;Gracilimonas halophila
-Lineidae,971430,-,-,Leaf,-
-Chitinispirillaceae,5890864,-,-,Leaf,-
-Catenariaceae,858859,T,mrcaott235997ott747554,Leaf,-
-Desulfuromonadaceae,726990,T,mrcaott11138ott11151,Node,-
-Chaetocerotaceae,1075857,missing,mrcaott148ott26872,Leaf,;Chaetoceros sp. SS628-11;Chaetoceros sp. TG07-C28;Chaetoceros tenuissimus;Chaetoceros sp. CCAP 1010/16;Chaetoceros gracilis;Chaetoceros sp. UNC1415;Chaetoceros sp. UNC1414;Chaetoceros debilis;Chaetoceros didymus;Chaetoceros socialis;Chaetoceros sp. MBTD-CMFRI-S062;Chaetoceros radicans;Chaetoceros sp. MBTD-CMFRI-S045
-Cafeteriaceae,1045828,missing,ott5247556,Leaf,;Pseudobodo sp. KD51;Cafeteria roenbergensis;Pseudobodo tremulans;Cafeteria minima
-Phacidiaceae,164634,-,-,Leaf,-
-Hymenobacteraceae,5886300,missing,ott427259,Node,;Hymenobacter roseosalivarius;Hymenobacter terrae;Hymenobacter tibetensis;Hymenobacter sp. S1-2-2-6;Hymenobacter sp. x4r7;Pontibacter sp. RCML-11;Hymenobacter daeguensis;Rufibacter glacialis;Adhaeribacter aquaticus;Siccationidurans ginsengisoli;Adhaeribacter sp.;Pontibacter sp. MDT2-9;Adhaeribacter sp. enrichment culture clone Lpl1-269;Pontibacter deserti;Hymenobacter sp. 1-3-3-8;Hymenobacter sp. TAPP3;Siccationidurans antarcticus;Pontibacter toksunensis;Pontibacter sp.;Hymenobacter pallidus;Adhaeribacter sp. KS35;Hymenobacter sp. MIC2001;Hymenobacter sp. PAMC 26628;Hymenobacter terrenus;Hymenobacter cavernae;Siccationidurans metalli;Adhaeribacter sp. ST_BT3S_02;Adhaeribacter aerophilus;Adhaeribacter sp. TSX13-1;Pontibacter akesuensis;Hymenobacter sp. 1N-12;Hymenobacter sp. 9PNM-21;Adhaeribacter terreus;Hymenobacter koreensis;Pontibacter sp. AT03-03;Adhaeribacter aerolatus;Rufibacter immobilis;Pontibacter indicus;Hymenobacter sp.;Hymenobacter sp. 29F;Hymenobacter sp. SAFR-033;Hymenobacter qilianensis;Hymenobacter sp. TEGR-7;Pontibacter sp. HJ8;Pontibacter sp. AT03-04;Hymenobacter rubidus
-Euplotidae,975960,missing,ott5251312,Node,;Euplotes sp. SNK-2011;Moneuplotes crassus;Euplotes daidaleos;Euplotes qatarensis;Euplotes nobilii;Euplotes harpa;Euplotes dammamensis
-Adeleidae,389668,-,-,Leaf,-
-Hyalospheniidae,634872,T,mrcaott61627ott113246,Node,-
-Hartmannellidae,68592,missing,mrcaott18159ott61625,Node,;Nolandella sp. ATCC 50913;Stenamoeba sp. HP839;Saccamoeba sp. MSED6;Vermamoeba vermiformis;Hartmannella cantabrigiensis
-Entomoneidaceae,477453,missing,mrcaott60031ott115630,Node,;Entomoneis paludosa;Entomoneis sp.
-Urostylidae,1060044,missing,ott899768,Node,;Urostyla grandis;Uroleptus gallina;Paruroleptus lepisma;Holostichides heterotypicus;Tunicothrix brachysticha;Extraholosticha sylvatica;Caudikeronopsis marina;Uroleptus pisces
-Vacuolariaceae,936630,missing,ott587225,Leaf,Gonyostomum semen;Vacuolaria virescens
-Microascaceae,464774,-,-,Node,-
-Methylocystaceae,592899,-,-,Leaf,-
-Nakamurellaceae,805878,-,-,Leaf,-
-Actinochloridaceae,967446,-,-,Leaf,-
-Sorogenidae,9196,missing,ott486834,Leaf,Sorogena stoianovitchae
-Crenotrichaceae,38,-,-,Leaf,-
-Trinematidae,875559,-,-,Leaf,-
-Marinilabiliaceae,7007831,missing,ott482372,Leaf,;Thermophagus xiamenensis;Carboxylicivirga linearis;Geofilum rhodophaeum;Alkaliflexus imshenetskii;Saccharicrinis fermentans;Marinilabilia nitratireducens;Carboxylicivirga taeanensis;Labilibacter marinus;Marinilabilia salmonicolor;Alkalitalea saponilacus;Carboxylicivirga sp. JR1;Anaerophaga sp. tok2;Mangroviflexus xiamenensis
-Desulfomicrobiaceae,35689,-,-,Leaf,-
-Katablepharidaceae,269577,-,-,Leaf,-
-Chaetophoraceae,361849,-,-,Leaf,-
-Francisellaceae,912359,-,-,Leaf,-
-Pteridaceae,164361,-,-,Leaf,-
-Taeniacanthidae,644816,T,mrcaott92633ott834287,Leaf,-
-Myxotrichaceae,84168,missing,None,False,;Myxotrichum sp. 20081189;Oidiodendron griseum;Oidiodendron sp. 1 2017;Oidiodendron rhodogenum;Oidiodendron sp.;Myxotrichum deflexum;Oidiodendron tenuissimum;Oidiodendron sp. KO-groupC 2014
-Trichomeriaceae,5345482,-,-,Leaf,-
-Gonatozygaceae,684006,-,-,Leaf,-
-Tubificidae,318890,-,-,Leaf,-
-Ceratocystidaceae,826618,T,ott971709,Node,-
-Rhodobacteraceae,19981,T,mrcaott89ott721,Node,-
-Desmidiaceae,439259,-,-,Leaf,-
-Sphaerozoidae,566624,missing,ott1093165,Leaf,;Sphaerozoum punctatum
-Candidatus Brocadiaceae,454953,-,-,Leaf,-
-Orbiliaceae,293786,-,-,Leaf,-
-Rubrobacteraceae,132813,missing,ott633217,Leaf,Rubrobacter naiadicus;;Rubrobacter sp. enrichment culture clone BF65B_C5;Rubrobacter indioceani;Rubrobacter bracarensis;Rubrobacter xylanophilus;Rubrobacter taiwanensis;Rubrobacter spartanus;Rubrobacter aplysinae;Rubrobacter sp. VFA70612_S5;Rubrobacter sp. VS-111;Rubrobacter radiotolerans;Rubrobacter sp. CBF L56;Rubrobacter sp. enrichment culture clone BF64A_C25;Rubrobacter calidifluminis
-Lachnospiraceae,16694,T,mrcaott725ott1456,Node,-
-Phycisphaeraceae,822784,-,-,Leaf,-
-Nemesiidae,846217,-,-,Leaf,-
-Wenzhouxiangellaceae,5580738,-,-,Leaf,-
-Chlorococcaceae,129601,-,-,Leaf,-
-Gomontiellaceae,4016284,missing,mrcaott594ott13848,Leaf,;Crinalium sp. UMPCCC 1112;Crinalium epipsammum;Starria zimbabweensis;Hormoscilla pringsheimii
-Chrysozymaceae,5985654,missing,ott634628,Node,Slooffia pilati;;Pseudohyphozyma pustula;Sampaiozyma vanillica;Oberwinklerozyma yarrowii;Udeniozyma ferulica;Sampaiozyma ingeniosa;Bannozyma arctica;Oberwinklerozyma silvestris;Bannozyma yamatoana;Chrysozyma fushanensis;Fellozyma inositophila;Chrysozyma griseoflava;Slooffia cresolica
-Septobasidiaceae,758159,missing,None,False,Septobasidium sinuosum;Septobasidium sp. JBS-2010i;Septobasidium canescens;Septobasidium sp. 2 RG-2014;Septobasidium sp. JBO-2010f
-Lagenidiaceae,469397,missing,ott263362,Leaf,Lagenidium giganteum;Lagenidium sp. DAOM 242348;Lagenidium sp. PWL-2010f;;Lagenidium deciduum;Lagenidium sp. SLG-2014a;Lagenidium sp. PWL-2010h;Lagenidium sp. PWL-2010e;Lagenidium humanum
-Bradyrhizobiaceae,810830,-,-,Leaf,-
-Rhizophydiaceae,894419,-,-,Leaf,-
-Amphipleuraceae,257726,missing,ott5342311,Node,;Halamphora veneta;Amphiprora alata;Amphiprora paludosa;Halamphora cf. fluminensis s0314;Frustulia gondwana;Frustulia maoriana;Frustulia vulgaris;Frustulia cf. magaliesmontana PU-2012
-Ktedonobacteraceae,818909,-,-,Leaf,-
-Tulasnellaceae,183806,-,-,Leaf,-
-Plocamiaceae,510355,missing,ott510356,Leaf,Plocamium cf. angustum 3 GWS-2011;;Plocamium cf. cartilagineum NZ 2 GWS-2011;Plocamium cf. angustum NZ 2 GWS-2011;Plocamium maggsiae;Plocamium fimbriatum;Plocamium cf. cirrhosum 2 GWS-2011;Plocamium cartilagineum;Plocamium cf. angustum 1 GWS-2011;Plocamium sp. Aus 3 GWS-2011;Plocamium preissianum;Plocamium telfairiae
-Ulotrichaceae,603,-,-,Leaf,-
-Onygenaceae,958144,T,mrcaott7943ott58011,Node,-
-Cephalothecaceae,649020,-,-,Leaf,-
-Gallionellaceae,548549,-,-,Leaf,-
-Streptococcaceae,175916,-,-,Leaf,-
-Chthamalidae,663620,T,mrcaott6741ott6742,Leaf,-
-Geoglossaceae,34358,-,-,Leaf,-
-Piscicolidae,251556,-,-,Leaf,-
-Saprolegniaceae,827185,missing,ott555765,Node,;Aphanomyces cochlioides;Aphanomyces euteiches;Achlya papillosa;Saprolegnia monilifera;Leptolegnia caudata;Saprolegnia sp. SAP4;Protoachlya paradoxa;Saprolegnia parasitica;Aphanomyces iridis;Achlya racemosa;Newbya spinosa;Aphanomyces laevis;Saprolegnia turfosa;Achlya radiosa;Achlya conspicua;Achlya oligacantha;Aphanomyces invadans;Achlya sparrowii;Saprolegnia ferax;Achlya hypogyna;Achlya bisexualis;Leptolegnia chapmanii;Achlya apiculata;Achlya americana;Aplanopsis terrestris;Achlya flagellata;Achlya dubia;Achlya recurva;Saprolegnia megasperma;Saprolegnia sp. SAP3;Aphanomyces astaci;Pythiopsis terrestris;Achlya caroliniana;Achlya sp. MNS-2014a;Saprolegnia eccentrica;Achlya ambisexualis;Aphanomyces cladogamus
-Scytosiphonaceae,303539,-,-,Leaf,-
-Cytophagaceae,25,T,ott427259,Node,-
-Chytriomycetaceae,5219615,-,-,Leaf,-
-Rhizophlyctidaceae,5219619,-,-,Leaf,-
-Polygonaceae,904376,-,-,Leaf,-
-Thelephoraceae,607536,-,-,Leaf,-
-Salicaceae,530183,-,-,Leaf,-
-Didymiaceae,41196,T,ott1064655,Node,-
-Acidiferrobacteraceae,5587967,missing,mrcaott1562ott6385,Node,;Sulfuricaulis limicola;Sulfurifustis variabilis
-Dicranophoridae,513189,-,-,Leaf,-
-Nocardioidaceae,856867,T,mrcaott7026ott12648,Leaf,-
-Styelidae,103750,-,-,Leaf,-
-Melanogastraceae,82495,missing,mrcaott4352ott18577,Leaf,;Melanogaster sp. SOC1321;Alpova trappei;Alpova sp. TK1622;Melanogaster variegatus;Melanogaster ambiguus;Alpova alpestris;Alpova diplophloeus;Melanogaster euryspermus
-Haematococcaceae,391062,-,-,Leaf,-
-Fissidentaceae,981711,-,-,Leaf,-
-Carnobacteriaceae,68422,T,mrcaott975ott4059,Leaf,-
-Enchelyidae,1013765,missing,ott613620,Leaf,Enchelys polynucleata
-Sporormiaceae,335006,-,-,Leaf,-
-Cunninghamellaceae,887966,-,-,Leaf,-
-Cupressaceae,620757,-,-,Leaf,-
-Flammeovirgaceae,494050,T,mrcaott4495ott4998,Node,-
-Acetobacteraceae,551974,-,-,Leaf,-
-Halieaceae,4790589,missing,mrcaott103ott1093,Node,;Haliea sp. ETY-NAG;Pseudohaliea rubra;Arctic sea ice bacterium ARK10038;Chromatocurvus halotolerans;Marimicrobium arenosum;Haliea sp. DSW4-36;Parahaliea aestuarii;marine gamma proteobacterium HTCC2246;Halioglobus pacificus;Halieaceae bacterium U0301
-Provorticidae,343603,-,-,Leaf,-
-Peptococcaceae,16701,T,mrcaott2035ott5991,Node,-
-Oxytrichidae,1060048,-,-,Leaf,-
-Plectosphaerellaceae,989246,T,ott971709,Node,-
-Rhodothermaceae,519779,-,-,Leaf,-
-Melanommataceae,566526,-,-,Leaf,-
-Bryobacteraceae,7001977,-,-,Leaf,-
-Trueperaceae,557746,-,-,Leaf,-
-Kallotenuaceae,5580351,-,-,Leaf,-
-Chaetopeltidaceae,311484,-,-,Leaf,-
-Stemonitidae,1037479,-,-,Leaf,-
-Saccotheciaceae,5347805,missing,ott1025079,Leaf,;Saccothecium rubi;Aureobasidium sp.;Aureobasidium iranianum;Aureobasidium sp. 13 KW-2015;Aureobasidium pullulans
-Malawimonadidae,935430,missing,ott592946,Leaf,Malawimonas californiana;Malawimonas sp. strain 249
-Chaetomellaceae,5980351,-,-,Leaf,-
-Serendipitaceae,5674334,-,-,Leaf,-
-Typhloplanidae,110831,-,-,Leaf,-
-Metschnikowiaceae,668443,-,-,Leaf,-
-Pseudourostylidae,425255,missing,ott899768,Node,Pseudourostyla nova;Nothoholosticha fasciola
-Lycoperdaceae,558970,missing,ott1012685,Node,;Handkea fumosa;Bovista dermoxantha;Lycoperdon pusillum;Calvatia fragilis;Disciseda candida;Vascellum curtisii;Bovista plumbea;Calvatia pachydermica;Bovista aestivalis;Lycoperdon subcretaceum;Lycoperdon pyriforme;Handkea utriformis;Lycoperdon sp. H20;Holocotylon brandegeeanum
-Leptomyxidae,739236,missing,ott263578,Leaf,Leptomyxa reticulata
-Irpicaceae,7525476,missing,mrcaott6711ott6854,Node,Ceriporia purpurea;Gloeoporus taxicola;Meruliopsis sp. UC2023018;Emmia lacerata
-Ovulinatidae,166755,-,-,Leaf,-
-Holophagaceae,684987,-,-,Leaf,-
-Sabellidae,992906,-,-,Leaf,-
-Chitinophagaceae,1097171,-,-,Leaf,-
-Polytrichaceae,821352,-,-,Leaf,-
-Warnowiaceae,821615,missing,ott5251327,Node,;Nematodinium sp. BSL-2009a;Warnowia sp. BSL-2009a
-Calditrichaceae,7017257,missing,ott4019026,Leaf,;Caldithrix abyssi;Caldithrix palaeochoryensis;Caldithrix sp. Fe55_20
-Ditrichaceae,195711,T,mrcaott1769ott87462,Node,-
-Myzocytiopsidaceae,300184,missing,ott555765,Node,;Myzocytiopsis subuliformis;Myzocytiopsis osiris;Myzocytiopsis glutinospora;Myzocytiopsis sp. venatrix;Chlamydomyzium dictyuchoides
-Aspergillaceae,5261956,missing,ott800595,Leaf,;Aspergillus petersonii;Aspergillus terreus;Aspergillus nomius;Penicillium brevicompactum;Aspergillus ficuum;Penicillium citreonigrum;Penicillium citrinum;Aspergillus sp. NRRL 145;Penicillium adametzii;Penicillium glabrum;Aspergillus pseudoglaucus;Penicillium spinulosum;Aspergillus europaeus;Penicillium digitatum;Aspergillus ochraceus;Penicillium sp. GZU-BCECYN45-1;Penicillium sp.;Aspergillus pseudodeflectus;Aspergillus kawachii;Aspergillus janus;Aspergillus chlamydosporus;Aspergillus udagawae;Aspergillus cibarius;Aspergillus sp.;Penicillium sp. OTU060 AN-2016;Penicillium manginii;Penicillium janthinellum;Aspergillus penicillioides;Penicillium polonicum;Penicillium sp. GW_OTU49;Penicillium nordicum;Thysanophora penicillioides;Aspergillus westerdijkiae;Aspergillus fumigatus;Penicillium spathulatum;Aspergillus wentii;Monascus purpureus;Penicillium humicoloides;Penicillium sp. NWHC 44736-21-02-02;Penicillium longicatenatum;Penicillium sp. ASR-191;Penicillium virgatum;Aspergillus xerophilus;Penicillium sp. ShG4C;Neosartorya sp. BAB-4715;Penicillium adametzioides;Aspergillus ustus;Penicillium sp. xz28;Penicillium sclerotiorum;Aspergillus niger;Aspergillus restrictus;Penicillium corylophilum;Penicillium sp. 4H1-S0-P5-1;Penicillium camemberti;Penicillium restrictum;Aspergillus cavernicola;Aspergillus stellatus;Penicillium hoeksii;Penicillium sp. 06VT06;Penicillium parviverrucosum;Penicillium sp. CID1245;Penicillium rubens;Aspergillus tamarii;Aspergillus flavus;Penicillium solitum;Penicillium sp. T31902FG1;Penicilliopsis zonata;Penicillium concentricum;Penicillium senticosum;Penicillium atramentosum;Aspergillus versicolor;Penicillium sp. H21;Penicillium sp. OTU059 AN-2016;Penicillium singorense;Aspergillus oryzae
-Primnoidae,84508,-,-,Leaf,-
-Cryptodifflugiidae,134340,-,-,Leaf,-
-Loxocephalidae,790730,missing,ott310012,Node,;Dexiotricha elliptica;Cardiostomatella vermiformis;Dexiotricha cf. granulosa;Paratetrahymena parawassi;Paratetrahymena sp. JJG-2008
-Helotiaceae,121698,T,ott51652,Node,-
-Sabellariidae,336912,-,-,Leaf,-
-Extremaceae,5682981,-,-,Leaf,-
-Oligoflexaceae,5580875,missing,ott4749757,Leaf,Oligoflexus tunisiensis
-Burkholderiaceae,190168,T,mrcaott90ott41935,Node,-
-Diversisporaceae,1059385,-,-,Leaf,-
-Dysteriidae,1037212,missing,ott1037220,Leaf,;Dysteria sp. CFL08120904;Dysteria nabia;Dysteria pectinata;Microdysteria decora;Dysteria ovalis;Dysteria semilunaris;Dysteria crassipes
-Sporomusaceae,5896178,missing,ott641357,Leaf,;Sporomusa aerivorans;Sporomusa sp. 2C;Desulfosporomusa polytropa;Sporomusa malonica
-Tepidisphaeraceae,5896417,-,-,Leaf,-
-Selenastraceae,441643,-,-,Leaf,-
-Syndiniaceae,9043,missing,ott151120,Leaf,;Hematodinium sp. ex Crangon crangon;Syndinium sp. ex Corycaeus sp.;Syndinium turbo
-Tetragoniomycetaceae,5260755,-,-,Leaf,-
-Labyrinthulaceae,5343245,missing,ott230522,Leaf,;Labyrinthula sp. N8;Labyrinthula sp. L93-3;Labyrinthula sp.;Labyrinthula sp. ACB-2011b;Labyrinthula sp. L72;Labyrinthula sp. ACB-2011a;Labyrinthula zosterae
-Alicyclobacillaceae,68428,-,-,Leaf,-
-Hemiselmidaceae,491173,missing,ott801159,Leaf,;Hemiselmis brunnescens;Hemiselmis virescens;Hemiselmis rufescens;Hemiselmis cryptochromatica
-Mycenaceae,4105661,T,mrcaott109ott206,Node,-
-Competibacteraceae,5247843,missing,ott5276441,Leaf,;Plasticicumulans acidivorans;Plasticicumulans lactativorans;Candidatus Competibacter phosphatis
-Thioprofundaceae,7032695,missing,ott626433,Leaf,;Thioprofundum lithotrophicum;Thioprofundum hispidum
-Pfiesteriaceae,594794,missing,mrcaott4510ott5244,Node,;Pfiesteria piscicida;Pfiesteria-like sp. CCMP1838;Cryptoperidiniopsis brodyi;Aduncodinium glandula;Pfiesteria-like sp. HR1SSeptA5;Pfiesteria-like sp. F525Jul02;Pfiesteria-like sp. NC Lucy-V27
-Peptostreptococcaceae,16707,T,mrcaott216ott19969,Leaf,-
-Syllidae,881665,-,-,Leaf,-
-Ajellomycetaceae,641832,-,-,Leaf,-
-Lecanidae,404255,-,-,Leaf,-
-Dictyonellidae,738878,T,mrcaott8837ott93865,Node,-
-Lophiostomataceae,659815,-,-,Leaf,-
-Rhogostomidae,7529863,missing,ott530173,Leaf,;Rhogostoma minus;Capsellina sp. ATCC 50039;Rhogostoma sp. CCAP 1966/4;Rhogostoma schuessleri
-Ceramiaceae,629558,missing,ott5275832,Node,;Callithamnion baileyi;Aglaothamnion sp.;Callithamnion consanguineum;Corallophila eatoniana;Aglaothamnion hookeri;Ceramium macilentum;Ceramium sungminbooi;Euptilocladia magruderi;Centroceras clavulatum;Aglaothamnion halliae;Callithamnion collabens;Aglaothamnion sp. ARS-2011
-Saccharospirillaceae,17900,-,-,Leaf,-
-Phaeosphaeriaceae,581434,T,ott18194,Node,-
-Parameciidae,106159,missing,ott568126,Leaf,;Paramecium duboscqui;Paramecium chlorelligerum;Paramecium caudatum;Paramecium buetschlii;Paramecium bursaria
-Skeletonemataceae,748247,missing,ott569303,Leaf,Skeletonema menzellii;;Skeletonema cf. pseudocostatum;Skeletonema costatum;Skeletonema sp. NIES-323;Skeletonema ardens;Skeletonema dohrnii;Skeletonema potamos;Skeletonema tropicum
-Ceratostomataceae,281842,-,-,Leaf,-
-Gigasporaceae,4815,-,-,Leaf,-
-Xylariaceae,44252,-,-,Leaf,-
-Gomphonemataceae,1033660,missing,ott5342311,Node,;Gomphonema micropus;Gomphonema clevei;Gomphoneis minuta;Didymosphenia geminata;Gomphonema parvulum;Gomphonema narodoense
-Bacillaceae,589414,T,mrcaott184ott216,Node,-
-Moraxellaceae,134473,T,mrcaott1093ott2355,Node,-
-Placospongiidae,368916,-,-,Leaf,-
-Archaeosporaceae,348833,-,-,Leaf,-
-Fabaceae,560323,-,-,Leaf,-
-Sellaphoraceae,548612,missing,ott974005,Leaf,Sellaphora laevissima;;Sellaphora auldreekie;Sellaphora pupula;Fallacia sp. Baikal_260;Sellaphora sp. 92;Sellaphora capitata;Sellaphora bacillum;Sellaphora blackfordensis;Sellaphora seminulum;Sellaphora cf. minima;Fallacia pygmaea;Fallacia cf. forcipata;Fallacia sp. 33
-Zoogloeaceae,7030372,-,-,Leaf,-
-Chlorellaceae,441644,T,mrcaott39418ott84763,Leaf,-
-Trichosphaeriaceae,123364,-,-,Leaf,-
-Helvellaceae,332569,-,-,Leaf,-
-Blastocladiaceae,469426,T,mrcaott67172ott235997,Node,-
-Pyrinomonadaceae,7002016,missing,ott5248128,Leaf,Arenimicrobium luteum;;Pyrinomonas methylaliphatogenes;Brevitalea aridisoli;Brevitalea deliciosa
-Sporocadaceae,5982737,missing,ott565288,Node,;Pestalotiopsis sp.;Seiridium cardinale;Hymenopleella hippophaeicola;Pestalotiopsis sp. YM1;Seiridium marginatum;Monochaetia dimorphospora
-Eustigmataceae,423014,missing,ott423008,Node,;Vischeria sp. CAUP Q 202;Eustigmatos magnus;Eustigmatos polyphem
-Opitutaceae,384336,-,-,Leaf,-
-Phanerochaetaceae,7505,-,-,Leaf,-
-Lactobacillaceae,445856,T,mrcaott4345ott8579,Leaf,-
-Chilodonellidae,628626,missing,ott331184,Node,;Pseudochilodonopsis sp. 1 WS-2013;Pseudochilodonopsis quadrivacuolata;Pseudochilodonopsis mutabilis;Phascolodon vorticella;Pseudochilodonopsis fluviatilis
-Thermoanaerobacteraceae,589411,T,mrcaott184ott2035,Node,-
-Microbulbiferaceae,5587892,missing,None,False,
-Basidiobolaceae,887959,-,-,Leaf,-
-Leptolyngbyaceae,5586450,missing,ott225495,Node,;Nodosilinea sp. UIC 10073;Leptolyngbya sp. 13;Trichocoleus badius;Leptolyngbya scottii;Leptolyngbya nostocorum;Nodosilinea bijugata;Leptolyngbya sp. CENA554;Leptolyngbya sp. CENA350;Leptolyngbya sp. CENA375;Nodosilinea sp. LEGE 06145;Oculatella sp. LEGE 06141;Trichocoleus desertorum;Stenomitos tremulus;Leptolyngbya sp. 10
-Frankiaceae,212307,-,-,Leaf,-
-Nitrosopumilaceae,933985,missing,None,False,;Candidatus Nitrosoarchaeum limnia;Nitrosopumilus ureiphilus;Nitrosopumilus oxyclinae
-Glaucocystaceae,664968,-,-,Leaf,-
-Mischococcaceae,126679,missing,ott517343,Leaf,Mischococcus sphaerocephalus
-Euglyphidae,247673,T,mrcaott15830ott15841,Node,-
-Tolypothrichaceae,1072898,missing,mrcaott355ott3678,Node,Tolypothrix scytonemoides;;Tolypothrix sp. UAM 333
-Bangiaceae,864269,-,-,Leaf,-
-Notommatidae,71917,-,-,Leaf,-
-Allapsidae,4005476,missing,ott122816,Leaf,Allapsa vibrans
-Ancyromonadidae,415970,missing,None,False,;Ancyromonas sp. 3b;Ancyromonas sigmoides
-Dictyochloridaceae,5602198,-,-,Leaf,-
-Eremomycetaceae,548954,missing,ott194608,Leaf,;Arthrographis arxii;Eremomyces bilateralis;Arthrographis sp. 07MA20;Arthrographis kalrae
-Rubiaceae,1014022,-,-,Leaf,-
-Aurantimonadaceae,318334,-,-,Leaf,-
-Phyllobacteriaceae,46389,T,mrcaott89ott2460,Node,-
-Nowakowskiellaceae,5394876,-,-,Leaf,-
-Plectidae,520552,-,-,Leaf,-
-Pseudokeronopsidae,790715,missing,mrcaott2981ott2983,Leaf,;Pseudokeronopsis rubra;Apokeronopsis wrighti;Apokeronopsis ovalis;Pseudokeronopsis carnea;Pseudokeronopsis flava
-Glomerellaceae,155152,-,-,Leaf,-
-Calanidae,461532,T,mrcaott6062ott17168,Node,-
-Durvillaeaceae,9570,-,-,Leaf,-
-Leptospiraceae,379258,-,-,Leaf,-
-Piptocephalidaceae,157880,-,-,Leaf,-
-Woeseiaceae,5906025,-,-,Leaf,-
-Porphyridiaceae,202888,missing,mrcaott80201ott202890,Node,;Flintiella sanguinaria;Porphyridium aerugineum;Chroodactylon ornatum;Porphyridium sp. ex foraminifera MH-2008
-Stylonemataceae,680420,-,-,Leaf,-
-Anaeromyxobacteraceae,5588715,missing,ott179328,Leaf,;Anaeromyxobacter sp. Fw109-5;Anaeromyxobacter dehalogenans
-Pythiogetonaceae,398393,-,-,Leaf,-
-Acholeplasmataceae,874208,-,-,Leaf,-
-Hyphochytriaceae,910104,missing,ott435099,Leaf,Hyphochytrium catenoides
-Rickettsiaceae,50817,-,-,Leaf,-
-Acanthocystidae,203539,-,-,Node,-
-Rhodospirillaceae,810826,T,mrcaott143ott13668,Leaf,-
-Sphenoderiidae,5288603,-,-,Leaf,-
-Stephanopyxidaceae,86156,missing,ott663107,Leaf,Stephanopyxis turris
-Mallomonadaceae,112623,-,-,Leaf,-
-Desulfobacteraceae,774775,-,-,Leaf,-
-Alariaceae,878348,-,-,Leaf,-
-Chattonellaceae,936627,missing,ott587225,Leaf,;Heterosigma akashiwo;Viridilobus marinus;Fibrocapsa japonica;Chattonella marina;Chattonella subsalsa
-Streptomycetaceae,700213,T,mrcaott73ott292,Node,-
-Cyanidiaceae,696106,missing,mrcaott2ott3973,Node,Cyanidiaceae sp. MX-AZ01;Cyanidioschyzon sp. Y16
-Laminariaceae,266749,-,-,Leaf,-
-Pseudoperisporiaceae,870738,missing,None,False,Bryochiton perpusillus;Bryochiton monascus
-Pavlovaceae,928313,missing,ott5246135,Leaf,;Pavlova ennorea;Exanthemachrysis sp. AC37;Pavlova sp. MBIC10665;Pavlova virescens;Exanthemachrysis sp. AC249;Rebecca salina;Pavlova pinguis;Pavlova lutheri
-Candidatus Paracaedibacteraceae,5900983,-,-,Leaf,-
-Scarabaeidae,340559,T,mrcaott2288ott2290,Leaf,-
-Agaricostilbaceae,1021896,T,mrcaott23276ott23291,Node,-
-Mamiellaceae,300512,-,-,Leaf,-
-Lynchellidae,331252,missing,ott331184,Node,;Lynchella sp. QD-JJM08062601;Coeloperix sp. QD FSP2008060904;Lynchella minuta;Chilodonella parauncinata
-Amphileptidae,1013756,missing,ott2824240,Leaf,Kentrophyllum setigerum;
-Ulvellaceae,1018102,-,-,Leaf,-
-Xanthobacteraceae,253957,-,-,Leaf,-
-Coniochaetaceae,812336,-,-,Leaf,-
-Dehalococcoidaceae,438716,-,-,Leaf,-
-Polyangiaceae,872663,-,-,Leaf,-
-Cyprididae,341236,-,-,Leaf,-
-Gymnoascaceae,84169,T,mrcaott7943ott7946,Node,-
-Bacillariaceae,173955,missing,ott5342311,Node,;Psammodictyon panduriforme;Fragilariopsis doliolus;Nitzschia cf. fonticola 2 RT-2009;Fragilariopsis nana;Nitzschia sp. AnM0026;Nitzschia communis;Nitzschia sp. BOLD:AAO7111;Nitzschia palea;Nitzschia cf. frustulum;Nitzschia draveillensis;Bacillaria sp.;Cylindrotheca closterium;Nitzschia vitrea;Cylindrotheca sp. RCC2608;Nitzschia aequorea;Pseudo-nitzschia pseudodelicatissima;Nitzschia linearis;Nitzschia cf. recta RT-2009;Pseudo-nitzschia heimii;Pseudo-nitzschia multiseries;Pseudo-nitzschia abrensis;Nitzschia inconspicua;Pseudo-nitzschia delicatissima;Nitzschia dissipata;Hantzschia amphioxys;Nitzschia amphibia;Nitzschia sp. NY060;Nitzschia microcephala;Nitzschia frustulum;Fragilariopsis curta;Cylindrotheca sp. RCC4822;Bacillaria paxillifer;Fragilariopsis cylindrus;Pseudo-nitzschia fraudulenta;Tryblionella apiculata;Nitzschia sp. GSL100;Nitzschia filiformis;Pseudo-nitzschia sp. RCC2619;Nitzschia supralitorea;Pseudo-nitzschia seriata;Pseudo-nitzschia australis;Pseudo-nitzschia calliantha;Nitzschia acidoclinata;Cylindrotheca fusiformis;Pseudo-nitzschia cuspidata;Nitzschia cf. promare;Pseudo-nitzschia sp. A2ni
-Colwelliaceae,462335,-,-,Leaf,-
-Platanaceae,62537,-,-,Leaf,-
-Conochilidae,1039705,-,-,Leaf,-
-Acidobacteriaceae,220312,missing,ott952528,Node,;Acidobacteriaceae bacterium enrichment culture clone ANA-RAS-33;Granulicella cerasi;bacterium Ellin6115;Granulicella mallensis;Acidicapsa sp.;Acidobacterium ailaaui;Acidobacteriaceae bacterium A2-4c;bacterium Ellin5237;Candidatus Koribacter versatilis;bacterium Ellin323;bacterium Ellin6075;Acidobacterium capsulatum;Acidobacteriaceae bacterium C27;Acidobacterium sp. SCGC AAA240-K18;Granulicella paludicola;Edaphobacter dinghuensis;Acidobacterium sp. SCGC AAA240-O11;Acidobacteriaceae bacterium Gsoil 1619;Acidobacterium sp. WY65;Granulicella sp. J3R;Acidobacteriaceae isolate WJ7;Granulicella rosea;bacterium Ellin5227;Terriglobus roseus;Terriglobus sp. L56;Granulicella pectinivorans;Acidicapsa borealis;bacterium Ellin6099;bacterium Ellin6071;Acidobacteria bacterium KBS 83;Terracidiphilus gabretensis;bacterium Ellin327;bacterium Ellin6100;Granulicella tundricola;Acidobacteriaceae bacterium CH1;Granulicella sp. 5B5;Occallatibacter savannae;Edaphobacter sp. SBC68;Acidicapsa acidisoli;bacterium Ellin5257;Acidicapsa ligni;Acidicapsa sp. CE1;Granulicella aggregans;Acidobacteriaceae bacterium Gsoil 969;Acidobacteriaceae bacterium KBS89;bacterium Ellin6074;bacterium Ellin5121;Acidobacterium sp. SCGC AAA007-K07;Occallatibacter riparius;Edaphobacter acidisoli;Granulicella sapmiensis;Acidobacterium sp. ORAC;bacterium Ellin326;Edaphobacter sp. IMSNU JC2954;bacterium Ellin371;Terriglobus saanensis;bacterium Ellin5058;Acidobacterium sp. BK18;Granulicella sp. L60;Acidobacteria bacterium KBS 96;bacterium Ellin342;Acidicapsa ferrireducens
-Pseudocharaciopsidaceae,423012,missing,ott2811414,Leaf,Pseudocharaciopsis ovalis
-Sterolibacteriaceae,7030308,missing,mrcaott90ott17019,Node,;Denitratisoma oestradiolicum;Sulfurisoma sediminicola;Sterolibacterium denitrificans;Sterolibacterium sp. TKU1;Denitratisoma sp. enrichment culture;Methyloversatilis universalis;Denitratisoma sp. TSA61;Methyloversatilis thermotolerans;Sulfuritalea hydrogenivorans;Denitratisoma sp. enrichment culture clone ANA-RAS-29;Georgfuchsia toluolica
-Hydrophyllaceae,147029,T,ott5261925,Leaf,-
-Apusomonadidae,575898,-,-,Node,-
-Pezizaceae,880965,-,-,Leaf,-
-Fusobacteriaceae,479548,-,-,Leaf,-
-Torulaceae,5348390,missing,ott699905,Leaf,;Torula masonii;Torula gaodangensis;Dendryphion europaeum;Dendryphion penicillatum;Torula herbarum;Torula acaciae;Dendryphion nanum
-Gonyaulacaceae,850166,T,mrcaott5244ott8394,Node,-
-Bakuellidae,4030697,missing,ott899768,Node,;Metaurostylopsis cheni;Bakuella incheonensis;Metaurostylopsis salina;Metaurostylopsis sinica
-Rhynchogastremataceae,4107398,-,-,Leaf,-
-Spongomonadidae,5282540,-,-,Leaf,-
-Trichomonascaceae,1073640,-,-,Leaf,-
-Botryosphaeriaceae,33903,T,ott641496,Node,-
-Triceratiaceae,85894,missing,mrcaott148ott28082,Node,Lampriscus kittonii;Pleurosira laevis
-Mycocaliciaceae,1066510,-,-,Leaf,-
-Hydrodictyaceae,425644,-,-,Leaf,-
-Isotomidae,487389,-,-,Leaf,-
-Ophiostomataceae,1099024,T,ott971709,Node,-
-Capnodiaceae,295196,-,-,Leaf,-
-Agaricaceae,8360,T,ott1012685,Node,-
-Chordariaceae,556107,T,mrcaott2378ott3345,Node,-
-Clostridiales Family XII. Incertae Sedis,None,missing,mrcaott184ott216,Node,;Acidaminobacter sp. enrichment culture clone B18;Fusibacter sp. enrichment culture;Fusibacter sp. VNs02;Acidaminobacter sp. CJ5;Fusibacter fontis;Fusibacter tunisiensis
-Bartaliniaceae,5982737,missing,ott565288,Node,;Bartalinia robillardoides;Truncatella helichrysi;Truncatella angustata;Zetiasplozna thuemenii
-Bursariidae,1016180,-,-,Leaf,-
-Bracteacoccaceae,812632,-,-,Leaf,-
-Albuginaceae,1037345,missing,ott555765,Node,;Albugo candida;Albugo lepidii;Albugo laibachii
-Ustilaginaceae,809218,T,mrcaott9098ott13162,Leaf,-
-Chroococcidiopsidaceae,5993764,missing,mrcaott355ott594,Node,Chroococcidiopsis sp. 28B;Aliterella antarctica;Chroococcidiopsis sp. MMG-6
-Cystocloniaceae,409806,missing,ott5275832,Node,;Rhodophyllis parasitica;Rhodophyllis sp. 3GWS;Calliblepharis jubata;Calliblepharis ciliata;Rhodophyllis membranacea
-Valsaceae,103004,-,-,Leaf,-
-Geraniaceae,948914,-,-,Leaf,-
-Flabellulidae,263577,missing,mrcaott263587ott358503,Leaf,;Paraflabellula sp. RT1TT;Flabellulidae sp. SMA17/I;Flabellula sp. AK-2016a;Paraflabellula hoguae
-Braconidae,678079,-,-,Leaf,-
-Hymenochaetaceae,569043,T,ott1012685,Node,-
-Ancylistaceae,167665,T,ott887960,Node,-
-Thalassiosiraceae,422796,missing,mrcaott148ott13272,Node,;Bacterosira constricta;Thalassiosira rotula;Thalassiosira minima;Minidiscus trioculatus;Detonula pumila;Thalassiosira minuscula;Minidiscus sp. RCC4810;Thalassiosira sp. RCC4792;Thalassiosira sp. RCC4793;Conticribra guillardii;Thalassiosira concaviuscula;Thalassiosira anguste-lineata;Thalassiosira weissflogii;Thalassiosira punctigera;Thalassiosira sp. A11 LG-2014;Thalassiosira mala;Thalassiosira tenera;Thalassiosira sp. UNC1417;Minidiscus sp. RCC4801;Thalassiosira aestivalis;Thalassiosira pseudonana
-Halymeniaceae,880583,missing,ott510369,Leaf,;Prionitis sp. GIg-5;Prionitis lyallii
-Kineosporiaceae,41216,-,-,Leaf,-
-Archaeorhizomycetaceae,600871,-,-,Leaf,-
-Claroideoglomeraceae,946830,-,-,Leaf,-
-Trimorphomycetaceae,6382585,missing,ott183800,Node,;Saitozyma paraflava;Trimorphomyces papilionaceus;Saitozyma flava;Saitozyma podzolica;Saitozyma ninhbinhensis
-Puniceicoccaceae,284450,T,ott793486,Node,-
-Flavobacteriaceae,246447,T,mrcaott50ott1100,Node,-
-Geodermatophilaceae,805882,-,-,Leaf,-
-Bryometopidae,60766,missing,ott360275,Leaf,Bryometopus sphagni;;Bryometopus atypicus;Bryometopus pseudochilodon
-Kofleriaceae,94318,-,-,Leaf,-
-Spongiibacteraceae,5587899,missing,mrcaott103ott1093,Node,;Zhongshania guokunii;BD1-7 clade bacterium;Oceanicoccus sp. KOV_DT_Chl;Spongiibacter marinus;Dasania marina;Spongiibacter sp. HME8849;Oceanicoccus sagamiensis;Spongiibacter sp. CC-AMW-B;Zhongshania antarctica;Spongiibacter taiwanensis
-Scenedesmaceae,651335,T,mrcaott185ott1426,Node,-
-Fibrobacteraceae,220318,-,-,Leaf,-
-Kentrophoridae,962515,-,-,Leaf,-
-Russulaceae,611412,T,ott1012685,Node,-
-Codonellidae,84211,missing,ott1071191,Leaf,;Tintinnopsis radix
-Caldicoprobacteraceae,139073,-,-,Leaf,-
-Vaucheriaceae,223421,-,-,Leaf,-
-Cyphellophoraceae,5345109,-,-,Leaf,-
-Psychromonadaceae,1039349,-,-,Leaf,-
-Ascobolaceae,880973,-,-,Leaf,-
-Inocybaceae,112540,T,mrcaott5864ott7040,Node,-
-Thaumatomastigidae,4918143,-,-,Leaf,-
-Cyaneidae,945739,-,-,Leaf,-
-Rhizosoleniaceae,748232,missing,ott5248686,Leaf,;Guinardia flaccida;Pseudosolenia calcar-avis;Proboscia alata
-Botryidiopsidaceae,754467,-,-,Leaf,-
-Nucleariidae,619451,-,-,Leaf,-
-Lithodesmiaceae,549293,missing,mrcaott712ott549288,Leaf,Ditylum brightwellii;Lithodesmioides polymorpha;Lithodesmium variabile
-Promicromonosporaceae,856874,-,-,Leaf,-
-Rhizidiomycetaceae,910109,-,-,Leaf,-
-Spathidiidae,613621,missing,ott702768,Leaf,;Spathidium rectitoratum;Spathidium papilliferum
-Suessiaceae,183161,-,-,Node,-
-Campylobacteraceae,1033810,-,-,Leaf,-
-Saccharomycetaceae,989994,-,-,Leaf,-
-Anacardiaceae,423320,-,-,Leaf,-
-Nassulopsidae,2825842,-,-,Leaf,-
-Acinetosporaceae,632598,-,-,Leaf,-
-Lewinellaceae,7010604,missing,ott275451,Leaf,;Lewinella nigricans;Lewinella maritima;Lewinella persica;Lewinella marina;Lewinella lacunae;Lewinella cohaerens;Lewinella agarilytica;Lewinella sp. SD302;Lewinella xylanilytica
-Pseudodifflugiidae,875565,missing,ott875556,Leaf,Pseudodifflugia cf. gracilis
-Chionosphaeraceae,1085835,T,mrcaott23276ott60764,Node,-
-Anaplasmataceae,904940,-,-,Leaf,-
-Olpidiaceae,41885,-,-,Leaf,-
-Nostocaceae,368778,missing,mrcaott355ott1972,Node,;Nostoc sp. SJILZ12;Mojavia sp. CMT-3FDIN-NPC3;Nostoc sp. Soos B18;Nostoc linckia;Cylindrospermum alatosporum;Nostoc sp. pmiA;Anabaena sp. XSP36B;Nostocaceae cyanobacterium TrebK2-9;Anabaena sp. 5-Kutnar09;Anabaena pirinica;Nostoc sp. Mollenhauer 1:1-067;Nostoc commune;Anabaena sp. TrebK1-26
-Idiomarinaceae,740996,-,-,Leaf,-
-Hydnodontaceae,84942,-,-,Leaf,-
-Phaselicystidaceae,914477,-,-,Leaf,-
-Malvaceae,279960,-,-,Leaf,-
-Haloplasmataceae,4766965,-,-,Leaf,-
-Raphidiophryidae,675702,-,-,Leaf,-
-Epalxellidae,1046642,-,-,Leaf,-
-Microcystaceae,4016880,missing,None,False,Microcystis sp. SAG 43.90
-Blepharismidae,159785,missing,ott76881,Leaf,;Blepharisma steini;Blepharisma americanum
-Bolbitiaceae,234956,T,mrcaott206ott11226,Leaf,-
-Rhizobiaceae,158309,T,mrcaott89ott26838,Leaf,-
-Crypthecodiniaceae,476861,missing,ott621392,Leaf,Crypthecodinium sp. CAAE-CL2;Crypthecodinium cohnii
-Macrobiotidae,111444,-,-,Leaf,-
-Mytilidae,1025541,T,mrcaott2556ott3381,Leaf,-
-Euphorbiaceae,914245,T,mrcaott345ott24237,Leaf,-
-Cochliopodiidae,767925,-,-,Leaf,-
-Platyophryidae,69130,missing,ott581771,Leaf,;Platophryidae sp. MSD-2007;Platyophrya vorax
-Nassulidae,354059,-,-,Leaf,-
-Ambisporaceae,1056814,-,-,Leaf,-
-Oedogoniomycetaceae,33394,-,-,Leaf,-
-Chelatococcaceae,7023759,missing,ott160158,Leaf,;Chelatococcus sp. P-102;Chelatococcus sp.
-Lejeuneaceae,454406,-,-,Leaf,-
-Sporidiobolaceae,4095240,T,ott634628,Node,-
-Mycobacteriaceae,759688,-,-,Leaf,-
-Exidiaceae,7524285,missing,ott133080,Leaf,;Exidia glandulosa
-Geastraceae,735798,-,-,Leaf,-
-Chroomonadaceae,1017386,missing,ott7645937,Node,Chroomonas mesostigmatica;;Falcomonas daucoides;Chroomonas sp. M1318;Chroomonas sp. M1312;Chroomonas vectensis;Falcomonas sp. CRY1V;Chroomonas coerulea;Chroomonas nordstedtii;Chroomonas sp. NIES-3913;Chroomonas sp. M1703;Chroomonas sp. M1481
-Ectocarpaceae,48627,-,-,Leaf,-
-Nigrogranaceae,7513520,-,-,Leaf,-
-Enchytraeidae,840754,-,-,Leaf,-
-Cladosporiaceae,5345481,T,ott971709,Node,-
-Alcaligenaceae,324575,T,mrcaott89ott90,Node,-
-Mortierellaceae,887963,-,-,Leaf,-
-Auriscalpiaceae,48323,T,mrcaott48338ott86960,Leaf,-
-Lichtheimiaceae,977237,-,-,Leaf,-
-Malasseziaceae,5344510,missing,None,False,;Malassezia restricta;Malassezia sympodialis;Malassezia japonica;Malassezia sp. LCP-2008a;Malassezia globosa
-Lobulomycetaceae,906923,-,-,Leaf,-
-Gaiellaceae,232866,-,-,Leaf,-
-Cavosteliaceae,502085,missing,ott431659,Leaf,Ceratiomyxella tahitiensis;Cavosteliaceae sp. M71
-Rhopalodiaceae,344386,missing,mrcaott193658ott322245,Leaf,;Epithemia sorex;Epithemia turgida;Rhopalodia gibba
-Kareniaceae,176428,T,mrcaott93910ott101878,Leaf,-
-Melioribacteraceae,5158298,missing,ott291278,Leaf,Melioribacter roseus
-Pottiaceae,947452,T,ott821346,Node,-
-Paulinellidae,247674,-,-,Leaf,-
-Selenidiidae,677743,-,-,Leaf,-
-Gautieriaceae,854146,missing,ott517654,Leaf,;Gautieria sp. HS1831USA;Gautieria otthii
-Myxococcaceae,939441,-,-,Leaf,-
-Pseudomuriellaceae,5602195,-,-,Leaf,-
-Halosphaeriaceae,809127,-,-,Leaf,-
-Rhodobiaceae,139538,-,-,Leaf,-
-Cyclopidae,451821,-,-,Leaf,-
-Venturiaceae,581435,T,mrcaott1724ott13442,Node,-
-Methylophilaceae,344389,-,-,Leaf,-
-Syntrophobacteraceae,623147,-,-,Leaf,-
-Anisolpidiaceae,4807253,-,-,Leaf,-
-Eudubosquellidae,453569,missing,ott1080723,Leaf,Euduboscquella sp. ex Tintinnopsis cf. subacuta;;Euduboscquella sp. ex Favella panamensis;Euduboscquella sp. ex Favella arcuata
-Holosporaceae,79296,-,-,Leaf,-
-Zosteraceae,637476,-,-,Leaf,-
-Campanulariidae,945740,T,mrcaott33385ott144192,Leaf,-
-Steccherinaceae,6382178,missing,ott42234,Leaf,Steccherinum cf. fimbriatum UC2022977;;Steccherinum ochraceum;Steccherinum bourdotii;Junghuhnia carneola
-Leptosphaeriaceae,555349,T,mrcaott1320ott37385,Node,-
-Thelebolaceae,1085284,-,-,Leaf,-
-Amoebophryaceae,530383,missing,ott9042,Leaf,;Amoebophrya sp. ex Prorocentrum minimum;Amoebophrya sp. ex Gonyaulax polygramma;Amoebophrya sp. Dinophysis
-Stenostomidae,384494,-,-,Leaf,-
-Desulfobulbaceae,846631,-,-,Leaf,-
-Sirobasidiaceae,711446,-,-,Leaf,-
-Colpodellidae,737171,-,-,Leaf,-
-Philasteridae,953330,missing,ott310012,Node,;Philasterides armatalis;Entorhipidium tenue;Miamiensis avidus;Philaster sp. FG-2014;Plagiopyliella pacifica
-Powellomycetaceae,1680,-,-,Leaf,-
-Peltospiridae,787698,-,-,Leaf,-
-Cystofilobasidiaceae,740357,-,-,Leaf,-
-Massarinaceae,506843,-,-,Leaf,-
-Planctomycetaceae,839905,-,-,Leaf,-
-Chromulinaceae,908565,missing,ott266745,Node,;Pedospumella sinomuralis;Spumella sp. 37G;Pedospumella sp. LG-2014a;Pedospumella sp. JBM19;Ochromonas distigma;Ochromonas sp.;Spumella sp. 9-8-D3;Ochromonas vasocystis;Chromulina chionophila;Pedospumella encystans;Spumella sp. LG-2014b;Chromulina cf. nebulosa;Chromulinaceae sp. RCC902;Ochromonas sp. CCMP1147;Ochromonas villosa;Spumella sp. TGS1;Ochromonas tuberculata;Spumella sp. 9-1-D1;Ochromonas sp. aestuarii;Spumella danica;Uroglena sp. CCMP2768;Spumella sp. Mbc_3C;Pedospumella sp.;Ochromonas sp. CCMP1149;Spumella lacusvadosi;Ochromonas danica;Ochromonas sp. CCMP2761;Ochromonas sp. CCMP1393
-Arenicellaceae,5580747,-,-,Leaf,-
-Labilitrichaceae,5580861,missing,None,False,Labilithrix luteola
-Cephalothricidae,57430,-,-,Leaf,-
-Comamonadaceae,1074529,-,-,Leaf,-
-Gymnodiniaceae,867120,missing,ott5246809,Node,;Paragymnodinium shiwhaense;Amphidinium carterae;Amphidinium sp. D1-CMSTAC020;Gymnodinium impudicum;Gymnodinium sp. Dino2;Nusuttodinium poecilochroum;Amphidinium mootonorum;Nusuttodinium desymbiontum;Gymnodinium sp. GSSW10;Gyrodinium rubrum;Amphidinium cupulatisquama;Gymnodinium sp. Dino1;Amphidinium asymmetricum;Gymnoxanthella radiolariae;Amphidinium steinii;Amphidinium corpulentum;Akashiwo sanguinea;Apicoporus parvidiaboli;Gymnodinium sp. NVA/RUS/2008;Nusuttodinium latum;Gyrodinium helveticum;Cochlodinium fulvescens;Paulsenella vonstoschii;Gymnodinium cf. nolleri;Cochlodinium polykrikoides
-Chthoniobacteraceae,5249348,-,-,Leaf,-
-Cicadellidae,990675,-,-,Leaf,-
-Pseudonocardiaceae,126141,T,mrcaott10354ott17309,Leaf,-
-Lulworthiaceae,90657,-,-,Leaf,-
-Coriobacteriaceae,122715,T,mrcaott50ott184,Node,-
-Marinifilaceae,5586314,missing,None,False,;Marinifilum sp. JNU-H036;Marinifilum sp. TWO-1;Ancylomarina subtilis;Marinifilum albidiflavum;Marinifilum sp. 4SWWS2-6;Marinifilaceae bacterium SPP2
-Xanthomonadaceae,648766,-,-,Leaf,-
-Pseudanabaenaceae,248085,missing,None,False,;Pantanalinema rosaneae;Pseudanabaenaceae cyanobacterium WJT19-NPBG5
-Chenopodiaceae,5920024,T,mrcaott5200ott16365,Leaf,-
-Microcionidae,161886,T,ott588758,Node,-
-Heteropediaceae,1004453,missing,ott517345,Leaf,;Heterococcus sp. WJT43VFNP18B;Heterococcus caespitosus;Heterococcus sp. W1232
-Gnomoniaceae,708292,-,-,Leaf,-
-Chlamydomonadaceae,474062,T,mrcaott1544ott9282,Node,-
-Yersiniaceae,5998990,T,mrcaott103ott10716,Node,-
-Aphanizomenonaceae,5575177,missing,mrcaott1972ott6938,Leaf,;Nodularia spumigena
-Methanomassiliicoccaceae,5580306,-,-,Leaf,-
-Sclerotiniaceae,538149,T,ott51652,Node,-
-Schizoporaceae,580418,-,-,Leaf,-
-Prasiolaceae,668722,-,-,Leaf,-
-Phaeotremellaceae,6382569,missing,ott90104,Leaf,;Phaeotremella sp.;Gelidatrema spencermartinsiae;Phaeotremella skinneri
-Bulleribasidiaceae,6382493,missing,ott183800,Node,;Dioszegia hungarica;Dioszegia rishiriensis;Derxomyces nakasei;Derxomyces huiaensis;Dioszegia crocea;Derxomyces linzhiensis;Dioszegia buhagiarii;Vishniacozyma dimennae;Dioszegia butyracea;Vishniacozyma victoriae;Hannaella sinensis;Vishniacozyma psychrotolerans;Hannaella oryzae;Dioszegia sp. YA-2016;Vishniacozyma heimaeyensis;Hannaella luteola;Bulleribasidium panici;Dioszegia sp. BT-2017a;Hannaella zeae;Vishniacozyma carnescens
-Herpetosiphonaceae,1085861,-,-,Leaf,-
-Cryptosporidiidae,884552,missing,ott775252,Leaf,;Cryptosporidium wrairi;Cryptosporidium felis;Cryptosporidium canis;Cryptosporidium meleagridis;Cryptosporidium parvum;Cryptosporidium struthionis;Cryptosporidium sp. Pig 1;Cryptosporidium baileyi;Cryptosporidium sp. CSP06;Cryptosporidium andersoni;Cryptosporidium sp. Sbld05c;Cryptosporidium muris;Cryptosporidium bovis
-Iamiaceae,967234,-,-,Leaf,-
-Sebacinaceae,172586,-,-,Leaf,-
-Orthodonellidae,1072118,-,-,Leaf,-
-Bathycoccaceae,4734594,-,-,Leaf,-
-Anaerolineaceae,974237,-,-,Leaf,-
-Stachybotryaceae,5682364,missing,ott971709,Node,;Paramyrothecium roridum;Stachybotrys subsylvatica;Striatibotrys rhabdospora;Myrothecium sp. CL-2015;Striaticonidium humicola;Alfaria putrefolia;Alfaria cyperi-esculenti;Myrothecium sp. 41 KW-2015;Myrothecium sp. OTU040 AN-2016;Striaticonidium cinctum;Stachybotrys xanthohalonata;Albifimbria verrucaria;Striatibotrys atypica;Sirastachys castanedae;Myrothecium sp. MUT 5286;Alfaria terrestris
-Hypsibiidae,864429,-,-,Leaf,-
-Verrucomicrobia subdivision 3,384339,-,-,Leaf,-
-Nitrospiraceae,1024716,T,mrcaott6117ott105428,Leaf,-
-Peronosporaceae,712864,missing,ott555765,Node,;Peronospora trifolii-minoris;Hyaloperonospora dentariae;Basidiophora entospora;Plasmopara pusilla;Peronospora paula;Peronospora sp. MA-Fungi 27841;Bremia lactucae;Hyaloperonospora dentariae-macrophyllae;Peronospora tomentosa;Calycofera operculata;Peronospora trifoliorum;Peronospora belbahrii;Peronospora calotheca;Benua kellermanii;Peronospora scutellariae;Peronospora alta;Peronospora corydalis-intermediae;Peronospora holostei;Peronospora tabacina;Peronospora corydalis;Peronospora variabilis;Hyaloperonospora parasitica;Peronospora lamii;Peronospora trifolii-hybridi;Bremia sp. YJC-2015b;Peronospora manshurica;Peronospora saturejae-hortensis;Peronospora violae;Pseudoperonospora cubensis;Peronospora sp.;Peronospora linariae-genistifoliae;Peronospora ranunculi;Hyaloperonospora nesliae
-Nitriliruptoraceae,454291,-,-,Leaf,-
-Amoebidiaceae,892553,missing,ott463509,Leaf,Amoebidium parasiticum
-Polycystididae,162364,-,-,Leaf,-
-Hoehnelomycetaceae,564639,missing,ott3852781,Leaf,Proceropycnis pinicola
-Spirostomidae,781944,missing,ott493861,Leaf,;Anigsteinia sp. SUAS-2016a;Spirostomum sp. Ind;Anigsteinia clarissima
-Peripatopsidae,1072438,-,-,Leaf,-
-Onagraceae,1015483,-,-,Leaf,-
-Chrysochromulinaceae,282114,missing,ott747196,Node,;Chrysochromulina scutellum;Chrysochromulina parkeae;Chrysochromulina sp. NIES-1333;Chrysochromulina leadbeateri;Chrysochromulina strobilus;Chrysochromulina simplex
-Pelagiidae,983585,-,-,Leaf,-
-Clostridiales Family XIII. Incertae Sedis,None,missing,None,False,;Anaerovorax sp. enrichment culture clone D2CL_Bac_16S_Clone16;Aminipila butyrica;Anaerovorax sp. E109
-Hygrophoraceae,282217,T,mrcaott109ott206,Node,-
-Caryophyllaceae,317818,-,-,Leaf,-
-Actiniidae,419294,T,ott1084481,Leaf,-
-Microdochiaceae,5682546,missing,mrcaott1741ott2987,Node,;Microdochium nivale;Microdochium bolleyi;Idriella lunata;Microdochium sp.;Microdochium phragmitis;Microdochium seminicola
-Chrysocapsaceae,884655,missing,mrcaott6033ott15572,Node,;Chrysocapsa paludosa;Chrysochaete britannica;Chrysocapsa vernalis
-Volvocaceae,391142,-,-,Leaf,-
-Azonexaceae,7030322,-,-,Leaf,-
-Mysidae,833650,-,-,Leaf,-
-Rhodocyclaceae,854063,-,-,Leaf,-
-Mycosphaerellaceae,827790,T,ott971709,Node,-
-Erysiphaceae,555361,-,-,Leaf,-
-Hyphomicrobiaceae,377926,T,mrcaott89ott5304,Node,-
-Suillaceae,457232,-,-,Leaf,-
-Strophariaceae,590456,T,mrcaott2341ott3252,Node,-
-Teichosporaceae,5345474,-,-,Leaf,-
-Mrakiaceae,5985457,-,-,Leaf,-
-Solirubrobacteraceae,871283,-,-,Leaf,-
-Sandonidae,4005489,missing,ott873592,Node,;Bodomorpha sp. Panama105;Bodomorpha sp. HFCC 92;Bodomorpha sp. HFCC 927;Bodomorpha sp. HFCC 926;Bodomorpha minima;Bodomorpha sp. HFCC56;Bodomorpha sp. HFCC57;Bodomorpha sp. Panama115
-Cellvibrionaceae,5575234,missing,mrcaott50ott184,Node,;Saccharophagus sp. MM1-2b;Marinimicrobium sp. HMD3005;Cellvibrio japonicus;Umboniibacter marinipuniceus;Maricurvus nonylphenolicus;Simiduia agarivorans;Simiduia areninigrae;Candidatus Endobugula sertula;Cellvibrio sp. J115(2013);Agarilytica rhodophyticola;Candidatus Endobugula glebosa;Saccharophagus degradans;Eionea flava;Marinimicrobium koreense;Agaribacterium haliotis;Pseudomaricurvus alcaniphilus;Cellvibrio mixtus;Marinimicrobium sp. ABCh4
-Schizoparmaceae,4053762,-,-,Leaf,-
-Goniomonadaceae,914455,missing,ott914449,Leaf,;Goniomonas sp. SH-9;Goniomonas sp. TGKH7;Goniomonas avonlea;Goniomonas sp. SH-5;Goniomonas sp. SH-1;Goniomonas sp. SH-8;Goniomonas sp. ATCC 50108;Goniomonas sp. SH-3;Goniomonas truncata
-Rosaceae,208036,-,-,Leaf,-
-Legionellaceae,185173,-,-,Leaf,-
-Caulobacteraceae,799500,-,-,Leaf,-
-Phaeococcomycetaceae,5221632,missing,mrcaott235ott1320,Node,;Phaeococcomyces sp. MA 4712;Phaeococcomyces eucalypti;Phaeococcomycetaceae sp. CCFEE 5284;Etayoa trypethelii
-Cerambycidae,968359,T,mrcaott11244ott21732,Leaf,-
-Zygnemataceae,799383,-,-,Leaf,-
-Lobariaceae,549050,-,-,Leaf,-
-Heteromitidae,554902,missing,ott554901,Leaf,;soil flagellate AND21;soil flagellate AND24;Rigidomastix-like sp. (SA);Heteromita globosa;Heteromita sp. PRA-74
-Sarcocystidae,775241,missing,ott533741,Leaf,;Sarcocystis bovifelis;Sarcocystis sinensis;Toxoplasma gondii;Sarcocystis truncata;Sarcocystis cruzi;Sarcocystis sp. CET
-Microcoleaceae,5586460,missing,mrcaott594ott13848,Leaf,;Kamptonema animale;Microcoleus sp. 50et;Microcoleus sp. T2;Microcoleus sp. ATA1-4-DP04;Tychonema sp. 39et 2014;Microcoleus sp. AR10;Microcoleus vaginatus;Hydrocoleum sp. MF1;Microcoleus steenstrupii;Planktothrix tepida
-Prorodontidae,1010085,-,-,Leaf,-
-Aizoaceae,367508,-,-,Leaf,-
-Prorocentraceae,797788,-,-,Leaf,-
-Amphidiniopsidaceae,5288565,missing,mrcaott4510ott5244,Node,;Amphidiniopsis cf. kofoidii BB3;Amphidiniopsis korewalensis;Archaeperidinium saanichi;Amphidiniopsis sp. MH-2016;Herdmania litoralis
-Harknessiaceae,5342472,-,-,Leaf,-
 Leotiaceae,120977,-,-,Leaf,-
-Fagaceae,267713,-,-,Leaf,-
-Plumatellidae,463358,-,-,Leaf,-
-Dermateaceae,186927,-,-,Leaf,-
-Spirochaetaceae,992113,-,-,Leaf,-
-Omphalotaceae,309993,T,mrcaott109ott19801,Leaf,-
-Erythrobacteraceae,253959,-,-,Leaf,-
-Sphingobacteriaceae,1083672,-,-,Leaf,-
-Dysgonamonadaceae,7008015,missing,ott622991,Leaf,Dysgonomonas sp. DT183;;Dysgonomonas capnocytophagoides;Dysgonomonas macrotermitis;Dysgonomonas sp. PH5-20
-Physciaceae,216195,-,-,Leaf,-
-Thioalkalispiraceae,845370,missing,mrcaott103ott33958,Node,;Sulfurivermis fontis;Thiohalophilus thiocyanatoxydans;Endothiovibrio diazotrophicus;Thioalkalispira sp. HDS22
-Parmeliaceae,305904,-,-,Leaf,-
-Botryochloridaceae,1069673,missing,ott150745,Leaf,;Chlorellidium tetrabotrys
-Tintinnidae,773697,missing,mrcaott2981ott15392,Node,;Eutintinnus cf. apertus;Tintinnidium mucicola;Tintinnidium cf. primitivum
-Oscillatoriaceae,4016245,missing,ott225495,Node,;Phormidium sp. B-Tom;Lyngbya aestuarii;Lyngbya polychroa;Oscillatoria tenuis;Phormidium autumnale;Phormidium sp. PUPCCC 118.2;Phormidium laetevirens;Phormidium chlorinum;Oscillatoria acuminata
-Cryomorphaceae,600685,T,mrcaott1100ott56697,Leaf,-
-Polyporaceae,60043,T,ott1012685,Node,-
-Microcaliciaceae,4066951,-,-,Leaf,-
-Hapalidiaceae,99087,-,-,Leaf,-
-Clostridiaceae,748885,T,mrcaott184ott216,Node,-
-Acidimicrobiaceae,132822,-,-,Leaf,-
-Asteraceae,46248,-,-,Leaf,-
-Rhizopogonaceae,1026597,-,-,Leaf,-
-Eunotiaceae,111917,missing,ott111916,Leaf,;Eunotia monodon;Eunotia sp. 1 LKM-2015;Eunotia formica;Eunotia sp. 116;Eunotia naegelii
-Cladophoraceae,1068370,-,-,Leaf,-
-Pseudomonadaceae,767325,T,mrcaott89ott90,Node,-
-Phragmonemataceae,1041969,-,-,Leaf,-
-Coelogynoporidae,960814,-,-,Leaf,-
-Piscirickettsiaceae,193070,T,mrcaott103ott33958,Node,-
-Oscillochloridaceae,101829,-,-,Leaf,-
-Tribonemataceae,223413,missing,ott898587,Leaf,;Tribonema utriculosum;Tribonema ulotrichoides;Tribonema aequale;Tribonema intermixum
-Streptosporangiaceae,751340,-,-,Leaf,-
-Cystobasidiaceae,1024595,-,-,Leaf,-
-Chaetonotidae,582597,-,-,Leaf,-
-Grossglockneriidae,1091314,missing,ott360274,Leaf,Pseudoplatyophrya nana
-Thiobacillaceae,7030313,missing,mrcaott488ott18118,Node,;Sulfuritortus calidifontis;Annwoodia aquaesulis;Thiobacillus thioparus
-Pluteaceae,639988,-,-,Leaf,-
-Dumontiaceae,409813,missing,ott5275832,Node,Dumontia contorta;Waernia mirabilis;Dudresnaya verticillata
-Prymnesiaceae,928328,missing,ott804521,Leaf,;Prymnesium palpebrale;Prymnesium pigrum
-Chloroflexaceae,973293,-,-,Leaf,-
-Stephanodiscaceae,4026062,missing,mrcaott17542ott90995,Leaf,;Cyclotella sp. 119;Cyclotella meneghiniana;Cyclotella cf. scaldensis G18W53;Cyclotella cryptica;Cyclotella litoralis;Stephanodiscus hantzschii;Stephanodiscus minutulus;Cyclotella choctawhatcheeana;Cyclostephanos invisitatus
-Desmacellidae,174866,T,mrcaott16797ott25808,Leaf,-
-Arthrodermataceae,188805,T,mrcaott13947ott542218,Leaf,-
-Pinaceae,994067,-,-,Leaf,-
-Opheliidae,336915,-,-,Leaf,-
-Heliobacteriaceae,19960,-,-,Leaf,-
-Ascodesmidaceae,16909,-,-,Leaf,-
-Cellulomonadaceae,856876,T,mrcaott73ott138,Node,-
-Methylococcaceae,489013,-,-,Leaf,-
-Kickxellaceae,313414,T,ott759290,Node,-
-Alcanivoracaceae,441950,T,mrcaott103ott1562,Node,-
-Prolixibacteraceae,5357451,missing,mrcaott1100ott3185,Node,;Sunxiuqinia dokdonensis;Sunxiuqinia sp. FOUR-4;Sunxiuqinia sp. JNU-SGY008;Sunxiuqinia rutila;Sunxiuqinia sp. CAU1234;Mangrovibacterium diazotrophicum;Prolixibacter denitrificans;Sunxiuqinia elliptica;Sunxiuqinia faeciviva;Prolixibacter bellariivorans;Mariniphaga anaerophila;Tangfeifania diversioriginum;Sunxiuqinia sp.;Mariniphaga sediminis;Sunxiuqinia sp. JNU-J035;Draconibacterium orientale
-Ochromonadaceae,297037,missing,mrcaott15572ott18893,Leaf,;Ochromonadaceae sp. CCMP2298;Cornospumella fuschlensis;Poterioochromonas stipitata;Poterioochromonas malhamensis
-Brassicaceae,309271,-,-,Leaf,-
-Glabratellidae,145056,-,-,Leaf,-
-Cyclidiidae,310002,missing,ott310012,Node,;Cyclidium marinum;Cyclidium porcatum;Cristigera pleuronemoides;Cyclidium varibonneti;Cyclidium sp.;Cyclidium glaucoma;Protocyclidium sinica;Cristigera media;Protocyclidium citrullus
+Sandaracinaceae,203809,-,-,Leaf,-
+Albuginaceae,1037345,missing,ott555765,Node,;Albugo laibachii;Albugo candida;Albugo lepidii
+Woodruffiidae,581773,missing,ott129120,Node,;Etoschophrya inornata;Woodruffides metabolicus;Kuklikophrya ougandae
+Diatrypaceae,183729,-,-,Leaf,-
+Desulfomicrobiaceae,35689,-,-,Leaf,-
+Coniophoraceae,404713,T,mrcaott109ott9895,Node,-
+Neodevriesiaceae,5697099,missing,mrcaott235ott6545,Node,;Neodevriesia capensis;Neodevriesiaceae sp. CCFEE 5569;Neodevriesia agapanthi;Neodevriesia coryneliae;Neodevriesia lagerstroemiae;Neodevriesia knoxdaviesii
+Psychromonadaceae,1039349,-,-,Leaf,-
+Nowakowskiellaceae,5394876,-,-,Leaf,-
+Hyalospheniidae,634872,T,mrcaott61627ott113246,Node,-
+Ancyromonadidae,415970,missing,None,False,;Ancyromonas sigmoides;Ancyromonas sp. 3b
+Xanthomonadaceae,648766,-,-,Leaf,-
+Chrysocapsaceae,884655,missing,mrcaott6033ott15572,Node,Chrysocapsa paludosa;Chrysochaete britannica;Chrysocapsa vernalis;
+Poaceae,508090,-,-,Leaf,-
+Sympoventuriaceae,5345111,-,-,Leaf,-
+Calanidae,461532,T,mrcaott6062ott17168,Node,-
+Chthonomonadaceae,655594,-,-,Leaf,-
+Gallionellaceae,548549,-,-,Leaf,-
+Neochloridaceae,132568,-,-,Leaf,-
+Protomycetaceae,615477,-,-,Leaf,-
+Kallymeniaceae,360131,missing,ott5275832,Node,;Callophyllis beringensis;Glaphyrymenia sp. 1WA;Thamnophyllis discigera;Leiomenia cribrosa;Euthora timburtonii;Salishia firma;Meredithia guiryorum;Pugetia fragilissima
+Euglenaceae,287927,T,mrcaott4961ott4964,Leaf,-
+Peridiniaceae,800482,missing,ott5246809,Node,;Bysmatrum subsalsum;Durinskia kwazulunatalensis;Peridinium fusiformis;Durinskia baltica;Peridinium cf. umbonatum;Kryptoperidinium foliaceum;Durinskia cf. baltica HG171;Peridinium quinquecorne;Pentapharsodinium tyrrhenicum;Peridinium balticum
+Tolypothrichaceae,1072898,missing,mrcaott355ott3678,Node,;Tolypothrix sp. UAM 333;Tolypothrix scytonemoides
+Hemiselmidaceae,491173,missing,ott801159,Leaf,;Hemiselmis rufescens;Hemiselmis brunnescens;Hemiselmis cryptochromatica;Hemiselmis virescens
+Beroidae,570649,-,-,Leaf,-
 Philodinidae,831315,-,-,Leaf,-
+Exidiaceae,7524285,missing,ott133080,Leaf,;Exidia glandulosa
+Schizosaccharomycetaceae,990009,-,-,Leaf,-
+Pelagiidae,983585,-,-,Leaf,-
+Surirellaceae,397779,missing,mrcaott60031ott1081714,Node,;Cymatopleura solea;Surirella sp. DA1;Surirella ovalis;Surirella striatula;Stenopterobia sp. 50;Cymatopleura elliptica;Surirella cf. tenuissima;Surirella sp.;Campylodiscus clypeus
+Nephtyidae,1072318,-,-,Leaf,-
+Fagaceae,267713,-,-,Leaf,-
+Leptophryidae,7529907,missing,ott319941,Leaf,;Platyreta germanica;Leptophryidae sp. BAra1
+Micrococcaceae,146214,-,-,Leaf,-
+Stachybotryaceae,5682364,missing,ott971709,Node,;Myrothecium sp. CL-2015;Alfaria putrefolia;Stachybotrys subsylvatica;Alfaria cyperi-esculenti;Striaticonidium cinctum;Striatibotrys rhabdospora;Myrothecium sp. OTU040 AN-2016;Myrothecium sp. MUT 5286;Stachybotrys xanthohalonata;Myrothecium sp. 41 KW-2015;Striaticonidium humicola;Albifimbria verrucaria;Striatibotrys atypica;Sirastachys castanedae;Paramyrothecium roridum;Alfaria terrestris
+Pottiaceae,947452,T,ott821346,Node,-
+Polykrikaceae,671275,missing,ott837193,Leaf,Polykrikos lebourae;Polykrikos kofoidii;Polykrikos geminatum;Polykrikos herdmaniae
+Closteriaceae,897407,-,-,Leaf,-
+Heteropediaceae,1004453,missing,ott517345,Leaf,;Heterococcus caespitosus;Heterococcus sp. W1232;Heterococcus sp. WJT43VFNP18B
+Catenulaceae,336419,missing,ott5342311,Node,;Amphora montana;Amphora cf. capitellata;Amphora normanii;Catenulaceae sp. 94;Amphora sp. 38;Amphora sp. CCMP2378;Undatella sp. p446;Catenulaceae sp. 97;Amphora sp. 58;Amphora coffeiformis;Amphora sp. MBIC10098;Amphora sp. C10;Amphora delicatissima;Amphora laevis
+Cytheruridae,212764,-,-,Leaf,-
+Nostocaceae,368778,missing,mrcaott355ott1972,Node,;Nostoc sp. SJILZ12;Nostocaceae cyanobacterium TrebK2-9;Anabaena sp. XSP36B;Nostoc linckia;Nostoc sp. Soos B18;Nostoc commune;Nostoc sp. Mollenhauer 1:1-067;Anabaena sp. TrebK1-26;Anabaena sp. 5-Kutnar09;Nostoc sp. pmiA;Anabaena pirinica;Mojavia sp. CMT-3FDIN-NPC3;Cylindrospermum alatosporum
+Acidiferrobacteraceae,5587967,missing,mrcaott1562ott6385,Node,;Sulfuricaulis limicola;Sulfurifustis variabilis
+Zygnemataceae,799383,-,-,Leaf,-
+Pythiaceae,775742,missing,ott555765,Node,;Pythium sp. WL-2015;Pythium aff. dissotocum;Pythium scleroteichum;Pythium nodosum;Halophytophthora avicenniae;Pythium ultimum;Pythium cedri;Pythium violae;Halophytophthora mycoparasitica;Pythium contiguanum;Pythium sulcatum;Pythium sp. AL-2010;Pythium middletonii;Pythium okanoganense;Pythium attrantheridium;Pythium brassicum;Pythium acanthophoron;Pythium camurandrum;Pythium tracheiphilum;Pythium sp. WJB-1;Pythium aphanidermatum;Pythium paroecandrum;Pythium angustatum;Pythium periplocum;Halophytophthora epistomium;Pythium plurisporium;Pythium sp. YYL-2011b;Pythium marsipium;Pythium barbulae;Pythium glomeratum;Pythium breve;Pythium adhaerens;Pythium sp. CLE-2015d;Halophytophthora polymorphica;Pythium grandisporangium;Halophytophthora sp. WA26-091603;Pythium vanterpoolii;Pythium sp. LY221g;Pythium canariense;Pythium cylindrosporum;Pythium terrestris;Pythium nunn;Pythium buismaniae;Pythium sylvaticum;Pythium flevoense;Pythium junctum;Salispina spinosa;Pythium viniferum;Pythium perplexum;Halophytophthora sp. NBRC 32444;Pythium iwayamai;Pythium insidiosum;Pythium segnitium;Pythium helicandrum;Pythium irregulare;Pythium aff. intermedium JEB-2016;Pythium myriotylum;Pythium apiculatum;Pythium conidiophorum;Pythium urmianum;Pythium rostratifingens;Pythium intermedium;Pythium acanthicum;Pythium kandovanense;Pythium rostratum;Pythium sp. OPU809;Pythium volutum;Pythium porphyrae;Pythium baisense;Pythium sp. CAL-2011c;Pythium brachiatum;Pythium utonaiense;Pythium splendens;Pythium pachycaule;Pythium burgundicum;Pythium heterothallicum;Pythium sp. UASWS0227;Pythium carolinianum;Pythium monospermum
+Spirochaetaceae,992113,-,-,Leaf,-
+Pezizaceae,880965,-,-,Leaf,-
+Bacillariaceae,173955,missing,ott5342311,Node,;Cylindrotheca closterium;Pseudo-nitzschia abrensis;Nitzschia microcephala;Bacillaria paxillifer;Tryblionella apiculata;Nitzschia cf. promare;Nitzschia acidoclinata;Bacillaria sp.;Nitzschia palea;Nitzschia filiformis;Fragilariopsis nana;Fragilariopsis doliolus;Nitzschia supralitorea;Fragilariopsis curta;Cylindrotheca fusiformis;Pseudo-nitzschia cuspidata;Cylindrotheca sp. RCC2608;Nitzschia draveillensis;Nitzschia inconspicua;Pseudo-nitzschia multiseries;Nitzschia amphibia;Nitzschia sp. NY060;Nitzschia linearis;Pseudo-nitzschia fraudulenta;Fragilariopsis cylindrus;Cylindrotheca sp. RCC4822;Hantzschia amphioxys;Pseudo-nitzschia australis;Pseudo-nitzschia calliantha;Nitzschia sp. GSL100;Nitzschia cf. frustulum;Pseudo-nitzschia sp. RCC2619;Pseudo-nitzschia pseudodelicatissima;Nitzschia communis;Pseudo-nitzschia delicatissima;Nitzschia frustulum;Nitzschia vitrea;Nitzschia sp. AnM0026;Pseudo-nitzschia seriata;Nitzschia cf. recta RT-2009;Nitzschia sp. BOLD:AAO7111;Psammodictyon panduriforme;Pseudo-nitzschia sp. A2ni;Nitzschia cf. fonticola 2 RT-2009;Nitzschia aequorea;Pseudo-nitzschia heimii;Nitzschia dissipata
+Laminariaceae,266749,-,-,Leaf,-
+Malvaceae,279960,-,-,Leaf,-
+Spirostomidae,781944,missing,ott493861,Leaf,;Anigsteinia clarissima;Spirostomum sp. Ind;Anigsteinia sp. SUAS-2016a
+Labyrinthulaceae,5343245,missing,ott230522,Leaf,;Labyrinthula sp. N8;Labyrinthula sp. L72;Labyrinthula zosterae;Labyrinthula sp. ACB-2011a;Labyrinthula sp. ACB-2011b;Labyrinthula sp.;Labyrinthula sp. L93-3
+Nucleariidae,619451,-,-,Leaf,-
+Yersiniaceae,5998990,T,mrcaott103ott10716,Node,-
+Provorticidae,343603,-,-,Leaf,-
+Bacteriovoracaceae,647484,-,-,Leaf,-
+Crypthecodiniaceae,476861,missing,ott621392,Leaf,Crypthecodinium sp. CAAE-CL2;Crypthecodinium cohnii
+Amphileptidae,1013756,missing,ott2824240,Leaf,;Kentrophyllum setigerum
+Legionellaceae,185173,-,-,Leaf,-
+Plantaginaceae,1041309,-,-,Leaf,-
+Peripatopsidae,1072438,-,-,Leaf,-
+Dasyaceae,855463,missing,ott5275832,Node,Heterosiphonia plumosa;Dasya sp. KS-2014;Heterosiphonia japonica;Rhodoptilum plumosum;Dasya caraibica
+Lynchellidae,331252,missing,ott331184,Node,;Lynchella sp. QD-JJM08062601;Lynchella minuta;Coeloperix sp. QD FSP2008060904;Chilodonella parauncinata
+Lithodesmiaceae,549293,missing,mrcaott712ott549288,Leaf,Lithodesmioides polymorpha;Ditylum brightwellii;Lithodesmium variabile
+Placidae,505674,-,-,Leaf,-
+Archaeosporaceae,348833,-,-,Leaf,-
+Vexilliferidae,753956,missing,mrcaott4514ott118300,Leaf,Vexillifera expectata;Vexillifera bacillipedes;Pseudoparamoeba pagei;Vexillifera tasmaniana
+Boraginaceae,147029,T,ott5261925,Leaf,-
+Apiaceae,372831,-,-,Leaf,-
+Syndiniaceae,9043,missing,ott151120,Leaf,;Hematodinium sp. ex Crangon crangon;Syndinium turbo;Syndinium sp. ex Corycaeus sp.
+Xanthobacteraceae,253957,-,-,Leaf,-
+Protoperidiniaceae,283431,missing,mrcaott45527ott205099,Leaf,;Protoperidinium divergens;Protoperidinium cf. depressum;Protoperidinium monovelum;Protoperidinium depressum;Protoperidinium thulesense;Protoperidinium conicum
+Legeriomycetaceae,463510,-,-,Leaf,-
+Desulfobulbaceae,846631,-,-,Leaf,-
+Urechidae,954047,-,-,Leaf,-
+Scarabaeidae,340559,T,mrcaott2288ott2290,Leaf,-
+Bothrioplanidae,257325,-,-,Leaf,-
+Phaffomycetaceae,529465,-,-,Leaf,-
+Planococcaceae,589416,T,mrcaott3174ott3911,Leaf,-
+Torulaceae,5348390,missing,ott699905,Leaf,Torula gaodangensis;;Torula herbarum;Torula acaciae;Dendryphion nanum;Dendryphion europaeum;Torula masonii;Dendryphion penicillatum
+Halymeniaceae,880583,missing,ott510369,Leaf,;Prionitis sp. GIg-5;Prionitis lyallii
+Sporichthyaceae,805873,-,-,Leaf,-
+Pichiaceae,821913,-,-,Leaf,-
+Diaporthaceae,660754,-,-,Leaf,-
+Gigartinaceae,999794,missing,ott5275832,Node,;Chondracanthus canaliculatus;Chondrus crispus;Mazzaella flaccida;Chondracanthus teedei;Mazzaella affinis;Chondracanthus exasperatus;Mazzaella splendens
+Polyangiaceae,872663,-,-,Leaf,-
+Sirobasidiaceae,711446,-,-,Leaf,-
+Prymnesiaceae,928328,missing,ott804521,Leaf,;Prymnesium pigrum;Prymnesium palpebrale
+Gymnodiniaceae,867120,missing,ott5246809,Node,;Gymnodinium impudicum;Gymnodinium cf. nolleri;Amphidinium mootonorum;Paragymnodinium shiwhaense;Amphidinium carterae;Gyrodinium rubrum;Nusuttodinium poecilochroum;Amphidinium corpulentum;Nusuttodinium latum;Gymnodinium sp. GSSW10;Apicoporus parvidiaboli;Gymnodinium sp. NVA/RUS/2008;Cochlodinium polykrikoides;Amphidinium steinii;Nusuttodinium desymbiontum;Cochlodinium fulvescens;Amphidinium asymmetricum;Amphidinium cupulatisquama;Gymnodinium sp. Dino1;Akashiwo sanguinea;Amphidinium sp. D1-CMSTAC020;Gyrodinium helveticum;Paulsenella vonstoschii;Gymnoxanthella radiolariae;Gymnodinium sp. Dino2
+Leptospiraceae,379258,-,-,Leaf,-
+Paraphysomonadaceae,783304,missing,ott783302,Leaf,;Paraphysomonas foraminifera;Paraphysomonas sp. HD;Paraphysomonas imperforata;Paraphysomonas sp.;Paraphysomonas sp. 8 JMS-2012;Paraphysomonas butcheri;Paraphysomonas bandaiensis;Paraphysomonas uniformis;Paraphysomonas hebes
+Cephalothricidae,57430,-,-,Leaf,-
+Nitrososphaeraceae,686307,-,-,Leaf,-
+Phragmonemataceae,1041969,-,-,Leaf,-
+Burkholderiaceae,190168,T,mrcaott90ott41935,Node,-
+Chroomonadaceae,1017386,missing,ott7645937,Node,Chroomonas vectensis;;Chroomonas sp. M1318;Falcomonas sp. CRY1V;Chroomonas sp. NIES-3913;Chroomonas mesostigmatica;Chroomonas coerulea;Chroomonas sp. M1312;Chroomonas sp. M1703;Chroomonas sp. M1481;Chroomonas nordstedtii;Falcomonas daucoides
+Saccharospirillaceae,17900,-,-,Leaf,-
+Geobacteraceae,726987,T,mrcaott55524ott112770,Leaf,-
+Parvularculaceae,318336,-,-,Leaf,-
+Rickettsiaceae,50817,-,-,Leaf,-
+Paulinellidae,247674,-,-,Leaf,-
+Chytriomycetaceae,5219615,-,-,Leaf,-
+Amaurobiidae,508531,T,mrcaott33580ott33585,Leaf,-
+Cyclobacteriaceae,91373,-,-,Leaf,-
+Comamonadaceae,1074529,-,-,Leaf,-
+Symbiodiniaceae,76229,missing,ott797783,Leaf,;Symbiodinium sp. JCUCS-1;Symbiodinium sp. clade A;Symbiodinium sp. RCC2640
+Allapsidae,4005476,missing,ott122816,Leaf,Allapsa vibrans
+Didymellaceae,3188,T,mrcaott4380ott4381,Leaf,-
+Cyprididae,341236,-,-,Leaf,-
+Longidoridae,760954,-,-,Leaf,-
+Porticoccaceae,5587897,missing,ott4788251,Leaf,;Porticoccus hydrocarbonoclasticus;Porticoccus litoralis
+Francisellaceae,912359,-,-,Leaf,-
+Thalassiosiraceae,422796,missing,mrcaott148ott13272,Node,;Thalassiosira minima;Thalassiosira pseudonana;Detonula pumila;Thalassiosira minuscula;Thalassiosira mala;Thalassiosira sp. RCC4792;Thalassiosira sp. RCC4793;Bacterosira constricta;Minidiscus sp. RCC4810;Thalassiosira punctigera;Thalassiosira sp. A11 LG-2014;Thalassiosira anguste-lineata;Conticribra guillardii;Minidiscus sp. RCC4801;Thalassiosira aestivalis;Thalassiosira sp. UNC1417;Thalassiosira rotula;Minidiscus trioculatus;Thalassiosira tenera;Thalassiosira concaviuscula;Thalassiosira weissflogii
+Pinnulariaceae,548614,missing,ott548616,Leaf,;Pinnularia viridiformis;Pinnularia sp. 12 CS-2011;Pinnularia substreptoraphe;Pinnularia subcommutata;Pinnularia cf. altiplanensis;Pinnularia sp. 8 CS-2011;Pinnularia acrosphaeria;Pinnularia sp. 9 CS-2011;Pinnularia sp. U-strain;Pinnularia sp. 10 CS-2011;Pinnularia sp. 5 CS-2011;Pinnularia subanglica;Pinnularia neglectiformis;Pinnularia cf. microstauron;Pinnularia cf. isselana;Pinnularia neomajor;Pinnularia sp. 6 CS-2011
+Brachytheciaceae,79118,T,mrcaott3217ott11158,Leaf,-
+Trueperaceae,557746,-,-,Leaf,-
+Stemonitidae,1037479,-,-,Leaf,-
+Amphidomataceae,57001,-,-,Leaf,-
+Opheliidae,336915,-,-,Leaf,-
+Frankiaceae,212307,-,-,Leaf,-
+Thecamoebida,526383,-,-,Leaf,-
+Lyophyllaceae,1048880,-,-,Leaf,-
+Ardenticatenaceae,5245629,missing,ott5249222,Leaf,Candidatus Promineofilum breve;Ardenticatena maritima
+Colpodidae,129113,missing,ott581758,Node,;Colpoda inflata;Exocolpoda augustini;Bresslaua vorax;Colpoda sp. PRA-118;Colpoda maupasi;Colpoda steinii;Colpoda aspera
+Mytilinidiaceae,898961,-,-,Leaf,-
+Saprolegniaceae,827185,missing,ott555765,Node,;Leptolegnia caudata;Saprolegnia monilifera;Achlya americana;Aphanomyces laevis;Aphanomyces invadans;Achlya sparrowii;Achlya flagellata;Achlya recurva;Achlya dubia;Newbya spinosa;Saprolegnia parasitica;Aphanomyces astaci;Achlya oligacantha;Aphanomyces cochlioides;Achlya sp. MNS-2014a;Saprolegnia ferax;Leptolegnia chapmanii;Saprolegnia megasperma;Saprolegnia sp. SAP4;Saprolegnia sp. SAP3;Achlya apiculata;Achlya bisexualis;Pythiopsis terrestris;Achlya radiosa;Aphanomyces iridis;Aphanomyces euteiches;Achlya racemosa;Aphanomyces cladogamus;Achlya hypogyna;Achlya ambisexualis;Saprolegnia turfosa;Aplanopsis terrestris;Protoachlya paradoxa;Achlya caroliniana;Achlya papillosa;Achlya conspicua;Saprolegnia eccentrica
+Peptococcaceae,16701,T,mrcaott2035ott5991,Node,-
+Tubeufiaceae,1051949,-,-,Leaf,-
+Phallaceae,595719,T,mrcaott14806ott30573,Leaf,-
+Botrydiaceae,795537,-,-,Leaf,-
+Lamiaceae,544714,-,-,Leaf,-
 Microbacteriaceae,231766,-,-,Leaf,-
-Herpotrichiellaceae,1051950,T,ott971709,Node,-
-Acaulosporaceae,157952,-,-,Leaf,-
-Cucurbitariaceae,93060,-,-,Leaf,-
+Psathyrellaceae,934913,T,mrcaott8756ott14578,Leaf,-
+Puniceicoccaceae,284450,T,ott793486,Node,-
+Primnoidae,84508,-,-,Leaf,-
+Schizophyllaceae,8354,-,-,Leaf,-
+Cuniculitremaceae,5260754,-,-,Leaf,-
+Chytridiaceae,319466,T,mrcaott43479ott155498,Node,-
+Lecudinidae,227376,missing,ott884556,Leaf,;Ancora cf. sagittata;Lecudina polymorpha;Paralecudina anankea
+Bulleribasidiaceae,6382493,missing,ott183800,Node,;Dioszegia sp. YA-2016;Vishniacozyma heimaeyensis;Dioszegia crocea;Dioszegia rishiriensis;Vishniacozyma psychrotolerans;Vishniacozyma dimennae;Derxomyces linzhiensis;Dioszegia buhagiarii;Hannaella zeae;Hannaella sinensis;Dioszegia butyracea;Dioszegia sp. BT-2017a;Derxomyces huiaensis;Hannaella luteola;Bulleribasidium panici;Dioszegia hungarica;Hannaella oryzae;Vishniacozyma victoriae;Vishniacozyma carnescens;Derxomyces nakasei
+Rhizopogonaceae,1026597,-,-,Leaf,-
+Fossombroniaceae,54102,-,-,Leaf,-
+Conochilidae,1039705,-,-,Leaf,-
+Massarinaceae,506843,-,-,Leaf,-
+Amniculicolaceae,866116,-,-,Leaf,-
+Alariaceae,878348,-,-,Leaf,-
+Dermateaceae,186927,-,-,Leaf,-
+Pleosporaceae,699905,-,-,Leaf,-
+Sargassaceae,1022962,-,-,Leaf,-
+Lineidae,971430,-,-,Leaf,-
+Thelephoraceae,607536,-,-,Leaf,-
+Ascobolaceae,880973,-,-,Leaf,-
+Cryptococcaceae,6382507,missing,ott183800,Node,;Cryptococcus neoformans;Kwoniella shivajii;Kwoniella pini;Kwoniella sp.;Kwoniella dendrophila;Kwoniella newhampshirensis
+Chaetomiaceae,137202,-,-,Leaf,-
+Acholeplasmataceae,874208,-,-,Leaf,-
+Alphamycetaceae,752067,-,-,Leaf,-
+Sorogenidae,9196,missing,ott486834,Leaf,Sorogena stoianovitchae
+Myzocytiopsidaceae,300184,missing,ott555765,Node,;Chlamydomyzium dictyuchoides;Myzocytiopsis osiris;Myzocytiopsis glutinospora;Myzocytiopsis subuliformis;Myzocytiopsis sp. venatrix
+Planomonadidae,494997,missing,ott500559,Leaf,Fabomonas tropica;;Planomonas micra
+Hydnodontaceae,84942,-,-,Leaf,-
+Onygenaceae,958144,T,mrcaott7943ott58011,Node,-
+Triceratiaceae,85894,missing,mrcaott148ott28082,Node,Pleurosira laevis;Lampriscus kittonii
+Opitutaceae,384336,-,-,Leaf,-
+Haliphthoraceae,896048,missing,ott555765,Node,;Haliphthoros milfordensis;Haliphthoros sp. NJM 0034
 Xanthonemataceae,2821567,missing,ott223412,Node,;Xanthonema debile;Xanthonema sessile
+Fibrobacteraceae,220318,-,-,Leaf,-
+Bionectriaceae,1038708,T,ott971709,Node,-
+Flosculariidae,681210,-,-,Leaf,-
+Ulvaceae,951301,-,-,Leaf,-
+Klebsormidiaceae,799388,-,-,Leaf,-
+Desulfovibrionaceae,385234,-,-,Leaf,-
+Chlamydomonadaceae,474062,T,mrcaott1544ott9282,Node,-
+Chaetophoraceae,361849,-,-,Leaf,-
+Synchaetidae,743641,-,-,Leaf,-
+Euphorbiaceae,914245,T,mrcaott345ott24237,Leaf,-
+Flabellulidae,263577,missing,mrcaott263587ott358503,Leaf,;Paraflabellula sp. RT1TT;Flabellulidae sp. SMA17/I;Paraflabellula hoguae;Flabellula sp. AK-2016a
+Erythrobacteraceae,253959,-,-,Leaf,-
+Tepidisphaeraceae,5896417,-,-,Leaf,-
+Taphrinaceae,698727,-,-,Leaf,-
+Auriscalpiaceae,48323,T,mrcaott48338ott86960,Leaf,-
+Porphyridiaceae,202888,missing,mrcaott80201ott202890,Node,;Chroodactylon ornatum;Porphyridium aerugineum;Porphyridium sp. ex foraminifera MH-2008;Flintiella sanguinaria
+Oikopleuridae,9994,-,-,Leaf,-
+Cochliopodiidae,767925,-,-,Leaf,-
+Ophiostomataceae,1099024,T,ott971709,Node,-
+Didymiaceae,41196,T,ott1064655,Node,-
+Alicyclobacillaceae,68428,-,-,Leaf,-
+Piscirickettsiaceae,193070,T,mrcaott103ott33958,Node,-
+Thermoactinomycetaceae,68435,-,-,Leaf,-
+Woeseiaceae,5906025,-,-,Leaf,-
+Sellaphoraceae,548612,missing,ott974005,Leaf,Sellaphora bacillum;;Sellaphora sp. 92;Sellaphora auldreekie;Fallacia sp. Baikal_260;Sellaphora cf. minima;Fallacia cf. forcipata;Sellaphora laevissima;Sellaphora pupula;Fallacia sp. 33;Sellaphora capitata;Sellaphora seminulum;Fallacia pygmaea;Sellaphora blackfordensis
+Pseudodifflugiidae,875565,missing,ott875556,Leaf,Pseudodifflugia cf. gracilis
+Thraustochytriaceae,164906,-,-,Leaf,-
+Thyridariaceae,5345477,-,-,Leaf,-
+Hymenobacteraceae,5886300,missing,ott427259,Node,;Adhaeribacter aerophilus;Siccationidurans metalli;Hymenobacter pallidus;Hymenobacter rubidus;Hymenobacter sp. 9PNM-21;Hymenobacter sp. S1-2-2-6;Adhaeribacter sp. TSX13-1;Hymenobacter sp. x4r7;Adhaeribacter aquaticus;Rufibacter glacialis;Adhaeribacter terreus;Adhaeribacter sp. enrichment culture clone Lpl1-269;Hymenobacter sp. PAMC 26628;Pontibacter sp. AT03-04;Hymenobacter sp. TAPP3;Rufibacter immobilis;Pontibacter deserti;Adhaeribacter aerolatus;Pontibacter indicus;Hymenobacter cavernae;Hymenobacter terrenus;Hymenobacter sp. 1N-12;Hymenobacter sp. SAFR-033;Hymenobacter terrae;Hymenobacter koreensis;Pontibacter toksunensis;Hymenobacter sp. 1-3-3-8;Pontibacter sp. AT03-03;Pontibacter sp. RCML-11;Hymenobacter sp. MIC2001;Pontibacter sp. HJ8;Hymenobacter roseosalivarius;Hymenobacter tibetensis;Pontibacter sp.;Pontibacter akesuensis;Hymenobacter daeguensis;Hymenobacter sp. TEGR-7;Adhaeribacter sp. ST_BT3S_02;Pontibacter sp. MDT2-9;Hymenobacter qilianensis;Adhaeribacter sp.;Siccationidurans ginsengisoli;Adhaeribacter sp. KS35;Hymenobacter sp. 29F;Hymenobacter sp.;Siccationidurans antarcticus
+Prorocentraceae,797788,-,-,Leaf,-
+Histionidae,1051899,missing,ott429200,Leaf,;Reclinomonas americana
+Balamuthiidae,509184,missing,ott739233,Leaf,Balamuthia mandrillaris
+Flammeovirgaceae,494050,T,mrcaott4495ott4998,Node,-
+Nocardioidaceae,856867,T,mrcaott7026ott12648,Leaf,-
+Helicobacteraceae,1033801,T,mrcaott8800ott405457,Node,-
+Hartmannellidae,68592,missing,mrcaott18159ott61625,Node,;Vermamoeba vermiformis;Saccamoeba sp. MSED6;Nolandella sp. ATCC 50913;Stenamoeba sp. HP839;Hartmannella cantabrigiensis
+Chaetomellaceae,5980351,-,-,Leaf,-
+Agaricaceae,8360,T,ott1012685,Node,-
+Phlaeothripidae,788835,-,-,Leaf,-
+Malasseziaceae,5344510,missing,None,False,;Malassezia japonica;Malassezia sympodialis;Malassezia sp. LCP-2008a;Malassezia globosa;Malassezia restricta
+Cellvibrionaceae,5575234,missing,mrcaott50ott184,Node,;Cellvibrio sp. J115(2013);Marinimicrobium sp. HMD3005;Simiduia areninigrae;Candidatus Endobugula glebosa;Saccharophagus degradans;Simiduia agarivorans;Agaribacterium haliotis;Maricurvus nonylphenolicus;Candidatus Endobugula sertula;Marinimicrobium sp. ABCh4;Agarilytica rhodophyticola;Pseudomaricurvus alcaniphilus;Marinimicrobium koreense;Umboniibacter marinipuniceus;Cellvibrio japonicus;Saccharophagus sp. MM1-2b;Eionea flava;Cellvibrio mixtus
+Pluteaceae,639988,-,-,Leaf,-
+Acinetosporaceae,632598,-,-,Leaf,-
+Kondoaceae,5260747,-,-,Leaf,-
+Plagiocampidae,4031436,-,-,Leaf,-
+Plumatellidae,463358,-,-,Leaf,-
+Paraglomeraceae,398097,-,-,Leaf,-
+Endogonaceae,837859,-,-,Leaf,-
+Leptomyxidae,739236,missing,ott263578,Leaf,Leptomyxa reticulata
+Codonellidae,84211,missing,ott1071191,Leaf,;Tintinnopsis radix
+Pseudeurotiaceae,555371,missing,None,False,;Pseudogymnoascus bhattii;Pseudogymnoascus pannorum;Pseudogymnoascus sp. NWHC 44736-43-01-01B;Geomyces auratus;Geomyces sp. APA-2013;Geomyces sp. 12NJ08;Pseudogymnoascus sp. BM-2009-4;Leuconeurospora pulcherrima;Pleuroascus nicholsonii;Pseudeurotium sp.;Pseudeurotium bakeri;Gymnostellatospora japonica;Pseudogymnoascus destructans
+Sphingobacteriaceae,1083672,-,-,Leaf,-
+Haematococcaceae,391062,-,-,Leaf,-
+Mallomonadaceae,112623,-,-,Leaf,-
+Actiniidae,419294,T,ott1084481,Leaf,-
+Pyronemataceae,620530,-,-,Leaf,-
+Acanthoecidae,726081,-,-,Leaf,-
+Pyrenomonadaceae,1017387,missing,ott955642,Leaf,;Rhodomonas salina;Rhodomonas sp. M1630;Rhodomonas marina;Storeatula sp. CCMP1868;Rhodomonas abbreviata;Rhinomonas sp.
+Geminibasidiaceae,4934488,-,-,Leaf,-
+Rubricoccaceae,5886373,missing,ott519779,Leaf,;Rubrivirga profundi;Rubricoccus marinus
+Rhodobacteraceae,19981,T,mrcaott89ott721,Node,-
+Minutisphaeraceae,5683049,missing,None,False,Minutisphaera aspera;;Minutisphaera sp. G156-2
+Cirratulidae,1067346,-,-,Leaf,-
+Cymbellaceae,974009,missing,ott93302,Node,;Cymbopleura naviculiformis;Placoneis hambergii;Paraplaconeis kornevae;Encyonema sp. WJS-2015b;Encyonema sp. WJS-2015a;Placoneis minor;Cymbella cistuliformis;Placoneis clementis;Placoneis elginensis;Cymbella aspera;Cymbella bengalensis;Cymbella subturgidula
+Candidatus Paracaedibacteraceae,5900983,-,-,Leaf,-
+Sclerotiniaceae,538149,T,ott51652,Node,-
+Apusomonadidae,575898,-,-,Node,-
+Gonostomatidae,7528843,missing,ott564872,Leaf,;Gonostomum strenuum;Gonostomum affine;Gonostomum sinicum;Gonostomum sp. MD-2012;Gonostomum namibiense
+Nemesiidae,846217,-,-,Leaf,-
+Fabaceae,560323,-,-,Leaf,-
+Serendipitaceae,5674334,-,-,Leaf,-
+Suillaceae,457232,-,-,Leaf,-
+Amphipleuraceae,257726,missing,ott5342311,Node,;Frustulia vulgaris;Frustulia maoriana;Frustulia cf. magaliesmontana PU-2012;Frustulia gondwana;Amphiprora paludosa;Halamphora veneta;Amphiprora alata;Halamphora cf. fluminensis s0314
+Crenotrichaceae,38,-,-,Leaf,-
+Kareniaceae,176428,T,mrcaott93910ott101878,Leaf,-
+Solibacteraceae,1040234,missing,ott746305,Leaf,Candidatus Solibacter usitatus
+Coelogynoporidae,960814,-,-,Leaf,-
+Sebacinaceae,172586,-,-,Leaf,-
+Rubrobacteraceae,132813,missing,ott633217,Leaf,;Rubrobacter sp. CBF L56;Rubrobacter taiwanensis;Rubrobacter indioceani;Rubrobacter xylanophilus;Rubrobacter sp. VFA70612_S5;Rubrobacter sp. enrichment culture clone BF65B_C5;Rubrobacter naiadicus;Rubrobacter calidifluminis;Rubrobacter spartanus;Rubrobacter aplysinae;Rubrobacter sp. VS-111;Rubrobacter radiotolerans;Rubrobacter sp. enrichment culture clone BF64A_C25;Rubrobacter bracarensis
+Sanchytriaceae,7510639,missing,None,False,Sanchytrium tribonematis
+Mytilidae,1025541,T,mrcaott2556ott3381,Leaf,-
+Nocardiaceae,231769,T,mrcaott292ott7821,Node,-
+Dothioraceae,1025079,-,-,Leaf,-
+Thermoleophilaceae,419158,-,-,Leaf,-
+Bracteacoccaceae,812632,-,-,Leaf,-
+Coriobacteriaceae,122715,T,mrcaott50ott184,Node,-
+Scenedesmaceae,651335,T,mrcaott185ott1426,Node,-
+Desulfobacteraceae,774775,-,-,Leaf,-
+Microbulbiferaceae,5587892,missing,None,False,
+Sordariaceae,572453,-,-,Leaf,-
+Clavariaceae,729017,-,-,Leaf,-
+Tricholomataceae,162651,T,ott1012685,Node,-
+Phaeocystaceae,826969,missing,None,False,
+Spongomonadidae,5282540,-,-,Leaf,-
+Peltospiridae,787698,-,-,Leaf,-
+Salicaceae,530183,-,-,Leaf,-
+Chromatiaceae,137782,T,mrcaott103ott1562,Node,-
+Crepidotaceae,493755,missing,ott493754,Leaf,;Crepidotus sp. 930;Crepidotus subverrucisporus;Crepidotus variabilis;Crepidotus sp. PBM3463;Crepidotus sphaerosporus;Simocybe sp. HMJAU sn
+Hydrophyllaceae,147029,T,ott5261925,Leaf,-
+Bursariidae,1016180,-,-,Leaf,-
+Gautieriaceae,854146,missing,ott517654,Leaf,;Gautieria sp. HS1831USA;Gautieria otthii
+Oxalobacteraceae,1036630,-,-,Leaf,-
+Heterophryidae,675699,-,-,Leaf,-
+Goniomonadaceae,914455,missing,ott914449,Leaf,;Goniomonas sp. SH-9;Goniomonas sp. TGKH7;Goniomonas sp. SH-1;Goniomonas sp. SH-5;Goniomonas sp. SH-8;Goniomonas sp. SH-3;Goniomonas sp. ATCC 50108;Goniomonas truncata;Goniomonas avonlea
+Metschnikowiaceae,668443,-,-,Leaf,-
+Peniophoraceae,377012,T,mrcaott109ott9895,Node,-
+Cercomonadidae,554898,-,-,Leaf,-
+Chenopodiaceae,5920024,T,mrcaott5200ott16365,Leaf,-
+Urostylidae,1060044,missing,ott899768,Node,;Extraholosticha sylvatica;Uroleptus gallina;Caudikeronopsis marina;Tunicothrix brachysticha;Urostyla grandis;Holostichides heterotypicus;Uroleptus pisces;Paruroleptus lepisma
+Mycenaceae,4105661,T,mrcaott109ott206,Node,-
+Stylonemataceae,680420,-,-,Leaf,-
+Synchytriaceae,535290,-,-,Leaf,-
+Holostichidae,2992,missing,ott899768,Node,;Holosticha multistylata;Anteholosticha randani;Anteholosticha pulchra;Anteholosticha marimonilata;Anteholosticha monilata;Holosticha bradburyae;Anteholosticha pseudomonilata;Holosticha muuiensis;Holosticha diademata;Holosticha sp. WJC-2003;Holosticha heterofoissneri;Anteholosticha manca;Holosticha cf. heterofoissneri
+Rhodothermaceae,519779,-,-,Leaf,-
+Saprospiraceae,35,-,-,Node,-
+Extremaceae,5682981,-,-,Leaf,-
+Thaumatomastigidae,4918143,-,-,Leaf,-
+Cafeteriaceae,1045828,missing,ott5247556,Leaf,;Pseudobodo sp. KD51;Cafeteria roenbergensis;Cafeteria minima;Pseudobodo tremulans
+Melioribacteraceae,5158298,missing,ott291278,Leaf,Melioribacter roseus
+Sinobacteraceae,5912707,missing,ott193065,Node,;Panacagrimonas perspica;Steroidobacter denitrificans;Nevskia persephonica;Steroidobacter sp. JC2953;Solimonas sp. p11(2011);Steroidobacter agariperforans;Sinobacteraceae bacterium;Nevskia soli;Nevskia sp. SG73;Solimonas terrae;Solimonas aquatica;Povalibacter uvarum;Sinimarinibacterium flocculans;Nevskia aquatilis;Povalibacter sp.;Steroidobacter flavus;Solimonas sp. CDMK;Hydrocarboniphaga daqingensis;Nevskia ramosa;Nevskia terrae;Alkanibacter difficilis
+Desmidiaceae,439259,-,-,Leaf,-
+Chlorococcaceae,129601,-,-,Leaf,-
+Babesiidae,1006159,missing,ott826546,Leaf,;Babesia sp. BiCM002;Babesia caballi;Babesia divergens;Babesia microti;Babesia canis
+Rubritaleaceae,4015049,-,-,Leaf,-
+Hominidae,770311,T,ott842867,Leaf,-
+Moritellaceae,1039356,-,-,Leaf,-
+Agaricostilbaceae,1021896,T,mrcaott23276ott23291,Node,-
+Acetobacteraceae,551974,-,-,Leaf,-
+Gomphaceae,146473,T,ott822495,Node,-
+Didymosphaeriaceae,81518,-,-,Leaf,-
+Uronematidae,912567,missing,ott310012,Node,Homalogastra setosa;Uronemella filificum;Uronema sp. WS-2012;Uronema heteromarinum;Uronema marinum
+Polytrichaceae,821352,-,-,Leaf,-
+Balneolaceae,5913266,missing,None,False,Gracilimonas sp. HME9573;;Gracilimonas halophila;Aliifodinibius roseus;Aliifodinibius sp. HME9836;Gracilimonas sp. HME9591;Gracilimonas tropica;Balneola sp. DG1524;Gracilimonas rosea
+Micromonosporaceae,794945,-,-,Leaf,-
+Alteromonadaceae,191371,T,mrcaott103ott1093,Node,-
+Chaetopeltidaceae,311484,-,-,Leaf,-
+Ktedonobacteraceae,818909,-,-,Leaf,-
+Geoglossaceae,34358,-,-,Leaf,-
+Kofleriaceae,94318,-,-,Leaf,-
+Tremellaceae,133074,T,ott183800,Node,-
+Pannariaceae,626527,-,-,Leaf,-
+Polyporaceae,60043,T,ott1012685,Node,-
+Symbiobacteriaceae,245885,-,-,Leaf,-
+Streptosporangiaceae,751340,-,-,Leaf,-
+Oscillochloridaceae,101829,-,-,Leaf,-
+Dicranophoridae,513189,-,-,Leaf,-
+Thigmophryidae,4029809,-,-,Leaf,-
+Trachelostylidae,897465,missing,ott899768,Node,Lamtostyla salina;Cotterillia bromelicola;Trachelostyla pediculiformis;
+Aphanochaetaceae,1018092,-,-,Leaf,-
+Nitrosomonadaceae,728498,-,-,Leaf,-
+Powellomycetaceae,1680,-,-,Leaf,-
+Chrysozymaceae,5985654,missing,ott634628,Node,;Oberwinklerozyma yarrowii;Slooffia pilati;Chrysozyma fushanensis;Fellozyma inositophila;Pseudohyphozyma pustula;Slooffia cresolica;Oberwinklerozyma silvestris;Sampaiozyma vanillica;Bannozyma arctica;Udeniozyma ferulica;Bannozyma yamatoana;Sampaiozyma ingeniosa;Chrysozyma griseoflava
+Flavobacteriaceae,246447,T,mrcaott50ott1100,Node,-
+Inocybaceae,112540,T,mrcaott5864ott7040,Node,-
+Methanomassiliicoccaceae,5580306,-,-,Leaf,-
+Hapalidiaceae,99087,-,-,Leaf,-
+Pseudoperisporiaceae,870738,missing,None,False,Bryochiton monascus;Bryochiton perpusillus
+Ajellomycetaceae,641832,-,-,Leaf,-
+Ambisporaceae,1056814,-,-,Leaf,-
+Monoblepharidaceae,305127,-,-,Leaf,-
+Cyclidiidae,310002,missing,ott310012,Node,;Cyclidium sp.;Cristigera pleuronemoides;Cristigera media;Protocyclidium sinica;Cyclidium varibonneti;Protocyclidium citrullus;Cyclidium glaucoma;Cyclidium marinum;Cyclidium porcatum
+Lactobacillaceae,445856,T,mrcaott4345ott8579,Leaf,-
+Chromulinaceae,908565,missing,ott266745,Node,;Chromulina chionophila;Pedospumella sp. LG-2014a;Ochromonas villosa;Ochromonas vasocystis;Ochromonas sp. CCMP1149;Spumella lacusvadosi;Ochromonas distigma;Pedospumella encystans;Spumella sp. LG-2014b;Ochromonas sp. CCMP1147;Pedospumella sp. JBM19;Uroglena sp. CCMP2768;Spumella sp. Mbc_3C;Ochromonas tuberculata;Ochromonas danica;Spumella sp. 9-1-D1;Spumella danica;Spumella sp. 9-8-D3;Chromulinaceae sp. RCC902;Ochromonas sp. aestuarii;Pedospumella sp.;Ochromonas sp. CCMP2761;Chromulina cf. nebulosa;Ochromonas sp.;Spumella sp. TGS1;Pedospumella sinomuralis;Spumella sp. 37G;Ochromonas sp. CCMP1393
+Polynoidae,1067347,-,-,Leaf,-
+Lewinellaceae,7010604,missing,ott275451,Leaf,;Lewinella persica;Lewinella agarilytica;Lewinella maritima;Lewinella nigricans;Lewinella xylanilytica;Lewinella lacunae;Lewinella marina;Lewinella cohaerens;Lewinella sp. SD302
+Amoebidiaceae,892553,missing,ott463509,Leaf,Amoebidium parasiticum
+Helvellaceae,332569,-,-,Leaf,-
+Ochromonadaceae,297037,missing,mrcaott15572ott18893,Leaf,Ochromonadaceae sp. CCMP2298;;Cornospumella fuschlensis;Poterioochromonas malhamensis;Poterioochromonas stipitata
+Tubificidae,318890,-,-,Leaf,-
+Angulomycetaceae,3685328,-,-,Leaf,-
+Holosporaceae,79296,-,-,Leaf,-
+Dunaliellaceae,979509,-,-,Leaf,-
+Cryptomonadaceae,303538,missing,ott7645937,Node,;Plagioselmis prolonga;Cryptomonas phaseolus;Cryptomonas sp. CNUCRY 75;Cryptomonas ovata;Plagioselmis nannoplanctica;Cryptomonas sp. M2807;Cryptomonas paramecium;Cryptomonas sp. Yeonra43011B;Cryptomonas obovoidea;Chilomonas sp. M1303;Cryptomonas sp. CCAC 0109;Cryptomonas tetrapyrenoidosa;Cryptomonas sp. Dumo2 100310C;Cryptomonas marssonii;Cryptomonas sp. M2089;Cryptomonas pyrenoidifera;Cryptomonas borealis;Cryptomonas loricata;Cryptomonas curvata;Cryptomonas platyuris
+Trichocomaceae,22936,T,ott800595,Leaf,-
+Cytophagaceae,25,T,ott427259,Node,-
+Bartaliniaceae,5982737,missing,ott565288,Node,;Bartalinia robillardoides;Truncatella angustata;Zetiasplozna thuemenii;Truncatella helichrysi
+Blastocladiaceae,469426,T,mrcaott67172ott235997,Node,-
+Azonexaceae,7030322,-,-,Leaf,-
+Ulotrichaceae,603,-,-,Leaf,-
+Herpetosiphonaceae,1085861,-,-,Leaf,-
+Oscillatoriaceae,4016245,missing,ott225495,Node,;Oscillatoria acuminata;Lyngbya aestuarii;Phormidium chlorinum;Lyngbya polychroa;Phormidium laetevirens;Phormidium autumnale;Oscillatoria tenuis;Phormidium sp. PUPCCC 118.2;Phormidium sp. B-Tom
+Halteriidae,129116,missing,ott899768,Node,;Halteria sp. bBoG1;Meseres corlissi;Halteria grandinella
+Syntrophaceae,623136,T,mrcaott140429ott226723,Leaf,-
+Kriegeriaceae,661204,-,-,Leaf,-
+Lecanidae,404255,-,-,Leaf,-
+Stenostomidae,384494,-,-,Leaf,-
+Sneathiellaceae,354000,-,-,Leaf,-
+Intrasporangiaceae,231761,-,-,Leaf,-
+Kangiellaceae,7035390,missing,ott943611,Leaf,;Aliikangiella marina;Kangiella chungangensis;Kangiella koreensis;Kangiella sediminilitoris;Pleionea sp. MEBiC06907
+Cyaneidae,945739,-,-,Leaf,-
+Thelebolaceae,1085284,-,-,Leaf,-
+Methylophilaceae,344389,-,-,Leaf,-
+Corynidae,641026,-,-,Leaf,-
+Agalmatidae,15312,T,mrcaott15308ott15310,Leaf,-
+Cephalothecaceae,649020,-,-,Leaf,-
+Ceratocystidaceae,826618,T,ott971709,Node,-
+Stauroneidaceae,402891,missing,mrcaott148810ott187183,Leaf,;Stauroneis acuta;Craticula cuspidata;Stauroneis anceps;Craticula importuna
+Labilitrichaceae,5580861,missing,None,False,Labilithrix luteola
+Paludibacteraceae,7008054,missing,ott782539,Leaf,;Paludibacter jiangxiensis;Paludibacter propionicigenes
+Tetrahymenidae,319309,missing,None,False,
+Botryochloridaceae,1069673,missing,ott150745,Leaf,;Chlorellidium tetrabotrys
+Lejeuneaceae,454406,-,-,Leaf,-
+Streptococcaceae,175916,-,-,Leaf,-
+Dehalococcoidaceae,438716,-,-,Leaf,-
+Patulibacteraceae,761403,-,-,Leaf,-
+Cladophoraceae,1068370,-,-,Leaf,-
+Botryosphaeriaceae,33903,T,ott641496,Node,-
+Volvocaceae,391142,-,-,Leaf,-
+Orbiliaceae,293786,-,-,Leaf,-
+Oikomonadaceae,997595,missing,mrcaott6033ott15572,Node,Oikomonas sp. SA-2.1;Oikomonas sp. SA-2.2
+Nassulopsidae,2825842,-,-,Leaf,-
+Microcionidae,161886,T,ott588758,Node,-
+Echinamoebidae,838048,missing,mrcaott3973ott15653,Node,;Echinamoeba silvestris;Filamoeba nolandi;Echinamoeba thermarum;Gephyramoeba sp. ATCC50654;Echinamoeba exundans
+Haliscomenobacteraceae,7010595,missing,ott35,Node,;Haliscomenobacter hydrossis;Phaeodactylibacter xiamenensis;Phaeodactylibacter luteus;Portibacter sp. KC69;Candidatus Haliscomenobacter calcifugiens;Haliscomenobacter sp. JJ019
+Kickxellaceae,313414,T,ott759290,Node,-
+Oxytrichidae,1060048,-,-,Leaf,-
+Fusobacteriaceae,479548,-,-,Leaf,-
+Clupeidae,175436,T,ott5541314,Leaf,-
+Ectothiorhodospiraceae,191367,T,mrcaott1562ott6385,Node,-
+Trichiidae,1092928,-,-,Leaf,-
+Hemiaulaceae,28080,missing,None,False,
+Chelatococcaceae,7023759,missing,None,False,;Chelatococcus sp.;Chelatococcus sp. P-102
+Spirofilidae,311153,missing,ott899768,Node,;Stichotricha aculeata;Pseudouroleptus caudatus;Urospinula succisa
+Pseudocharaciopsidaceae,423012,missing,ott2811414,Leaf,Pseudocharaciopsis ovalis
+Plocamiaceae,510355,missing,ott510356,Leaf,;Plocamium maggsiae;Plocamium cartilagineum;Plocamium fimbriatum;Plocamium cf. angustum 3 GWS-2011;Plocamium cf. cartilagineum NZ 2 GWS-2011;Plocamium cf. angustum 1 GWS-2011;Plocamium telfairiae;Plocamium sp. Aus 3 GWS-2011;Plocamium preissianum;Plocamium cf. cirrhosum 2 GWS-2011;Plocamium cf. angustum NZ 2 GWS-2011
+Koliellaceae,4734292,-,-,Leaf,-
+Lobariaceae,549050,-,-,Leaf,-
+Fragilariaceae,173960,missing,ott5342311,Node,;Tabularia fasciculata;Neofragilaria nicobarica;Grammonema striatula;Hyalosynedra cf. laevigata;Fragilaria sp. D-47;Pteroncola inane;Opephora sp. s0357;Opephora guenter-grassii;Tabularia sp. NY059;Asterionellopsis socialis;Asterionellopsis tropicalis;Synedra sp. p517;Synedra sp.;Asterionella glacialis;Synedra sp. NTDMN01;Asterionellopsis guyunusae;Asterionella formosa;Ulnaria acus;Plagiostriata goreensis;Asterionellopsis glacialis;Tabularia tabulata;Diatoma tenuis
+Isotomidae,487389,-,-,Leaf,-
+Bryaceae,548799,-,-,Leaf,-
+Colpodellidae,737171,-,-,Leaf,-
+Apiosporaceae,425420,-,-,Leaf,-
+Syntrophobacteraceae,623147,-,-,Leaf,-
+Cocconeidaceae,498484,missing,ott498483,Leaf,;Cocconeis stauroneiformis;Cocconeis pediculus;Cocconeis placentula;Cocconeis cf. molesta
+Euglyphidae,247673,T,mrcaott15830ott15841,Node,-
+Nitriliruptoraceae,454291,-,-,Leaf,-
+Rhopalodiaceae,344386,missing,mrcaott193658ott322245,Leaf,;Rhopalodia gibba;Epithemia sorex;Epithemia turgida
+Cyrtolophosididae,209364,-,-,Leaf,-
+Acanthocystidae,203539,-,-,Node,-
+Phaeococcomycetaceae,5221632,missing,mrcaott235ott1320,Node,;Phaeococcomyces sp. MA 4712;Phaeococcomyces eucalypti;Phaeococcomycetaceae sp. CCFEE 5284;Etayoa trypethelii
+Trigonostomidae,304605,-,-,Leaf,-
+Bogoriellaceae,118091,-,-,Leaf,-
+Nitrosopumilaceae,933985,missing,None,False,;Nitrosopumilus ureiphilus;Nitrosopumilus oxyclinae;Candidatus Nitrosoarchaeum limnia
+Phyllobacteriaceae,46389,T,mrcaott89ott2460,Node,-
+Nitrospiraceae,1024716,T,mrcaott6117ott105428,Leaf,-
+Septobasidiaceae,758159,missing,None,False,Septobasidium canescens;Septobasidium sp. JBS-2010i;Septobasidium sp. JBO-2010f;Septobasidium sinuosum;Septobasidium sp. 2 RG-2014
+Pseudourostylidae,425255,missing,ott899768,Node,Nothoholosticha fasciola;Pseudourostyla nova
+Pteridaceae,164361,-,-,Leaf,-
+Eubacteriaceae,16703,-,-,Leaf,-
+Anacardiaceae,423320,-,-,Leaf,-
+Didiniidae,1013763,missing,ott636700,Leaf,;Cyclotrichium cyclokaryon
+Bryometopidae,60766,missing,ott360275,Leaf,Bryometopus pseudochilodon;Bryometopus sphagni;Bryometopus atypicus;
+Aurantimonadaceae,318334,-,-,Leaf,-
+Durvillaeaceae,9570,-,-,Leaf,-
+Eunotiaceae,111917,missing,ott111916,Leaf,;Eunotia sp. 1 LKM-2015;Eunotia sp. 116;Eunotia naegelii;Eunotia formica;Eunotia monodon
+Acaulosporaceae,157952,-,-,Leaf,-
+Tintinnidae,773697,missing,mrcaott2981ott15392,Node,;Tintinnidium mucicola;Eutintinnus cf. apertus;Tintinnidium cf. primitivum
+Ancylistaceae,167665,T,ott887960,Node,-
+Typhloplanidae,110831,-,-,Leaf,-
+Kallotenuaceae,5580351,-,-,Leaf,-
+Erwiniaceae,5998854,T,mrcaott103ott9270,Leaf,-
+Venturiaceae,581435,T,mrcaott1724ott13442,Node,-
+Ditrichaceae,195711,T,mrcaott1769ott87462,Node,-
+Methylobacteriaceae,139533,T,mrcaott1492ott5822,Node,-
+Selenastraceae,441643,-,-,Leaf,-
+Prolixibacteraceae,5357451,missing,mrcaott1100ott3185,Node,;Sunxiuqinia sp. FOUR-4;Draconibacterium orientale;Sunxiuqinia sp. JNU-J035;Sunxiuqinia faeciviva;Tangfeifania diversioriginum;Prolixibacter bellariivorans;Sunxiuqinia rutila;Prolixibacter denitrificans;Sunxiuqinia sp. CAU1234;Mangrovibacterium diazotrophicum;Sunxiuqinia dokdonensis;Sunxiuqinia elliptica;Sunxiuqinia sp. JNU-SGY008;Mariniphaga anaerophila;Sunxiuqinia sp.;Mariniphaga sediminis
+Ascodesmidaceae,16909,-,-,Leaf,-
+Amphidiniopsidaceae,5288565,missing,mrcaott4510ott5244,Node,Amphidiniopsis korewalensis;;Herdmania litoralis;Amphidiniopsis cf. kofoidii BB3;Archaeperidinium saanichi;Amphidiniopsis sp. MH-2016
+Corallinaceae,238997,-,-,Leaf,-
+Lophiostomataceae,659815,-,-,Leaf,-
+Sphaerozoidae,566624,missing,ott1093165,Leaf,;Sphaerozoum punctatum
+Mucoraceae,167677,-,-,Leaf,-
+Tobrilidae,5000230,-,-,Leaf,-
+Zosteraceae,637476,-,-,Leaf,-
+Gomphonemataceae,1033660,missing,ott5342311,Node,;Gomphonema narodoense;Didymosphenia geminata;Gomphonema clevei;Gomphoneis minuta;Gomphonema parvulum;Gomphonema micropus
+Parameciidae,106159,missing,ott568126,Leaf,;Paramecium duboscqui;Paramecium bursaria;Paramecium chlorelligerum;Paramecium buetschlii;Paramecium caudatum
+Chilodonellidae,628626,missing,ott331184,Node,;Pseudochilodonopsis mutabilis;Pseudochilodonopsis sp. 1 WS-2013;Pseudochilodonopsis quadrivacuolata;Pseudochilodonopsis fluviatilis;Phascolodon vorticella
+Rhodocyclaceae,854063,-,-,Leaf,-
+Chaetosphaeriaceae,737940,-,-,Leaf,-
+Idiomarinaceae,740996,-,-,Leaf,-
+Mycosphaerellaceae,827790,T,ott971709,Node,-
+Shewanellaceae,1039354,-,-,Leaf,-
+Sporormiaceae,335006,-,-,Leaf,-
+Sarcoscyphaceae,325802,-,-,Leaf,-
+Vacuolariaceae,936630,missing,ott587225,Leaf,Gonyostomum semen;Vacuolaria virescens
+Rhogostomidae,7529863,missing,ott530173,Leaf,;Rhogostoma minus;Rhogostoma schuessleri;Capsellina sp. ATCC 50039;Rhogostoma sp. CCAP 1966/4
+Funariaceae,821348,T,mrcaott7813ott86154,Leaf,-
+Deinococcaceae,577715,-,-,Leaf,-
+Schizoparmaceae,4053762,-,-,Leaf,-
+Ulvellaceae,1018102,-,-,Leaf,-
+Saccharomycetaceae,989994,-,-,Leaf,-
+Pisolithaceae,1033613,missing,ott1075176,Leaf,Pisolithus arhizus;Pisolithus albus;Pisolithus sp. ECV3205
+Archangiaceae,844192,-,-,Node,-
+Competibacteraceae,5247843,missing,ott5276441,Leaf,;Plasticicumulans lactativorans;Candidatus Competibacter phosphatis;Plasticicumulans acidivorans
+Methylocystaceae,592899,-,-,Leaf,-
+Clavicipitaceae,969668,T,ott971709,Node,-
+Trichomeriaceae,5345482,-,-,Leaf,-
+Litonotidae,215592,missing,ott69444,Leaf,Epiphyllum shenzhenense;Loxophyllum sp. DJ08110901
+Kreyellidae,932226,missing,mrcaott69135ott81749,Node,;Kreyellidae sp. MD-2012;Microdiaphanosoma arcuatum
+Cicadellidae,990675,-,-,Leaf,-
+Styelidae,103750,-,-,Leaf,-
+Mopaliidae,837691,T,ott161967,Leaf,-
+Campylobacteraceae,1033810,-,-,Leaf,-
+Geodermatophilaceae,805882,-,-,Leaf,-
+Hoehnelomycetaceae,564639,missing,ott3852781,Leaf,Proceropycnis pinicola
+Verrucomicrobiaceae,508842,-,-,Leaf,-
+Ceratostomataceae,281842,-,-,Leaf,-
+Lipomycetaceae,834206,-,-,Leaf,-
+Stokesiidae,373460,missing,ott49905,Leaf,;Stokesia sp. WS-2014;Stokesia vernalis
+Gigasporaceae,4815,-,-,Leaf,-
+Spionidae,912396,-,-,Leaf,-
+Pseudonocardiaceae,126141,T,mrcaott10354ott17309,Leaf,-
+Lentitheciaceae,866123,-,-,Leaf,-
+Frontoniidae,627608,missing,ott1002116,Node,;Frontonia tchibisovae;Frontonia sp. 4 WS-2014;Frontonia sp.;Frontonia elegans;Frontonia leucas;Frontonia pusilla;Frontoniidae sp. aAcq1;Frontonia sp. 1 WS-2014;Frontonia didieri;Disematostoma minor
+Brachionidae,471705,-,-,Leaf,-
+Brucellaceae,828127,-,-,Leaf,-
+Sarcosomataceae,598523,-,-,Leaf,-
+Caldilineaceae,533636,-,-,Node,-
+Nigrogranaceae,7513520,-,-,Leaf,-
+Sporomusaceae,5896178,missing,ott641357,Leaf,Sporomusa aerivorans;;Sporomusa malonica;Sporomusa sp. 2C;Desulfosporomusa polytropa
+Oocystaceae,339001,-,-,Leaf,-
+Phacidiaceae,164634,-,-,Leaf,-
+Karkinorhynchidae,752611,-,-,Leaf,-
+Zoogloeaceae,7030372,-,-,Leaf,-
+Ignavibacteriaceae,50759,-,-,Leaf,-
+Chromobacteriaceae,5580669,-,-,Leaf,-
+Lessoniaceae,753588,-,-,Leaf,-
+Marinilabiliaceae,7007831,missing,ott482372,Leaf,;Marinilabilia salmonicolor;Alkaliflexus imshenetskii;Carboxylicivirga sp. JR1;Carboxylicivirga taeanensis;Thermophagus xiamenensis;Carboxylicivirga linearis;Saccharicrinis fermentans;Marinilabilia nitratireducens;Mangroviflexus xiamenensis;Labilibacter marinus;Alkalitalea saponilacus;Anaerophaga sp. tok2;Geofilum rhodophaeum
+Golfingiidae,76597,-,-,Leaf,-
+Dacryobolaceae,7525374,missing,ott202387,Leaf,Oligoporus balsameus;Postia sp. 1 KUC20130808-38;Postia rennyi;Oligoporus dissectus;Postia subcaesia
+Rhizosoleniaceae,748232,missing,ott5248686,Leaf,;Proboscia alata;Guinardia flaccida;Pseudosolenia calcar-avis
+Phycisphaeraceae,822784,-,-,Leaf,-
+Phaeosphaeriaceae,581434,T,ott18194,Node,-
+Tetragoniomycetaceae,5260755,-,-,Leaf,-
+Leucosporidiaceae,898250,-,-,Leaf,-
+Ceratobasidiaceae,234858,-,-,Leaf,-
+Alcaligenaceae,324575,T,mrcaott89ott90,Node,-
+Rhodomelaceae,674033,missing,ott5275832,Node,;Polysiphonia stricta;Herposiphonia verticillata;Acanthophora spicifera;Wilsonosiphonia indica;Laurencia mcdermidiae;Herposiphonia versicolor;Palisada sp.;Herposiphonia secunda;Odonthalia floccosa;Lophocladia sp. ARS-2011;Rhodomela lycopodioides;Laurencia snackeyi;Laurencieae sp.;Chondria sp.;Chondrophycus succisus;Chondria coerulescens;Wilsonosiphonia fujiae;Neosiphonia confusa;Chondria sp. ARS-2010;Osmundea spectabilis;Osmundaria fimbriata;Pterosiphonia gracilis;Laurenciella marilzae;Laurencia sp.;Neosiphonia yendoi;Polysiphonia pacifica;Neosiphonia paniculata;Pterosiphonia sp. 3dendroidea;Symphyocladia dendroidea;Laurencia nipponica;Chondrophycus sp.;Dictyomenia sp. 2sonderi;Polysiphonia sp. 1Cal;Pterosiphonia sp. 3baileyi;Chondria dangeardii;Polysiphonia sertularioides
+Granulosicoccaceae,377598,-,-,Leaf,-
+Polygonaceae,904376,-,-,Leaf,-
+Botryidiopsidaceae,754467,-,-,Leaf,-
+Filobasidiaceae,611414,-,-,Leaf,-
+Bulleraceae,6382500,missing,mrcaott20826ott83205,Node,Fonsecazyma tronadorensis;Fonsecazyma mujuensis;Genolevuria bromeliarum;Pseudotremella moriformis;Genolevuria amylolytica;Bullera sp. VY-86;Genolevuria armeniaca;Bullera alba;Bullera unica;Bullera aff. pseudoalba IMUFRJ 51951;Fonsecazyma betulae
+Promicromonosporaceae,856874,-,-,Leaf,-
+Aeromonadaceae,160603,T,ott767314,Leaf,-
+Chthamalidae,663620,T,mrcaott6741ott6742,Leaf,-
+Plesiotrichopidae,374670,missing,ott331184,Node,Trochochilodon flavus;Pithites vorax
+Phaselicystidaceae,914477,-,-,Leaf,-
+Cystocloniaceae,409806,missing,ott5275832,Node,;Rhodophyllis sp. 3GWS;Calliblepharis ciliata;Rhodophyllis parasitica;Rhodophyllis membranacea;Calliblepharis jubata
+Campanulariidae,945740,T,mrcaott33385ott144192,Leaf,-
+Ericaceae,66730,-,-,Leaf,-
+Pfiesteriaceae,594794,missing,mrcaott4510ott5244,Node,;Pfiesteria-like sp. CCMP1838;Pfiesteria-like sp. NC Lucy-V27;Cryptoperidiniopsis brodyi;Aduncodinium glandula;Pfiesteria-like sp. F525Jul02;Pfiesteria piscicida;Pfiesteria-like sp. HR1SSeptA5
+Euzebyaceae,1027631,-,-,Leaf,-
+Coniothyriaceae,5345468,-,-,Leaf,-
+Cystobasidiaceae,1024595,-,-,Leaf,-
+Sphaerobacteraceae,282093,-,-,Leaf,-
+Neisseriaceae,286853,-,-,Leaf,-
+Chaetonotidae,582597,-,-,Leaf,-
+Plectidae,520552,-,-,Leaf,-
+Micropepsaceae,7023621,-,-,Leaf,-
+Acidimicrobiaceae,132822,-,-,Leaf,-
+Tuberaceae,526210,-,-,Leaf,-
+Cyclopidae,451821,-,-,Leaf,-
+Acidobacteriaceae,220312,missing,ott952528,Node,;Acidobacterium sp. ORAC;Acidicapsa acidisoli;bacterium Ellin342;bacterium Ellin6075;bacterium Ellin5227;Granulicella rosea;Acidobacterium sp. SCGC AAA240-K18;Acidicapsa ferrireducens;Acidobacteria bacterium KBS 96;Acidicapsa sp.;Acidobacteriaceae bacterium Gsoil 969;Acidobacteriaceae bacterium Gsoil 1619;Occallatibacter savannae;Acidicapsa borealis;bacterium Ellin323;Acidobacterium sp. SCGC AAA240-O11;bacterium Ellin5257;Edaphobacter sp. IMSNU JC2954;Terracidiphilus gabretensis;Acidobacteriaceae bacterium CH1;Acidobacteriaceae bacterium enrichment culture clone ANA-RAS-33;Acidobacteriaceae bacterium C27;Acidobacteriaceae bacterium KBS89;bacterium Ellin6074;bacterium Ellin371;Acidobacterium sp. SCGC AAA007-K07;Granulicella sp. J3R;Acidobacterium capsulatum;Granulicella paludicola;Acidicapsa ligni;Granulicella aggregans;Terriglobus sp. L56;bacterium Ellin6071;bacterium Ellin5058;Occallatibacter riparius;Acidobacteria bacterium KBS 83;Edaphobacter sp. SBC68;Granulicella sp. 5B5;Acidicapsa sp. CE1;bacterium Ellin6099;Acidobacterium ailaaui;Acidobacteriaceae isolate WJ7;Granulicella sapmiensis;Edaphobacter acidisoli;Terriglobus saanensis;Granulicella mallensis;bacterium Ellin6100;Terriglobus roseus;Acidobacterium sp. BK18;Granulicella sp. L60;Acidobacteriaceae bacterium A2-4c;Granulicella pectinivorans;Granulicella tundricola;Granulicella cerasi;bacterium Ellin5237;bacterium Ellin6115;Edaphobacter dinghuensis;Acidobacterium sp. WY65;bacterium Ellin327;Candidatus Koribacter versatilis;bacterium Ellin5121;bacterium Ellin326
+Ceramiaceae,629558,missing,ott5275832,Node,Callithamnion baileyi;;Aglaothamnion sp. ARS-2011;Ceramium macilentum;Euptilocladia magruderi;Callithamnion consanguineum;Callithamnion collabens;Aglaothamnion halliae;Ceramium sungminbooi;Centroceras clavulatum;Aglaothamnion hookeri;Aglaothamnion sp.;Corallophila eatoniana
+Cyphellophoraceae,5345109,-,-,Leaf,-
+Solirubrobacteraceae,871283,-,-,Leaf,-
+Bacillaceae,589414,T,mrcaott184ott216,Node,-
+Glomeraceae,157950,-,-,Leaf,-
+Corticiaceae,464881,T,mrcaott109ott33764,Node,-
+Adinetidae,787513,-,-,Leaf,-
+Clostridiales Family XVII. Incertae Sedis,None,missing,mrcaott35336ott56955,Leaf,;Thermaerobacter subterraneus;Sulfobacillus acidophilus;Thermaerobacter sp.;Sulfobacillus sp.
+Myxotrichaceae,84168,missing,None,False,;Myxotrichum deflexum;Oidiodendron sp. KO-groupC 2014;Myxotrichum sp. 20081189;Oidiodendron tenuissimum;Oidiodendron sp. 1 2017;Oidiodendron griseum;Oidiodendron sp.;Oidiodendron rhodogenum
+Trichosporonaceae,4107405,-,-,Leaf,-
+Arthrodermataceae,188805,T,mrcaott13947ott542218,Leaf,-
+Sarcocystidae,775241,missing,ott533741,Leaf,;Sarcocystis bovifelis;Sarcocystis sp. CET;Sarcocystis truncata;Sarcocystis sinensis;Sarcocystis cruzi;Toxoplasma gondii
+Physalacriaceae,1082072,-,-,Leaf,-
+Corynesporascaceae,4081755,-,-,Leaf,-
+Helotiaceae,121698,T,ott51652,Node,-
+Caulobacteraceae,799500,-,-,Leaf,-
+Dictyonellidae,738878,T,mrcaott8837ott93865,Node,-
+Holophagaceae,684987,-,-,Leaf,-
+Katablepharidaceae,269577,-,-,Leaf,-
+Magnaporthaceae,168443,T,ott971709,Node,-
+Piscicolidae,251556,-,-,Leaf,-
+Pseudanabaenaceae,248085,missing,None,False,;Pantanalinema rosaneae;Pseudanabaenaceae cyanobacterium WJT19-NPBG5
+Aphanizomenonaceae,5575177,missing,mrcaott1972ott6938,Leaf,;Nodularia spumigena
+Thioalkalispiraceae,845370,missing,mrcaott103ott33958,Node,;Endothiovibrio diazotrophicus;Thioalkalispira sp. HDS22;Thiohalophilus thiocyanatoxydans;Sulfurivermis fontis
+Pythiogetonaceae,398393,-,-,Leaf,-
+Steccherinaceae,6382178,missing,ott42234,Leaf,;Steccherinum bourdotii;Steccherinum ochraceum;Steccherinum cf. fimbriatum UC2022977;Junghuhnia carneola
+Eunicidae,260033,T,mrcaott42379ott113093,Leaf,-
+Bdellovibrionaceae,469981,-,-,Leaf,-
+Marynidae,603367,missing,ott150037,Leaf,;Maryna umbrellata;Maryna ovata
+Placospongiidae,368916,-,-,Leaf,-
+Sandonidae,4005489,missing,ott873592,Node,Bodomorpha sp. HFCC 927;;Bodomorpha minima;Bodomorpha sp. Panama115;Bodomorpha sp. HFCC 926;Bodomorpha sp. HFCC 92;Bodomorpha sp. HFCC57;Bodomorpha sp. Panama105;Bodomorpha sp. HFCC56
+Chattonellaceae,936627,missing,ott587225,Leaf,;Fibrocapsa japonica;Viridilobus marinus;Chattonella marina;Heterosigma akashiwo;Chattonella subsalsa
+Saccotheciaceae,5347805,missing,ott1025079,Leaf,Aureobasidium iranianum;;Aureobasidium sp.;Aureobasidium pullulans;Aureobasidium sp. 13 KW-2015;Saccothecium rubi
+Delesseriaceae,762359,missing,ott5275832,Node,Sorella repens;;Caloglossa intermedia;Hypoglossum hypoglossoides;Hymenena sp. 3GWS;Polyneuropsis stolonifera;Claudea elegans;Martensia jejuensis;Patulophycus eclipes;Acrosorium ciliolatum;Membranoptera tenuis;Apoglossum ruscifolium
+Microthoracidae,1023410,-,-,Leaf,-
+Bryobacteraceae,7001977,-,-,Leaf,-
+Pyrinomonadaceae,7002016,missing,ott5248128,Leaf,;Pyrinomonas methylaliphatogenes;Arenimicrobium luteum;Brevitalea deliciosa;Brevitalea aridisoli
+Sphingomonadaceae,810820,T,ott800600,Node,-
+Haloplasmataceae,4766965,-,-,Leaf,-
+Gnomoniaceae,708292,-,-,Leaf,-
+Glomerellaceae,155152,-,-,Leaf,-
+Syllidae,881665,-,-,Leaf,-
+Chroococcidiopsidaceae,5993764,missing,mrcaott355ott594,Node,Aliterella antarctica;Chroococcidiopsis sp. 28B;Chroococcidiopsis sp. MMG-6
+Aphanothecaceae,5575172,missing,ott4773871,Leaf,Candidatus Atelocyanobacterium thalassa
+Erysiphaceae,555361,-,-,Leaf,-
+Salpingoecidae,1066307,-,-,Leaf,-
+Bolbitiaceae,234956,T,mrcaott206ott11226,Leaf,-
+Thermomonosporaceae,1050974,T,mrcaott1403ott8433,Node,-
+Microdochiaceae,5682546,missing,mrcaott1741ott2987,Node,;Microdochium phragmitis;Microdochium sp.;Microdochium nivale;Idriella lunata;Microdochium seminicola;Microdochium bolleyi
+Dysgonamonadaceae,7008015,missing,ott622991,Leaf,;Dysgonomonas capnocytophagoides;Dysgonomonas sp. PH5-20;Dysgonomonas sp. DT183;Dysgonomonas macrotermitis
+Claroideoglomeraceae,946830,-,-,Leaf,-
+Stephanopyxidaceae,86156,missing,ott663107,Leaf,Stephanopyxis turris
+Colwelliaceae,462335,-,-,Leaf,-
+Thermoanaerobacteraceae,589411,T,mrcaott184ott2035,Node,-
+Coxiellaceae,899058,T,mrcaott719ott162734,Leaf,-
+Prayidae,619449,T,mrcaott15308ott110785,Node,-
+Debaryomycetaceae,691987,-,-,Leaf,-
+Moraxellaceae,134473,T,mrcaott1093ott2355,Node,-
+Irpicaceae,7525476,missing,mrcaott6711ott6854,Node,Gloeoporus taxicola;Meruliopsis sp. UC2023018;Ceriporia purpurea;Emmia lacerata
+Omphalotaceae,309993,T,mrcaott109ott19801,Leaf,-
+Paramoebidae,577069,missing,mrcaott4514ott118300,Leaf,;Korotnevella jeppesenii;Paramoeba pemaquidensis;Neoparamoeba longipodia;Cunea profundata;Korotnevella hemistylolepis;Korotnevella pelagolacustris;Cunea thuwala
+Sabellidae,992906,-,-,Leaf,-
+Loxocephalidae,790730,missing,ott310012,Node,;Dexiotricha cf. granulosa;Paratetrahymena sp. JJG-2008;Paratetrahymena parawassi;Cardiostomatella vermiformis;Dexiotricha elliptica
+Entomophthoraceae,167672,-,-,Leaf,-
+Polycystididae,162364,-,-,Leaf,-
+Mycocaliciaceae,1066510,-,-,Leaf,-
+Isosphaeraceae,5896423,-,-,Leaf,-
+Sporocadaceae,5982737,missing,mrcaott105382ott294634,Leaf,;Pestalotiopsis sp. YM1;Monochaetia dimorphospora;Seiridium marginatum;Hymenopleella hippophaeicola;Pestalotiopsis sp.;Seiridium cardinale
+Rhizidiomycetaceae,910109,-,-,Leaf,-
+Conexibacteraceae,346713,-,-,Leaf,-
+Streptomycetaceae,700213,T,mrcaott73ott292,Node,-
+Clostridiales Family XII. Incertae Sedis,None,missing,mrcaott184ott216,Node,;Fusibacter fontis;Fusibacter sp. VNs02;Acidaminobacter sp. enrichment culture clone B18;Fusibacter sp. enrichment culture;Acidaminobacter sp. CJ5;Fusibacter tunisiensis
+Nassulidae,354059,-,-,Leaf,-
+Thermomicrobiaceae,1085867,-,-,Leaf,-
+Valsaceae,103004,-,-,Leaf,-
+Tulasnellaceae,183806,-,-,Leaf,-
+Pseudocohnilembidae,702781,missing,ott702783,Leaf,;Pseudocohnilembus persalinus;Pseudocohnilembus marinus;Pseudocohnilembus hargisi
+Trimorphomycetaceae,6382585,missing,ott183800,Node,;Saitozyma podzolica;Saitozyma flava;Trimorphomyces papilionaceus;Saitozyma paraflava;Saitozyma ninhbinhensis
+Sphenoderiidae,5288603,-,-,Leaf,-
+Xylariaceae,44252,-,-,Leaf,-
+Sabellariidae,336912,-,-,Leaf,-
+Orthodonellidae,1072118,-,-,Leaf,-
+Epalxellidae,1046642,-,-,Leaf,-
+Centritractaceae,1004454,missing,ott150999,Leaf,;Bumilleriopsis filiformis
+Cyanidiaceae,696106,missing,mrcaott2ott3973,Node,Cyanidiaceae sp. MX-AZ01;Cyanidioschyzon sp. Y16
+Pavlovaceae,928313,missing,ott5246135,Leaf,;Pavlova pinguis;Exanthemachrysis sp. AC249;Pavlova sp. MBIC10665;Rebecca salina;Pavlova virescens;Pavlova ennorea;Exanthemachrysis sp. AC37;Pavlova lutheri
+Hyphomonadaceae,101508,-,-,Leaf,-
+Brassicaceae,309271,-,-,Leaf,-
+Gonatozygaceae,684006,-,-,Leaf,-
+Mastigamoebidae,815958,T,mrcaott902342ott958215,Leaf,-
+Cordycipitaceae,419069,T,ott971709,Node,-
+Carnobacteriaceae,68422,T,mrcaott975ott4059,Leaf,-
+Nakamurellaceae,805878,-,-,Leaf,-
+Chordariaceae,556107,T,mrcaott2378ott3345,Node,-
+Cunninghamellaceae,887966,-,-,Leaf,-
+Leucobryaceae,1023962,T,mrcaott14541ott124912,Leaf,-
+Harknessiaceae,5342472,-,-,Leaf,-
+Dysteriidae,1037212,missing,ott1037220,Leaf,;Dysteria sp. CFL08120904;Microdysteria decora;Dysteria semilunaris;Dysteria ovalis;Dysteria nabia;Dysteria pectinata;Dysteria crassipes
+Rhodobiaceae,139538,-,-,Leaf,-
+Lulworthiaceae,90657,-,-,Leaf,-
+Diversisporaceae,1059385,-,-,Leaf,-
+Auriculariaceae,434121,-,-,Node,-
+Rhodanobacteraceae,5912938,missing,ott648766,Leaf,;Rhodanobacter sp. DCY112;Dokdonella fugitiva;Luteibacter rhizovicinus;Dokdonella immobilis;Rhodanobacter sp. YG-27;Rudaea cellulosilytica;Dyella ginsengisoli;Rudaea sp. YC6842;Dyella sp. THG-D3;Rudaea sp. B0.10-151;Gynumella flava (nomen rejiciendum);Luteibacter sp. K20-81;Dyella nitratireducens;Dokdonella ginsengisoli;Aquimonas sp. enrichment culture clone 03SUJ1;Rudaea sp. URHD0100;Frateuria aurantia;Rhodanobacter lindaniclasticus;Tahibacter aquaticus;Chiayiivirga flava;Rudaea sp. UR 1-01
+Mamiellaceae,300512,-,-,Leaf,-
+Microcoleaceae,5586460,missing,mrcaott594ott13848,Leaf,;Microcoleus sp. ATA1-4-DP04;Microcoleus sp. AR10;Microcoleus vaginatus;Planktothrix tepida;Hydrocoleum sp. MF1;Microcoleus steenstrupii;Tychonema sp. 39et 2014;Kamptonema animale;Microcoleus sp. 50et;Microcoleus sp. T2
+Cryptosporangiaceae,201800,-,-,Leaf,-
+Dictyochloridaceae,5602198,-,-,Leaf,-
+Crocinitomicaceae,5886384,missing,mrcaott1100ott56697,Leaf,;Crocinitomix sp.;Lishizhenia tianjinensis;Fluviicola taffensis;Fluviicola sp.;Lishizhenia caseinilytica;Fluviicola hefeinensis;Fluviicola sp. YS 1.2.4;Candidatus Fluviicola riflensis;Wandonia haliotis;Fluviicola sp. THG-D9;Salinirepens amamiensis;Crocinitomix algicola
+Hypocreaceae,728370,T,ott971709,Node,-
+Halieaceae,4790589,missing,mrcaott103ott1093,Node,;Halieaceae bacterium U0301;Haliea sp. DSW4-36;marine gamma proteobacterium HTCC2246;Arctic sea ice bacterium ARK10038;Chromatocurvus halotolerans;Haliea sp. ETY-NAG;Pseudohaliea rubra;Halioglobus pacificus;Marimicrobium arenosum;Parahaliea aestuarii
+Phaeotremellaceae,6382569,missing,ott90104,Leaf,;Phaeotremella sp.;Gelidatrema spencermartinsiae;Phaeotremella skinneri
+Malawimonadidae,935430,missing,ott592946,Leaf,Malawimonas californiana;Malawimonas sp. strain 249
+Stereaceae,934885,T,mrcaott471ott5265,Node,-
+Coniochaetaceae,812336,-,-,Leaf,-
+Fissidentaceae,981711,-,-,Leaf,-
+Prasiolaceae,668722,-,-,Leaf,-
+Achnanthaceae,166701,missing,ott5342311,Node,;Achnanthes brevipes;Planothidium lanceolatum
+Strombidiidae,17841,missing,ott810565,Leaf,;Parallelostrombidium paralatum;Spirostrombidium apourceolare;Spirostrombidium agathae;Strombidium sp. JG-2011a;Novistrombidium sinicum;Novistrombidium orientale;Laboea strobila;Strombidium inclinatum;Strombidium hausmanni;Strombidium stylifer;Strombidium oculatum;Strombidium rassoulzadegani;Omegastrombidium elegans;Strombidium sulcatum;Strombidium cuneiforme
+Ectocarpaceae,48627,-,-,Leaf,-
+Phanerochaetaceae,7505,-,-,Leaf,-
+Cerambycidae,968359,T,mrcaott11244ott21732,Leaf,-
+Herpotrichiellaceae,1051950,T,ott971709,Node,-
+Heliobacteriaceae,19960,-,-,Leaf,-
+Chthoniobacteraceae,5249348,-,-,Leaf,-
+Umbelopsidaceae,5257415,-,-,Leaf,-
+Batrachospermaceae,629576,missing,mrcaott7358ott9920,Leaf,;Batrachospermum macrosporum;Setacea atro-brasiliensis;Sirodotia sp. 1 MOP-2013;Sheathia confusa
+Rutstroemiaceae,620522,-,-,Leaf,-
+Amanitaceae,445863,-,-,Leaf,-
+Colepidae,1063558,-,-,Leaf,-
+Heterocapsaceae,416759,missing,mrcaott172875ott445957,Leaf,;Heterocapsa pygmaea;Heterocapsa rotundata
+Peptostreptococcaceae,16707,T,mrcaott216ott19969,Leaf,-
+Metopidae,627087,missing,ott1004604,Leaf,Heterometopus palaeformis;;Metopus es;Brachonella contorta;Metopidae sp. aLdG3
+Gaiellaceae,232866,-,-,Leaf,-
+Pseudokeronopsidae,790715,missing,mrcaott2981ott2983,Leaf,;Pseudokeronopsis rubra;Apokeronopsis ovalis;Pseudokeronopsis flava;Apokeronopsis wrighti;Pseudokeronopsis carnea
+Cupressaceae,620757,-,-,Leaf,-
+Paenibacillaceae,68433,-,-,Leaf,-
+Clostridiaceae,748885,T,mrcaott184ott216,Node,-
+Russulaceae,611412,T,ott1012685,Node,-
+Anisolpidiaceae,4807253,-,-,Leaf,-
+Peritromidae,683084,missing,ott683078,Leaf,Peritromus kahli
+Ruminococcaceae,761268,T,mrcaott184ott63791,Node,-
+Pinaceae,994067,-,-,Leaf,-
+Rhizophydiaceae,894419,-,-,Leaf,-
+Chloroflexaceae,973293,-,-,Leaf,-
+Hyphomicrobiaceae,377926,T,mrcaott89ott5304,Node,-
+Chironomidae,661367,-,-,Leaf,-
 Entolomataceae,438740,T,mrcaott2427ott78376,Leaf,-
+Gymnoascaceae,84169,T,mrcaott7943ott7946,Node,-
+Pseudomuriellaceae,5602195,-,-,Leaf,-
+Hygrophoraceae,282217,T,mrcaott109ott206,Node,-
+Barrancaceae,5917694,-,-,Leaf,-
+Mysidae,833650,-,-,Leaf,-
+Chlorodendraceae,542100,-,-,Leaf,-
+Teratosphaeriaceae,234186,T,mrcaott235ott6545,Node,-
+Phyllophoraceae,411728,missing,None,False,;Gymnogongrus sp. HugheyJ_6.vii.96
+Terebellidae,106108,-,-,Leaf,-
+Methylococcaceae,489013,-,-,Leaf,-
+Schizoporaceae,580418,-,-,Leaf,-
+Tontoniidae,880865,missing,None,False,;Pseudotontonia sp. JG-2011a
+Kineosporiaceae,41216,-,-,Leaf,-
+Marinifilaceae,5586314,missing,None,False,;Marinifilum sp. 4SWWS2-6;Marinifilum sp. TWO-1;Marinifilum albidiflavum;Ancylomarina subtilis;Marinifilaceae bacterium SPP2;Marinifilum sp. JNU-H036
+Pseudomonadaceae,767325,T,mrcaott89ott90,Node,-
+Bathycoccaceae,4734594,-,-,Leaf,-
+Apolemiidae,536356,-,-,Leaf,-
+Hypsibiidae,864429,-,-,Leaf,-
+Melosiraceae,753587,missing,ott1098671,Leaf,;Melosira varians;Melosira nummuloides;Melosira sp. TN-2014;Melosira ambiqua;Melosira sp. 52
+Leptosphaeriaceae,555349,T,mrcaott1320ott37385,Node,-
+Chlorociboriaceae,6379217,missing,ott694200,Leaf,Chlorociboria aeruginosa
+Skeletonemataceae,748247,missing,ott569303,Leaf,;Skeletonema costatum;Skeletonema cf. pseudocostatum;Skeletonema ardens;Skeletonema potamos;Skeletonema menzellii;Skeletonema sp. NIES-323;Skeletonema tropicum;Skeletonema dohrnii
+Onuphidae,1025751,T,mrcaott42379ott140961,Node,-
+Lichtheimiaceae,977237,-,-,Leaf,-
+Atheliaceae,537242,T,mrcaott109ott9895,Node,-
+Caryophyllaceae,317818,-,-,Leaf,-
+Chitinispirillaceae,5890864,-,-,Leaf,-
+Verrucomicrobia subdivision 3,384339,-,-,Leaf,-
+Adeleidae,389668,-,-,Leaf,-
+Coleofasciculaceae,5586461,missing,None,False,;cf. Wilmottia sp. CAWBG522;Geitlerinema sp. BBD;Coleofasciculus chthonoplastes;Wilmottia murrayi
+Crassulaceae,509332,-,-,Leaf,-
+Desulfuromonadaceae,726990,T,mrcaott11138ott11151,Node,-
+Piptocephalidaceae,157880,-,-,Leaf,-
+Veillonellaceae,90757,T,ott272720,Node,-
+Alcanivoracaceae,441950,T,mrcaott103ott1562,Node,-
+Selenidiidae,677743,-,-,Leaf,-
+Thiotrichaceae,193073,T,mrcaott1562ott12573,Node,-
+Spongiibacteraceae,5587899,missing,mrcaott103ott1093,Node,;Spongiibacter sp. CC-AMW-B;Spongiibacter marinus;Oceanicoccus sagamiensis;BD1-7 clade bacterium;Dasania marina;Spongiibacter sp. HME8849;Zhongshania guokunii;Spongiibacter taiwanensis;Oceanicoccus sp. KOV_DT_Chl;Zhongshania antarctica
+Platyophryidae,69130,missing,ott581771,Leaf,;Platyophrya vorax;Platophryidae sp. MSD-2007
+Dumontiaceae,409813,missing,ott5275832,Node,Dudresnaya verticillata;Waernia mirabilis;Dumontia contorta
+Trinematidae,875559,-,-,Leaf,-
+Lentimicrobiaceae,5886140,-,-,Leaf,-
+Dinobryaceae,554980,missing,mrcaott6033ott15572,Node,Epipyxis aureus;;Dinobryon sociale;Epipyxis pulchra;Dinobryon sertularia;Poteriospumella lacustris;Poteriospumella sp.;Dinobryon divergens
+Blepharismidae,159785,missing,ott76881,Leaf,;Blepharisma steini;Blepharisma americanum
+Rhizobiaceae,158309,T,mrcaott89ott26838,Leaf,-
+Desulfarculaceae,38916,-,-,Leaf,-
+Condylostomatidae,159782,missing,ott142537,Leaf,Condylostoma spatiosum;Condylostomides sp. NMF-2015;Condylostoma arenarium;
+Cymatosiraceae,549290,missing,mrcaott28086ott595680,Leaf,;Leyanella arenaria;Minutocellus polymorphus;Minutocellus sp. CW-2009a
+Parviterribacteraceae,5885966,-,-,Leaf,-
+Pleurotaceae,13836,-,-,Leaf,-
+Piskurozymaceae,5985468,-,-,Leaf,-
+Myrmecridiaceae,5982357,-,-,Leaf,-
+Anaeromyxobacteraceae,5588715,missing,ott179328,Leaf,;Anaeromyxobacter sp. Fw109-5;Anaeromyxobacter dehalogenans
+Tribonemataceae,223413,missing,ott898587,Leaf,;Tribonema utriculosum;Tribonema ulotrichoides;Tribonema aequale;Tribonema intermixum
+Cavosteliaceae,502085,missing,ott431659,Leaf,Ceratiomyxella tahitiensis;Cavosteliaceae sp. M71
+Enterococcaceae,910233,T,mrcaott1125ott5987,Leaf,-
+Asteraceae,46248,-,-,Leaf,-
+Vannellidae,780586,missing,mrcaott4514ott4515,Node,;Vannella sp. ISCRH;Vannella sp. S98M54F;Vannella sp. KONT2Pe;Vannella sp. ELH5;Vannella epipetala;Platyamoeba contorta;Vannella sp. ISOKONT;Paravannella minima;Platyamoeba sp. strain SBV1/I;Vannella sp. ELH3;Ripella tribonemae;Vannella sp. BAK1;Vannella sp. JRF2;Vannella pentlandii
+Endomicrobiaceae,5890857,missing,ott5247022,Leaf,;Candidatus Endomicrobium sp. MdDo-005;Candidatus Endomicrobium pyrsonymphae;Endomicrobium sp.;Candidatus Endomicrobium trichonymphae;Endomicrobium proavitum
+Enchelyidae,1013765,missing,ott613620,Leaf,Enchelys polynucleata
+Ophiocordycipitaceae,419068,T,ott971709,Node,-
+Thioprofundaceae,7032695,missing,ott626433,Leaf,;Thioprofundum hispidum;Thioprofundum lithotrophicum
+Taeniacanthidae,644816,T,mrcaott92633ott834287,Leaf,-
+Dictyotaceae,48625,-,-,Leaf,-
+Warnowiaceae,821615,missing,ott5251327,Node,;Nematodinium sp. BSL-2009a;Warnowia sp. BSL-2009a
+Caldicoprobacteraceae,139073,-,-,Leaf,-
+Actinochloridaceae,967446,-,-,Leaf,-
+Stephanodiscaceae,4026062,missing,mrcaott17542ott90995,Leaf,;Stephanodiscus minutulus;Cyclotella choctawhatcheeana;Cyclotella cryptica;Cyclotella litoralis;Cyclotella cf. scaldensis G18W53;Stephanodiscus hantzschii;Cyclostephanos invisitatus;Cyclotella sp. 119;Cyclotella meneghiniana
+Sporidiobolaceae,4095240,T,ott634628,Node,-
+Bangiaceae,864269,-,-,Leaf,-
+Rhizophlyctidaceae,5219619,-,-,Leaf,-
+Chionosphaeraceae,1085835,T,mrcaott23276ott60764,Node,-
+Melanommataceae,566526,-,-,Leaf,-
+Periconiaceae,6377823,-,-,Leaf,-
+Chaetopteridae,466487,-,-,Leaf,-
+Lycoperdaceae,558970,missing,ott304358,Node,Handkea utriformis;;Calvatia fragilis;Bovista plumbea;Disciseda candida;Vascellum curtisii;Handkea fumosa;Holocotylon brandegeeanum;Lycoperdon sp. H20;Bovista dermoxantha;Lycoperdon pyriforme;Lycoperdon subcretaceum;Lycoperdon pusillum;Bovista aestivalis;Calvatia pachydermica
+Candidatus Brocadiaceae,454953,-,-,Leaf,-
+Thiobacillaceae,7030313,missing,mrcaott488ott18118,Node,Annwoodia aquaesulis;;Sulfuritortus calidifontis;Thiobacillus thioparus
+Gromiidae,962360,missing,ott962362,Leaf,Gromia oviformis
+Trichosphaeriaceae,123364,-,-,Leaf,-
+Peronosporaceae,712864,missing,ott555765,Node,;Peronospora belbahrii;Bremia sp. YJC-2015b;Peronospora paula;Pseudoperonospora cubensis;Peronospora trifolii-minoris;Peronospora corydalis;Peronospora scutellariae;Peronospora tomentosa;Peronospora holostei;Peronospora alta;Peronospora lamii;Hyaloperonospora parasitica;Peronospora corydalis-intermediae;Peronospora ranunculi;Peronospora calotheca;Benua kellermanii;Hyaloperonospora dentariae-macrophyllae;Peronospora saturejae-hortensis;Hyaloperonospora nesliae;Peronospora variabilis;Bremia lactucae;Peronospora violae;Peronospora tabacina;Peronospora trifolii-hybridi;Peronospora sp.;Peronospora sp. MA-Fungi 27841;Peronospora linariae-genistifoliae;Peronospora manshurica;Hyaloperonospora dentariae;Peronospora trifoliorum;Basidiophora entospora;Calycofera operculata;Plasmopara pusilla
+Kentrophoridae,962515,-,-,Leaf,-
+Gemmataceae,5996314,-,-,Leaf,-
+Rivulariaceae,77233,missing,None,False,;cf. Calothrix sp. muscicolous cyanobiont 5;Calothrix sp. LEGE 07177
+Heteromitidae,554902,missing,ott554901,Leaf,;soil flagellate AND21;Heteromita sp. PRA-74;Heteromita globosa;soil flagellate AND24;Rigidomastix-like sp. (SA)
+Naviculaceae,172205,missing,ott5342311,Node,;Navicula sp. BOLD:AAO6950;Rossia sp. CH2;Fistulifera saprophila;Navicula diserta;Caloneis amphisbaena;Navicula pulchripora;Navicula minima;Navicula phyllepta;Haslea karadagensis;Navicula sp. Nav.I;Eolimna subminuscula;Rossia sp. TF-2014;Navicula cryptocephala;Haslea wawrikae;Haslea ostrearia;Navicula perminuta;Geissleria decussis;Eolimna minima;Haslea crucigera;Mayamaea permitis;Haslea sp. CCMP1981;Haslea nipkowii;Navicula ramosissima;Dickieia ulvacea;Fistulifera pelliculosa;Navicula sp. ETS 07;Navicula sp. AT-145.08;Fistulifera solaris;Navicula salinicola;Haslea pseudostrearia;Hippodonta capitata;Navicula symmetrica;Navicula cari;Navicula sp. BOLD:AAO6951;Haslea salstonica;Mayamaea atomus;Haslea provincialis;Navicula pseudacceptata;Pinnunavis sp. 118
+Enchytraeidae,840754,-,-,Leaf,-
+Microcaliciaceae,4066951,-,-,Leaf,-
+Hydrodictyaceae,425644,-,-,Leaf,-
+Amphisiellidae,84486,missing,ott899768,Node,;Orthoamphisiella sp. MD-2012;Amphisiella aff. milnei FG-2016;Amphisiella magnigranulosa;Hemiamphisiella terricola;Amphisiella pulchra
+Meruliaceae,42234,-,-,Leaf,-
+Caliciaceae,339438,-,-,Leaf,-
+Aspidiscidae,700383,missing,ott700370,Leaf,Aspidisca steini;Aspidisca fusca
+Asplanchnidae,251965,-,-,Leaf,-
+Hydruraceae,884650,missing,ott4029447,Leaf,Hydrurus foetidus;Chrysonebula flava
+Nordiidae,352944,-,-,Leaf,-
+Vaucheriaceae,223421,-,-,Leaf,-
+Hyphochytriaceae,910104,missing,ott435099,Leaf,Hyphochytrium catenoides
+Mycobacteriaceae,759688,-,-,Leaf,-
+Suessiaceae,183161,-,-,Node,-
+Harpacticidae,639300,-,-,Leaf,-
+Eremomycetaceae,548954,missing,ott194608,Leaf,;Arthrographis kalrae;Arthrographis arxii;Arthrographis sp. 07MA20;Eremomyces bilateralis
+Rubiaceae,1014022,-,-,Leaf,-
+Geraniaceae,948914,-,-,Leaf,-
+Cyphoderiidae,639619,-,-,Leaf,-
+Oedogoniomycetaceae,33394,-,-,Leaf,-
+Gomontiellaceae,4016284,missing,mrcaott594ott13848,Leaf,;Crinalium sp. UMPCCC 1112;Hormoscilla pringsheimii;Crinalium epipsammum;Starria zimbabweensis
+Hymenochaetaceae,569043,T,ott1012685,Node,-
+Desmacellidae,174866,T,mrcaott16797ott25808,Leaf,-
+Glaucocystaceae,664968,-,-,Leaf,-
+Macrobiotidae,111444,-,-,Leaf,-
+Veneridae,198197,T,mrcaott2556ott6150,Node,-
+Nectriaceae,104185,T,ott971709,Node,-
+Sterolibacteriaceae,7030308,missing,mrcaott90ott17019,Node,;Methyloversatilis thermotolerans;Denitratisoma oestradiolicum;Methyloversatilis universalis;Sterolibacterium sp. TKU1;Denitratisoma sp. enrichment culture clone ANA-RAS-29;Denitratisoma sp. enrichment culture;Sterolibacterium denitrificans;Sulfuritalea hydrogenivorans;Georgfuchsia toluolica;Sulfurisoma sediminicola;Denitratisoma sp. TSA61
+Pucciniaceae,809206,-,-,Leaf,-
+Eocronartiaceae,647378,-,-,Leaf,-
+Neidiaceae,72354,missing,ott593706,Leaf,;Neidium affine;Neidium bisulcatum;Neidium productum
+Pleurosigmataceae,518854,missing,ott5342311,Node,;Pleurosigma intermedium;Gyrosigma fasciola;Pleurosigma sp. 102
+Scytosiphonaceae,303539,-,-,Leaf,-
+Armatimonadaceae,257665,-,-,Leaf,-
+Entomoneidaceae,477453,missing,ott60031,Leaf,;Entomoneis sp.;Entomoneis paludosa
+Hyaloscyphaceae,1047456,T,ott51652,Node,-
+Basidiobolaceae,887959,-,-,Leaf,-
+Catenariaceae,858859,T,mrcaott235997ott747554,Leaf,-
+Iamiaceae,967234,-,-,Leaf,-
+Nitrospinaceae,706687,-,-,Leaf,-
+Physciaceae,216195,-,-,Leaf,-
+Halosphaeriaceae,809127,-,-,Leaf,-
+Mischococcaceae,126679,missing,ott517343,Leaf,Mischococcus sphaerocephalus
+Halomonadaceae,578817,-,-,Leaf,-
+Pseudoalteromonadaceae,462337,-,-,Leaf,-
+Protosteliaceae,502081,missing,mrcaott3973ott15653,Node,;Schizoplasmodium cavostelioides;Schizoplasmodiopsis amoeboidea;Clastostelium recurvatum;Nematostelium ovatum;Schizoplasmodiopsis pseudoendospora;Schoutedamoeba minuta
+Bradyrhizobiaceae,810830,-,-,Leaf,-
+Teichosporaceae,5345474,-,-,Leaf,-
+Arenicellaceae,5580747,-,-,Leaf,-
+Geminigeraceae,1017388,missing,ott7645937,Node,;Proteomonas sulcata;Teleaulax amphioxeia;Geminigera cryophila;Teleaulax acuta;Guillardia theta
+Rhodospirillaceae,810826,T,mrcaott143ott13668,Leaf,-
+Plasmodiophoridae,680235,missing,ott423155,Leaf,Spongospora subterranea;Phagomyxa bellerocheae
+Ovulinatidae,166755,-,-,Leaf,-
+Cellulomonadaceae,856876,T,mrcaott73ott138,Node,-
+Enterobacteriaceae,424023,T,ott844192,Node,-
+Notommatidae,71917,-,-,Leaf,-
+Eudubosquellidae,453569,missing,ott1080723,Leaf,;Euduboscquella sp. ex Favella arcuata;Euduboscquella sp. ex Favella panamensis;Euduboscquella sp. ex Tintinnopsis cf. subacuta
+Leptolyngbyaceae,5586450,missing,ott225495,Node,;Leptolyngbya nostocorum;Leptolyngbya sp. CENA350;Trichocoleus desertorum;Leptolyngbya sp. CENA554;Oculatella sp. LEGE 06141;Leptolyngbya scottii;Trichocoleus badius;Nodosilinea bijugata;Leptolyngbya sp. CENA375;Nodosilinea sp. UIC 10073;Leptolyngbya sp. 10;Stenomitos tremulus;Leptolyngbya sp. 13;Nodosilinea sp. LEGE 06145
+Aspergillaceae,5261956,missing,ott800595,Leaf,;Penicillium digitatum;Penicillium polonicum;Penicillium citrinum;Penicillium longicatenatum;Thysanophora penicillioides;Aspergillus janus;Penicillium senticosum;Penicillium sp. 06VT06;Penicillium citreonigrum;Aspergillus westerdijkiae;Penicillium sclerotiorum;Aspergillus ochraceus;Aspergillus pseudoglaucus;Aspergillus ustus;Aspergillus xerophilus;Aspergillus tamarii;Aspergillus terreus;Penicillium corylophilum;Penicillium humicoloides;Aspergillus europaeus;Penicillium manginii;Penicillium nordicum;Penicillium sp.;Penicillium camemberti;Aspergillus sp.;Penicillium glabrum;Penicillium restrictum;Monascus purpureus;Penicillium janthinellum;Aspergillus chlamydosporus;Penicillium sp. OTU060 AN-2016;Aspergillus nomius;Penicillium sp. T31902FG1;Aspergillus niger;Penicillium sp. ShG4C;Penicillium spathulatum;Aspergillus fumigatus;Penicillium sp. GZU-BCECYN45-1;Aspergillus ficuum;Penicillium sp. GW_OTU49;Penicillium sp. NWHC 44736-21-02-02;Penicillium sp. OTU059 AN-2016;Penicillium brevicompactum;Aspergillus sp. NRRL 145;Aspergillus restrictus;Aspergillus udagawae;Aspergillus versicolor;Penicilliopsis zonata;Aspergillus petersonii;Penicillium parviverrucosum;Penicillium atramentosum;Penicillium rubens;Penicillium sp. xz28;Aspergillus cibarius;Penicillium spinulosum;Penicillium singorense;Penicillium sp. CID1245;Neosartorya sp. BAB-4715;Penicillium adametzii;Penicillium solitum;Aspergillus kawachii;Aspergillus oryzae;Aspergillus cavernicola;Penicillium hoeksii;Penicillium sp. 4H1-S0-P5-1;Aspergillus wentii;Penicillium sp. H21;Aspergillus pseudodeflectus;Penicillium virgatum;Aspergillus penicillioides;Penicillium sp. ASR-191;Penicillium adametzioides;Aspergillus stellatus;Penicillium concentricum;Aspergillus flavus
+Chaetocerotaceae,1075857,missing,mrcaott148ott26872,Leaf,;Chaetoceros sp. SS628-11;Chaetoceros sp. UNC1414;Chaetoceros didymus;Chaetoceros gracilis;Chaetoceros tenuissimus;Chaetoceros socialis;Chaetoceros sp. UNC1415;Chaetoceros sp. TG07-C28;Chaetoceros sp. MBTD-CMFRI-S062;Chaetoceros sp. CCAP 1010/16;Chaetoceros radicans;Chaetoceros sp. MBTD-CMFRI-S045;Chaetoceros debilis
+Archaeorhizomycetaceae,600871,-,-,Leaf,-
+Rhynchogastremataceae,4107398,-,-,Leaf,-
+Myxococcaceae,939441,-,-,Leaf,-
+Aizoaceae,367508,-,-,Leaf,-
+Gemmatimonadaceae,264370,-,-,Leaf,-
+Philasteridae,953330,missing,ott310012,Node,;Miamiensis avidus;Plagiopyliella pacifica;Philaster sp. FG-2014;Entorhipidium tenue;Philasterides armatalis
+Capitellidae,966425,-,-,Leaf,-
+Bicosoecidae,733747,-,-,Leaf,-
+Acanthamoebidae,164913,missing,ott509187,Node,;Acanthamoeba lenticulata;Acanthamoeba castellanii;Acanthamoeba sp. isolate U/E10;Acanthamoeba genotype T4;Acanthamoeba sp. KA/E28;Acanthamoeba sp. KA/E18;Acanthamoeba hatchetti;Acanthamoeba sp. KA/E3;Acanthamoeba polyphaga;Acanthamoeba sp. KA/E21;Acanthamoeba sp.;Luapeleamoeba arachisporum
+Scotinosphaeraceae,5233922,-,-,Leaf,-
+Parmeliaceae,305904,-,-,Leaf,-
+Monodopsidaceae,423011,missing,ott93302,Node,Nannochloropsis oceanica;Nannochloropsis granulata;;Nannochloropsis limnetica
+Synergistaceae,437906,-,-,Leaf,-
+Cryptodifflugiidae,134340,-,-,Leaf,-
+Bacteroidaceae,41369,T,mrcaott13148ott24308,Leaf,-
+Microcystaceae,4016880,missing,None,False,Microcystis sp. SAG 43.90
+Erysipelotrichaceae,5248084,T,mrcaott4061ott167751,Leaf,-
+Strophariaceae,590456,T,mrcaott2341ott3252,Node,-
+Anaplasmataceae,904940,-,-,Leaf,-
+Verrucariaceae,525957,-,-,Leaf,-
+Euplotidae,975960,missing,ott5251312,Node,Euplotes harpa;;Euplotes nobilii;Euplotes sp. SNK-2011;Moneuplotes crassus;Euplotes dammamensis;Euplotes qatarensis;Euplotes daidaleos
+Mesostigmataceae,469250,-,-,Leaf,-
+Braconidae,678079,-,-,Leaf,-
+Platanaceae,62537,-,-,Leaf,-
+Chlorellaceae,441644,T,mrcaott39418ott84763,Leaf,-
+Glabratellidae,145056,-,-,Leaf,-
+Albatrellaceae,684071,T,mrcaott82940ott140762,Leaf,-
+Cucurbitariaceae,93060,-,-,Leaf,-
+Dothideaceae,708964,-,-,Leaf,-
+Mrakiaceae,5985457,-,-,Leaf,-
+Anaerolineaceae,974237,-,-,Leaf,-
+Microascaceae,464774,-,-,Node,-
+Oligoflexaceae,5580875,missing,ott4749757,Leaf,Oligoflexus tunisiensis
+Calditrichaceae,7017257,missing,ott4019026,Leaf,;Caldithrix abyssi;Caldithrix sp. Fe55_20;Caldithrix palaeochoryensis
+Bakuellidae,4030697,missing,ott899768,Node,;Metaurostylopsis sinica;Bakuella incheonensis;Metaurostylopsis salina;Metaurostylopsis cheni
+Cryomorphaceae,600685,T,mrcaott1100ott56697,Leaf,-
+Raphidiophryidae,675702,-,-,Leaf,-
+Grossglockneriidae,1091314,missing,ott360274,Leaf,Pseudoplatyophrya nana
+Hibberdiaceae,756854,-,-,Leaf,-
+Paracalanidae,350914,-,-,Leaf,-
+Coccomyxaceae,967443,missing,ott450225,Leaf,Coccomyxa viridis;Coccomyxa subellipsoidea;Coccomyxa simplex;
+Erythrobasidiaceae,480040,-,-,Leaf,-
+Vibrionaceae,181213,-,-,Leaf,-
+Lobulomycetaceae,906923,-,-,Leaf,-
+Lachnospiraceae,16694,T,mrcaott725ott1456,Node,-
+Onagraceae,1015483,-,-,Leaf,-
+Cystofilobasidiaceae,740357,-,-,Leaf,-
+Geastraceae,735798,-,-,Leaf,-
+Planctomycetaceae,839905,-,-,Leaf,-
+Chrysochromulinaceae,282114,missing,ott747196,Node,;Chrysochromulina simplex;Chrysochromulina sp. NIES-1333;Chrysochromulina parkeae;Chrysochromulina scutellum;Chrysochromulina leadbeateri;Chrysochromulina strobilus
+Achnanthidiaceae,573377,missing,ott5342311,Node,Lemnicola hungarica;Achnanthidium minutissimum;Achnanthidium coarctatum
+Rosaceae,208036,-,-,Leaf,-
+Lagenidiaceae,469397,missing,ott263362,Leaf,;Lagenidium sp. DAOM 242348;Lagenidium humanum;Lagenidium sp. PWL-2010h;Lagenidium sp. PWL-2010e;Lagenidium sp. SLG-2014a;Lagenidium giganteum;Lagenidium deciduum;Lagenidium sp. PWL-2010f
+Tetraplosphaeriaceae,798147,-,-,Leaf,-
+Stephanoecidae,349984,-,-,Leaf,-
+Amoebophryaceae,530383,missing,ott9042,Leaf,;Amoebophrya sp. Dinophysis;Amoebophrya sp. ex Gonyaulax polygramma;Amoebophrya sp. ex Prorocentrum minimum
+Trichodinidae,1013757,missing,ott16124,Leaf,;Trichodina domerguei;Urceolaria korschelti;Trichodina meretricis
+Trichomonascaceae,1073640,-,-,Leaf,-
+Wenzhouxiangellaceae,5580738,-,-,Leaf,-
+Cryptosporidiidae,884552,missing,ott775252,Leaf,;Cryptosporidium canis;Cryptosporidium sp. CSP06;Cryptosporidium sp. Sbld05c;Cryptosporidium andersoni;Cryptosporidium baileyi;Cryptosporidium struthionis;Cryptosporidium meleagridis;Cryptosporidium parvum;Cryptosporidium bovis;Cryptosporidium muris;Cryptosporidium sp. Pig 1;Cryptosporidium wrairi;Cryptosporidium felis
+Gonyaulacaceae,850166,T,mrcaott5244ott8394,Node,-
+Mortierellaceae,887963,-,-,Leaf,-
+Plectosphaerellaceae,989246,T,ott971709,Node,-
+Eustigmataceae,423014,missing,ott423008,Node,Vischeria sp. CAUP Q 202;Eustigmatos magnus;Eustigmatos polyphem;
+Rhizopodaceae,4925961,-,-,Leaf,-
+Melanogastraceae,82495,missing,mrcaott4352ott18577,Leaf,;Alpova sp. TK1622;Alpova trappei;Alpova diplophloeus;Alpova alpestris;Melanogaster ambiguus;Melanogaster euryspermus;Melanogaster sp. SOC1321;Melanogaster variegatus
+Spathidiidae,613621,missing,ott702768,Leaf,;Spathidium rectitoratum;Spathidium papilliferum
+Beijerinckiaceae,377931,-,-,Leaf,-
+Thoracosphaeraceae,4924792,T,mrcaott32008ott32010,Leaf,-
+Cladosporiaceae,5345481,T,ott971709,Node,-
+Chitinophagaceae,1097171,-,-,Leaf,-
+Dacrymycetaceae,234863,T,ott17233,Leaf,-
+Mesodiniidae,182636,-,-,Leaf,-
+Ustilaginaceae,809218,T,mrcaott9098ott13162,Leaf,-
+Clostridiales Family XIII. Incertae Sedis,None,missing,None,False,;Aminipila butyrica;Anaerovorax sp. E109;Anaerovorax sp. enrichment culture clone D2CL_Bac_16S_Clone16
+Oleaceae,23723,-,-,Leaf,-
+Marasmiaceae,371255,T,ott1012685,Node,-
+Cortinariaceae,5344590,T,ott1012685,Node,-
+Phyllostictaceae,5298563,-,-,Leaf,-
+Lasiosphaeriaceae,234778,-,-,Leaf,-
+Spizellomycetaceae,110110,-,-,Leaf,-
+Prorodontidae,1010085,-,-,Leaf,-
+Myriangiaceae,295792,-,-,Leaf,-
+Rep1,None,missing,None,False,
+Capnodiaceae,295196,-,-,Leaf,-
+Amphisphaeriaceae,550724,T,ott565288,Node,-
+Olpidiaceae,41885,-,-,Leaf,-
+Raspailiidae,595805,T,ott588758,Node,-
+Oceanospirillaceae,767327,-,-,Leaf,-
