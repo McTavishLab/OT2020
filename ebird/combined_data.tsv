@@ -1,5 +1,4 @@
 TAXON_ORDER	CATEGORY	SPECIES_CODE	PRIMARY_COM_NAME	SCI_NAME	ORDER1	FAMILY	SPECIES_GROUP	REPORT_AS	ottid	parent_ottid	name	rank	source	uniqname	flags	match_type
-﻿TAXON_ORDER	CATEGORY	SPECIES_CODE	PRIMARY_COM_NAME	SCI_NAME	ORDER1	FAMILY	SPECIES_GROUP	REPORT_AS	-	-	-	-	-	-	-	unmatched
 1	species	ostric2	Common Ostrich	Struthio camelus	Struthioniformes	Struthionidae (Ostriches)	Ostriches		647692	292466	Struthio camelus	species	ncbi:8801,gbif:2495150,irmng:10199490			canonical_match
 6	species	ostric3	Somali Ostrich	Struthio molybdophanes	Struthioniformes	Struthionidae (Ostriches)			3600823	292466	Struthio molybdophanes	species	gbif:2495149			canonical_match
 7	slash	y00934	Common/Somali Ostrich	Struthio camelus/molybdophanes	Struthioniformes	Struthionidae (Ostriches)			-	-	-	-	-	-	-	unmatched
