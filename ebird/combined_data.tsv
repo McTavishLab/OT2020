@@ -6775,7 +6775,7 @@ TAXON_ORDER	CATEGORY	SPECIES_CODE	PRIMARY_COM_NAME	SCI_NAME	ORDER1	FAMILY	SPECIE
 12639	species	sanpit1	Sangihe Pitta	Erythropitta caeruleitorques	Passeriformes	Pittidae (Pittas)			4131308	3598672	Erythropitta erythrogaster caeruleitorques	subspecies	ncbi:1316420		infraspecific	hand_match_eliot
 12640	species	siapit1	Siao Pitta	Erythropitta palliceps	Passeriformes	Pittidae (Pittas)			4131290	3598672	Erythropitta erythrogaster palliceps	subspecies	ncbi:1316437		infraspecific	hand_match_eliot
 12641	species	sulpit3	Sulawesi Pitta	Erythropitta celebensis	Passeriformes	Pittidae (Pittas)			4131309	3598672	Erythropitta erythrogaster celebensis	subspecies	ncbi:1316421		infraspecific	hand_match_eliot
-12642	species	sulpit1	Sula Pitta	Erythropitta dohertyi	Passeriformes	Pittidae (Pittas)			-	-	-	-	-	-	-	unmatched
+12642	species	sulpit1	Sula Pitta	Erythropitta dohertyi	Passeriformes	Pittidae (Pittas)	5560091	44875 Pitta dohertyi	species	irmng:10716923	species	hand_match_eliot
 12643	species	molpit1	North Moluccan Pitta	Erythropitta rufiventris	Passeriformes	Pittidae (Pittas)			4131297	3598672	Erythropitta erythrogaster rufiventris	subspecies	ncbi:1316441		infraspecific	hand_match_eliot
 12647	species	sompit1	South Moluccan Pitta	Erythropitta rubrinucha	Passeriformes	Pittidae (Pittas)			4131296	3598672	Erythropitta erythrogaster rubrinucha	subspecies	ncbi:1316440		infraspecific	hand_match_eliot
 12650	species	pappit1	Papuan Pitta	Erythropitta macklotii	Passeriformes	Pittidae (Pittas)			4131286	3598672	Erythropitta erythrogaster macklotii	subspecies	ncbi:1316433		infraspecific	hand_match_eliot
